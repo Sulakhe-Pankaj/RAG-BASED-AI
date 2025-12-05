@@ -1,0 +1,1727 @@
+{
+    "chunks": [
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 0.0,
+            "end": 3.5,
+            "text": " Next, we will talk about name attribute in forms."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 3.5,
+            "end": 9.38,
+            "text": " Whenever I submit information from my form, it is always in the name-value pair."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 9.38,
+            "end": 13.46,
+            "text": " For example, if I enter a username in any input,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 13.46,
+            "end": 19.400000000000002,
+            "text": " then I have to send a name-value pair for the information of that username."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 19.400000000000002,
+            "end": 24.080000000000002,
+            "text": " In which the value will be the text that I have entered in the username input box,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 24.080000000000002,
+            "end": 27.14,
+            "text": " and the name will be the attribute that I am defining."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 27.22,
+            "end": 32.02,
+            "text": " So, I always have to define attributes with my input."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 32.02,
+            "end": 35.14,
+            "text": " So that in the backend or wherever my data has been sent,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 35.14,
+            "end": 39.86,
+            "text": " I can find out what information has been entered in the input box."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 39.86,
+            "end": 42.82,
+            "text": " So, whatever I enter in the input box,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 42.82,
+            "end": 46.260000000000005,
+            "text": " to access it, to refer it,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 46.260000000000005,
+            "end": 50.34,
+            "text": " the name we use, we define it in the name attribute."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 50.34,
+            "end": 52.34,
+            "text": " Let's see a small example of this."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 52.74,
+            "end": 58.580000000000005,
+            "text": " I am going to remove all this information in the form and only keep my username and password."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 58.580000000000005,
+            "end": 60.580000000000005,
+            "text": " So, let's refresh this form once."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 60.580000000000005,
+            "end": 62.580000000000005,
+            "text": " Let's remove this hello button from here."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 64.34,
+            "end": 66.9,
+            "text": " I have two things, username and my password."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 66.9,
+            "end": 70.82000000000001,
+            "text": " Now, in the username, as soon as I submit some information,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 70.82000000000001,
+            "end": 72.82000000000001,
+            "text": " let's assume I wrote abcd here,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 72.82000000000001,
+            "end": 74.82000000000001,
+            "text": " and in the password also wrote abcd."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 74.82000000000001,
+            "end": 80.10000000000001,
+            "text": " Now, let's add one more extra thing here, which is my submit button."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 82.5,
+            "end": 84.5,
+            "text": " Let's refresh it again."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 84.5,
+            "end": 88.18,
+            "text": " abcd, abcd and submit."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 88.18,
+            "end": 90.18,
+            "text": " What happens after submitting?"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 90.18,
+            "end": 92.9,
+            "text": " My file is processed and I am redirected to this link."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 92.9,
+            "end": 97.7,
+            "text": " But here, as soon as I give a name to the username,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 97.7,
+            "end": 100.66,
+            "text": " I mean, I will give a name to this input type."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 100.66,
+            "end": 104.34,
+            "text": " Let's assume we keep its name equal to username."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 104.34,
+            "end": 108.34,
+            "text": " Here, this thing will seem confusing to you that the ID is also username,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 108.34,
+            "end": 110.34,
+            "text": " I could have written username in the placeholder only,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 110.34,
+            "end": 111.94,
+            "text": " but I am not confused with it."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 112.02,
+            "end": 114.02,
+            "text": " Basically, a good similarity is being made,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 114.02,
+            "end": 117.22,
+            "text": " that's why I have written username in the name."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 117.22,
+            "end": 120.25999999999999,
+            "text": " Now, I am going to save this and refresh it."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 120.25999999999999,
+            "end": 122.25999999999999,
+            "text": " Again, I will enter abcd in the username,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 122.25999999999999,
+            "end": 124.25999999999999,
+            "text": " and in the password, I will enter abcd."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 124.25999999999999,
+            "end": 126.25999999999999,
+            "text": " And now I am going to submit."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 126.25999999999999,
+            "end": 128.98,
+            "text": " Now, the URL seems a little different."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 128.98,
+            "end": 130.98,
+            "text": " Let me copy and paste it here."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 130.98,
+            "end": 132.98,
+            "text": " Now, what is visible in the URL?"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 132.98,
+            "end": 134.98,
+            "text": " The part up to the server is fine,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 134.98,
+            "end": 139.78,
+            "text": " because it is the same thing that I put in the action of my form."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 139.86,
+            "end": 143.86,
+            "text": " But after that, I can see username equals abcd."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 143.86,
+            "end": 147.86,
+            "text": " So, this username is basically a name."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 147.86,
+            "end": 150.66,
+            "text": " This is the name that I have given to my input,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 150.66,
+            "end": 152.66,
+            "text": " and after that, its value has come."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 152.66,
+            "end": 154.66,
+            "text": " What value did I put in it?"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 154.66,
+            "end": 157.94,
+            "text": " The value that I put in the form, that was equal to abcd."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 157.94,
+            "end": 161.06,
+            "text": " So, all the information that I send in the form,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 161.06,
+            "end": 164.26,
+            "text": " is sent in the form of name equals value."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 164.26,
+            "end": 168.26,
+            "text": " Where the name is the name of my name attribute in the input element,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 168.26,
+            "end": 173.06,
+            "text": " and the value is the value that I actually add in the input element."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 173.06,
+            "end": 178.57999999999998,
+            "text": " If I had written a query instead of a username,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 178.57999999999998,
+            "end": 180.57999999999998,
+            "text": " let's remove it,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 180.57999999999998,
+            "end": 182.57999999999998,
+            "text": " let's save it,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 182.57999999999998,
+            "end": 184.57999999999998,
+            "text": " now I have written the name as a query."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 184.57999999999998,
+            "end": 186.57999999999998,
+            "text": " Now, if I refresh it,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 186.57999999999998,
+            "end": 188.57999999999998,
+            "text": " and I am going to write abcd here again,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 188.57999999999998,
+            "end": 190.57999999999998,
+            "text": " I entered my password and submitted it."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 190.57999999999998,
+            "end": 194.01999999999998,
+            "text": " So, here it is written that query equals abcd."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 194.01999999999998,
+            "end": 197.29999999999998,
+            "text": " Query means the name that I gave to my input element,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 197.3,
+            "end": 201.46,
+            "text": " and abcd means the value that I entered in the input element."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 201.46,
+            "end": 207.3,
+            "text": " So, in this way, we give a name attribute to the value that we want to refer,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 207.3,
+            "end": 209.3,
+            "text": " after the submission of a form."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 209.3,
+            "end": 213.70000000000002,
+            "text": " By default, in general, the name attribute in the form is not compulsory,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 213.70000000000002,
+            "end": 216.82000000000002,
+            "text": " but whenever we make our form and make input elements in it,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 216.82000000000002,
+            "end": 221.38000000000002,
+            "text": " we will always define a name attribute in it."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 221.38000000000002,
+            "end": 225.3,
+            "text": " Because we want the information that we are sending in the form of the data of the form,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 225.3,
+            "end": 227.3,
+            "text": " to be accessible in the backend,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 227.3,
+            "end": 229.3,
+            "text": " and to access it, we use the name attribute."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 229.3,
+            "end": 234.26000000000002,
+            "text": " Similarly, I give the name again, username,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 234.26000000000002,
+            "end": 238.74,
+            "text": " and here in the input, I define another name attribute,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 238.74,
+            "end": 240.74,
+            "text": " we give it the name password."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 240.74,
+            "end": 242.74,
+            "text": " Usually, the name we keep is a little small,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 242.74,
+            "end": 244.74,
+            "text": " so here, instead of username, we keep only user,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 244.74,
+            "end": 246.74,
+            "text": " and instead of password, we keep only pass."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 246.74,
+            "end": 253.54000000000002,
+            "text": " So, the value of our name attribute is generally a little small."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 253.54,
+            "end": 257.53999999999996,
+            "text": " Now, I write the password here, and I submit it,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 257.53999999999996,
+            "end": 262.74,
+            "text": " so I can see above that the user is equal to abcd, and the pass is equal to abcd."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 262.74,
+            "end": 264.74,
+            "text": " That is, the value that I entered in the username,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 264.74,
+            "end": 266.74,
+            "text": " and the value that I entered in the password,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 266.74,
+            "end": 270.5,
+            "text": " now passes with my URL."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 270.5,
+            "end": 273.21999999999997,
+            "text": " That is, the information is being passed here."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 273.21999999999997,
+            "end": 276.5,
+            "text": " Now, this is a very unsafe way to pass information,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 276.5,
+            "end": 278.5,
+            "text": " because as soon as I submit a form,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 279.46,
+            "end": 284.1,
+            "text": " so it is not necessary that the URL goes only to the backend server,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 284.1,
+            "end": 286.1,
+            "text": " there are many different entities in between,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 286.1,
+            "end": 288.1,
+            "text": " to whom the URL goes,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 288.1,
+            "end": 291.86,
+            "text": " so in the URL, generally, we do not pass sensitive information."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 291.86,
+            "end": 293.86,
+            "text": " So, here my password is very sensitive information,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 293.86,
+            "end": 295.86,
+            "text": " which is visible in my URL,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 295.86,
+            "end": 297.86,
+            "text": " which should not be visible."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 297.86,
+            "end": 299.86,
+            "text": " If you log in on Instagram,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 299.86,
+            "end": 301.86,
+            "text": " if you log in on Facebook,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 301.86,
+            "end": 303.86,
+            "text": " or log in on any other website,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 303.86,
+            "end": 305.86,
+            "text": " there we do not see the passwords in the URL,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 305.86,
+            "end": 307.86,
+            "text": " but here we see."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 307.86,
+            "end": 309.86,
+            "text": " So, this is a very unsafe way."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 309.86,
+            "end": 311.86,
+            "text": " So, when we read about HTTP protocols in JavaScript,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 311.86,
+            "end": 313.86,
+            "text": " about GET request,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 313.86,
+            "end": 315.86,
+            "text": " about POST request,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 315.86,
+            "end": 319.86,
+            "text": " then we will know how to remove this information from our URL."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 319.86,
+            "end": 323.86,
+            "text": " Now, all the data is being passed in the form of GET request,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 323.86,
+            "end": 325.86,
+            "text": " but when we start using POST request,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 325.86,
+            "end": 329.86,
+            "text": " then we will be able to remove this password from our URL,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 329.86,
+            "end": 331.86,
+            "text": " and the rest of the sensitive information from the URL."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 331.86,
+            "end": 333.86,
+            "text": " But for now, we have to ignore that thing."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 333.86,
+            "end": 335.86,
+            "text": " For now, just pay attention to this thing,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 335.86,
+            "end": 337.86,
+            "text": " that as soon as I defined the name,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 337.86,
+            "end": 339.86,
+            "text": " the name is equal to value."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 339.86,
+            "end": 341.86,
+            "text": " We can see the same thing in Google search."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 341.86,
+            "end": 343.86,
+            "text": " If I go to google.com,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 343.86,
+            "end": 345.86,
+            "text": " and let's say I searched for Apple,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 345.86,
+            "end": 347.86,
+            "text": " as soon as I searched for Apple,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 347.86,
+            "end": 349.86,
+            "text": " if I observe the URL,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 349.86,
+            "end": 351.86,
+            "text": " then here comes google.com,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 351.86,
+            "end": 353.86,
+            "text": " search question mark,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 353.86,
+            "end": 355.86,
+            "text": " but after that comes"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 355.86,
+            "end": 357.86,
+            "text": " Q is equal to Apple."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 357.86,
+            "end": 359.86,
+            "text": " I just have to see this part,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 359.86,
+            "end": 361.86,
+            "text": " not the next part."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 361.86,
+            "end": 363.86,
+            "text": " Q is equal to Apple."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 363.86,
+            "end": 365.86,
+            "text": " And if I search for Mango instead of Apple,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 365.86,
+            "end": 367.86,
+            "text": " then here comes Q is equal to Mango."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 369.86,
+            "end": 371.86,
+            "text": " If I search for watch instead of this,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 371.86,
+            "end": 373.86,
+            "text": " then here comes Q is equal to watch."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 375.86,
+            "end": 377.86,
+            "text": " So here too,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 377.86,
+            "end": 379.86,
+            "text": " this is a pair of name is equal to value,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 379.86,
+            "end": 381.86,
+            "text": " which is being made on Google."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 381.86,
+            "end": 383.86,
+            "text": " We can observe the same thing on YouTube."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 383.86,
+            "end": 385.86,
+            "text": " If I search for Apple on YouTube,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 385.86,
+            "end": 387.86,
+            "text": " then here comes search query is equal to Apple."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 389.86,
+            "end": 391.86,
+            "text": " If I search for Microsoft,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 391.86,
+            "end": 393.86,
+            "text": " then here comes search query is equal to Microsoft."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 395.86,
+            "end": 397.86,
+            "text": " So in this input box,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 397.86,
+            "end": 399.86,
+            "text": " the information we are typing on YouTube,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 399.86,
+            "end": 401.86,
+            "text": " is also being typed in the input box."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 401.86,
+            "end": 403.86,
+            "text": " For this input box,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 403.86,
+            "end": 405.86,
+            "text": " the name that YouTube has defined,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 405.86,
+            "end": 407.86,
+            "text": " that is equal to search query."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 407.86,
+            "end": 409.86,
+            "text": " And for this input box,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 409.86,
+            "end": 411.86,
+            "text": " the name that Google has defined,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 411.86,
+            "end": 413.86,
+            "text": " that is equal to Q."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 413.86,
+            "end": 415.86,
+            "text": " Now if I want,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 415.86,
+            "end": 417.86,
+            "text": " then I can directly search things on YouTube."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 417.86,
+            "end": 419.86,
+            "text": " That means whatever search is done on YouTube,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 419.86,
+            "end": 421.86,
+            "text": " like if I search for Google instead of Microsoft,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 421.86,
+            "end": 423.86,
+            "text": " then what happens?"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 423.86,
+            "end": 425.86,
+            "text": " The rest of the URL remains the same."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 425.86,
+            "end": 427.86,
+            "text": " Only the change happens."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 427.86,
+            "end": 429.86,
+            "text": " This search query is equal to something."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 429.86,
+            "end": 431.86,
+            "text": " So what can I do?"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 431.86,
+            "end": 433.86,
+            "text": " If I copy this YouTube URL,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 433.86,
+            "end": 435.86,
+            "text": " and make it in my form URL,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 435.86,
+            "end": 437.86,
+            "text": " or in fact,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 437.86,
+            "end": 439.86,
+            "text": " if I create a separate form,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 439.86,
+            "end": 441.86,
+            "text": " let's assume I created this separate form,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 441.86,
+            "end": 443.86,
+            "text": " and what am I going to do in the action of this form?"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 443.86,
+            "end": 445.86,
+            "text": " In the action,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 445.86,
+            "end": 447.86,
+            "text": " I will copy the entire URL of YouTube."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 447.86,
+            "end": 449.86,
+            "text": " And here I will give an input box,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 451.86,
+            "end": 453.86,
+            "text": " whose type I will write text."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 453.86,
+            "end": 455.86,
+            "text": " And in this,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 455.86,
+            "end": 457.86,
+            "text": " I will make a placeholder."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 457.86,
+            "end": 459.86,
+            "text": " Search in YouTube."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 461.86,
+            "end": 463.86,
+            "text": " And I will give it a name,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 463.86,
+            "end": 465.86,
+            "text": " which is equal to this search query."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 465.86,
+            "end": 467.86,
+            "text": " I have given it a name equal to search query."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 467.86,
+            "end": 469.86,
+            "text": " Search underscore query."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 469.86,
+            "end": 471.86,
+            "text": " And lastly,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 471.86,
+            "end": 473.86,
+            "text": " I have given a button"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 473.86,
+            "end": 475.86,
+            "text": " which is equal to search query."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 475.86,
+            "end": 477.86,
+            "text": " And lastly,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 477.86,
+            "end": 479.86,
+            "text": " I have given a button which is equal to submit button."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 479.86,
+            "end": 481.86,
+            "text": " Or I can call it search button."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 481.86,
+            "end": 483.86,
+            "text": " Now here in the action,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 483.86,
+            "end": 485.86,
+            "text": " I am going to keep the results in the URL."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 485.86,
+            "end": 487.86,
+            "text": " Because question mark"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 487.86,
+            "end": 489.86,
+            "text": " and search query are equal."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 489.86,
+            "end": 491.86,
+            "text": " All these things"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 491.86,
+            "end": 493.86,
+            "text": " automatically add to the URL"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 493.86,
+            "end": 495.86,
+            "text": " as soon as my form is submitted."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 495.86,
+            "end": 497.86,
+            "text": " So I will remove this information."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 497.86,
+            "end": 499.86,
+            "text": " I will save it."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 499.86,
+            "end": 501.86,
+            "text": " And now I will refresh my page."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 501.86,
+            "end": 503.86,
+            "text": " So this is my separate form."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 503.86,
+            "end": 505.86,
+            "text": " In fact,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 505.86,
+            "end": 507.86,
+            "text": " I will give a horizontal line here."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 507.86,
+            "end": 509.86,
+            "text": " In the form of HR."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 509.86,
+            "end": 511.86,
+            "text": " So this is my second form."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 511.86,
+            "end": 513.86,
+            "text": " In the second form,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 513.86,
+            "end": 515.86,
+            "text": " I have an input box,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 515.86,
+            "end": 517.86,
+            "text": " in which I can type any text."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 517.86,
+            "end": 519.86,
+            "text": " And I have a search button."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 519.86,
+            "end": 521.86,
+            "text": " Now here I am going to type"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 521.86,
+            "end": 523.86,
+            "text": " Apple."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 523.86,
+            "end": 525.86,
+            "text": " As soon as I type Apple and click on search,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 525.86,
+            "end": 527.86,
+            "text": " what happened?"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 527.86,
+            "end": 529.86,
+            "text": " Whatever I searched,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 529.86,
+            "end": 531.86,
+            "text": " it was converted into YouTube search."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 531.86,
+            "end": 533.86,
+            "text": " Because YouTube,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 533.86,
+            "end": 535.86,
+            "text": " from where I get the results,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 535.86,
+            "end": 537.86,
+            "text": " I sent a request"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 537.86,
+            "end": 539.86,
+            "text": " to the same URL in my HTML form."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 539.86,
+            "end": 541.86,
+            "text": " So now I understood"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 541.86,
+            "end": 543.86,
+            "text": " what action actually does."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 543.86,
+            "end": 545.86,
+            "text": " Action sends the data of my input box"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 545.86,
+            "end": 547.86,
+            "text": " to this URL."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 547.86,
+            "end": 549.86,
+            "text": " As soon as action"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 549.86,
+            "end": 551.86,
+            "text": " sends the data of my input box to this URL,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 551.86,
+            "end": 553.86,
+            "text": " similarly,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 553.86,
+            "end": 555.86,
+            "text": " a question mark will be placed here."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 555.86,
+            "end": 557.86,
+            "text": " Then my name will come."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 557.86,
+            "end": 559.86,
+            "text": " Search query's name will come."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 559.86,
+            "end": 561.86,
+            "text": " By typing search query is equal to something,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 561.86,
+            "end": 563.86,
+            "text": " a proper actual URL of YouTube"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 563.86,
+            "end": 565.86,
+            "text": " will be created."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 565.86,
+            "end": 567.86,
+            "text": " With the help of this,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 567.86,
+            "end": 569.86,
+            "text": " whatever I am typing in the input of a simple web page,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 569.86,
+            "end": 571.86,
+            "text": " it will go to YouTube"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 571.86,
+            "end": 573.86,
+            "text": " on YouTube servers."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 573.86,
+            "end": 575.86,
+            "text": " And there will be a search in YouTube."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 575.86,
+            "end": 577.86,
+            "text": " And I will start seeing a YouTube page."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 577.86,
+            "end": 579.86,
+            "text": " But if here instead of search query,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 579.86,
+            "end": 581.86,
+            "text": " I just write search queue,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 581.86,
+            "end": 583.86,
+            "text": " by saving it,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 583.86,
+            "end": 585.86,
+            "text": " if I refresh again,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 585.86,
+            "end": 587.86,
+            "text": " and now if I type Apple here,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 587.86,
+            "end": 589.86,
+            "text": " then I will see that"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 589.86,
+            "end": 591.86,
+            "text": " no results are found."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 591.86,
+            "end": 593.86,
+            "text": " No results are found because"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 593.86,
+            "end": 595.86,
+            "text": " there is nothing like search queue in YouTube."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 595.86,
+            "end": 597.86,
+            "text": " URL of YouTube is fixed."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 597.86,
+            "end": 599.86,
+            "text": " What comes in the URL of YouTube?"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 599.86,
+            "end": 601.86,
+            "text": " Search query will always be searched."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 601.86,
+            "end": 603.86,
+            "text": " So that's why it didn't understand what is search queue."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 603.86,
+            "end": 605.86,
+            "text": " So if I want to connect my web page"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 605.86,
+            "end": 607.86,
+            "text": " with a normal existing"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 607.86,
+            "end": 609.86,
+            "text": " big website,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 609.86,
+            "end": 611.86,
+            "text": " then simply I have to see its URL."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 611.86,
+            "end": 613.86,
+            "text": " In that, I have to see that"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 613.86,
+            "end": 615.86,
+            "text": " for which information I am searching,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 615.86,
+            "end": 617.86,
+            "text": " what is the name of my input element"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 617.86,
+            "end": 619.86,
+            "text": " in the value that is being passed."
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 619.86,
+            "end": 621.86,
+            "text": " By seeing these simple basic things,"
+        },
+        {
+            "number": "09",
+            "title": "Name Attribute",
+            "start": 621.86,
+            "end": 623.86,
+            "text": " I can connect my two different pages."
+        }
+    ],
+    "text": " Next, we will talk about name attribute in forms. Whenever I submit information from my form, it is always in the name-value pair. For example, if I enter a username in any input, then I have to send a name-value pair for the information of that username. In which the value will be the text that I have entered in the username input box, and the name will be the attribute that I am defining. So, I always have to define attributes with my input. So that in the backend or wherever my data has been sent, I can find out what information has been entered in the input box. So, whatever I enter in the input box, to access it, to refer it, the name we use, we define it in the name attribute. Let's see a small example of this. I am going to remove all this information in the form and only keep my username and password. So, let's refresh this form once. Let's remove this hello button from here. I have two things, username and my password. Now, in the username, as soon as I submit some information, let's assume I wrote abcd here, and in the password also wrote abcd. Now, let's add one more extra thing here, which is my submit button. Let's refresh it again. abcd, abcd and submit. What happens after submitting? My file is processed and I am redirected to this link. But here, as soon as I give a name to the username, I mean, I will give a name to this input type. Let's assume we keep its name equal to username. Here, this thing will seem confusing to you that the ID is also username, I could have written username in the placeholder only, but I am not confused with it. Basically, a good similarity is being made, that's why I have written username in the name. Now, I am going to save this and refresh it. Again, I will enter abcd in the username, and in the password, I will enter abcd. And now I am going to submit. Now, the URL seems a little different. Let me copy and paste it here. Now, what is visible in the URL? The part up to the server is fine, because it is the same thing that I put in the action of my form. But after that, I can see username equals abcd. So, this username is basically a name. This is the name that I have given to my input, and after that, its value has come. What value did I put in it? The value that I put in the form, that was equal to abcd. So, all the information that I send in the form, is sent in the form of name equals value. Where the name is the name of my name attribute in the input element, and the value is the value that I actually add in the input element. If I had written a query instead of a username, let's remove it, let's save it, now I have written the name as a query. Now, if I refresh it, and I am going to write abcd here again, I entered my password and submitted it. So, here it is written that query equals abcd. Query means the name that I gave to my input element, and abcd means the value that I entered in the input element. So, in this way, we give a name attribute to the value that we want to refer, after the submission of a form. By default, in general, the name attribute in the form is not compulsory, but whenever we make our form and make input elements in it, we will always define a name attribute in it. Because we want the information that we are sending in the form of the data of the form, to be accessible in the backend, and to access it, we use the name attribute. Similarly, I give the name again, username, and here in the input, I define another name attribute, we give it the name password. Usually, the name we keep is a little small, so here, instead of username, we keep only user, and instead of password, we keep only pass. So, the value of our name attribute is generally a little small. Now, I write the password here, and I submit it, so I can see above that the user is equal to abcd, and the pass is equal to abcd. That is, the value that I entered in the username, and the value that I entered in the password, now passes with my URL. That is, the information is being passed here. Now, this is a very unsafe way to pass information, because as soon as I submit a form, so it is not necessary that the URL goes only to the backend server, there are many different entities in between, to whom the URL goes, so in the URL, generally, we do not pass sensitive information. So, here my password is very sensitive information, which is visible in my URL, which should not be visible. If you log in on Instagram, if you log in on Facebook, or log in on any other website, there we do not see the passwords in the URL, but here we see. So, this is a very unsafe way. So, when we read about HTTP protocols in JavaScript, about GET request, about POST request, then we will know how to remove this information from our URL. Now, all the data is being passed in the form of GET request, but when we start using POST request, then we will be able to remove this password from our URL, and the rest of the sensitive information from the URL. But for now, we have to ignore that thing. For now, just pay attention to this thing, that as soon as I defined the name, the name is equal to value. We can see the same thing in Google search. If I go to google.com, and let's say I searched for Apple, as soon as I searched for Apple, if I observe the URL, then here comes google.com, search question mark, but after that comes Q is equal to Apple. I just have to see this part, not the next part. Q is equal to Apple. And if I search for Mango instead of Apple, then here comes Q is equal to Mango. If I search for watch instead of this, then here comes Q is equal to watch. So here too, this is a pair of name is equal to value, which is being made on Google. We can observe the same thing on YouTube. If I search for Apple on YouTube, then here comes search query is equal to Apple. If I search for Microsoft, then here comes search query is equal to Microsoft. So in this input box, the information we are typing on YouTube, is also being typed in the input box. For this input box, the name that YouTube has defined, that is equal to search query. And for this input box, the name that Google has defined, that is equal to Q. Now if I want, then I can directly search things on YouTube. That means whatever search is done on YouTube, like if I search for Google instead of Microsoft, then what happens? The rest of the URL remains the same. Only the change happens. This search query is equal to something. So what can I do? If I copy this YouTube URL, and make it in my form URL, or in fact, if I create a separate form, let's assume I created this separate form, and what am I going to do in the action of this form? In the action, I will copy the entire URL of YouTube. And here I will give an input box, whose type I will write text. And in this, I will make a placeholder. Search in YouTube. And I will give it a name, which is equal to this search query. I have given it a name equal to search query. Search underscore query. And lastly, I have given a button which is equal to search query. And lastly, I have given a button which is equal to submit button. Or I can call it search button. Now here in the action, I am going to keep the results in the URL. Because question mark and search query are equal. All these things automatically add to the URL as soon as my form is submitted. So I will remove this information. I will save it. And now I will refresh my page. So this is my separate form. In fact, I will give a horizontal line here. In the form of HR. So this is my second form. In the second form, I have an input box, in which I can type any text. And I have a search button. Now here I am going to type Apple. As soon as I type Apple and click on search, what happened? Whatever I searched, it was converted into YouTube search. Because YouTube, from where I get the results, I sent a request to the same URL in my HTML form. So now I understood what action actually does. Action sends the data of my input box to this URL. As soon as action sends the data of my input box to this URL, similarly, a question mark will be placed here. Then my name will come. Search query's name will come. By typing search query is equal to something, a proper actual URL of YouTube will be created. With the help of this, whatever I am typing in the input of a simple web page, it will go to YouTube on YouTube servers. And there will be a search in YouTube. And I will start seeing a YouTube page. But if here instead of search query, I just write search queue, by saving it, if I refresh again, and now if I type Apple here, then I will see that no results are found. No results are found because there is nothing like search queue in YouTube. URL of YouTube is fixed. What comes in the URL of YouTube? Search query will always be searched. So that's why it didn't understand what is search queue. So if I want to connect my web page with a normal existing big website, then simply I have to see its URL. In that, I have to see that for which information I am searching, what is the name of my input element in the value that is being passed. By seeing these simple basic things, I can connect my two different pages."
+}

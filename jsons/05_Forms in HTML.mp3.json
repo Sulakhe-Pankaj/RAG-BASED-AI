@@ -1,0 +1,950 @@
+{
+    "chunks": [
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 0.0,
+            "end": 5.24,
+            "text": " In the next part, we will talk about an important concept of HTML, i.e. forms."
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 5.24,
+            "end": 9.66,
+            "text": " The work of forms is to collect data in real life and HTML."
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 9.66,
+            "end": 13.66,
+            "text": " We have seen many such forms on different websites."
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 13.66,
+            "end": 15.66,
+            "text": " I am showing you an example of Instagram."
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 15.66,
+            "end": 18.66,
+            "text": " Where I am given some options to type something,"
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 18.66,
+            "end": 21.46,
+            "text": " there is a place to type this password, then I have a button"
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 21.46,
+            "end": 24.66,
+            "text": " with which I submit all the information to Instagram."
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 24.82,
+            "end": 30.82,
+            "text": " In the same way, when we create an account on Instagram, Facebook or WhatsApp,"
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 30.82,
+            "end": 33.82,
+            "text": " we have to type our number first, then we get the OTP,"
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 33.82,
+            "end": 35.82,
+            "text": " and then we get the account."
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 35.82,
+            "end": 39.82,
+            "text": " So whenever we go to a website or app as a new user,"
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 39.82,
+            "end": 43.82,
+            "text": " or whenever we log in, register, sign up, try to contact,"
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 43.82,
+            "end": 47.82,
+            "text": " then we see different forms on different websites."
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 47.82,
+            "end": 50.82,
+            "text": " One or two examples of this can be like this."
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 50.98,
+            "end": 52.980000000000004,
+            "text": " If I search on the internet,"
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 52.980000000000004,
+            "end": 54.980000000000004,
+            "text": " log in to Instagram."
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 56.980000000000004,
+            "end": 60.980000000000004,
+            "text": " So in this way, after clicking on the first link,"
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 60.980000000000004,
+            "end": 62.980000000000004,
+            "text": " I will have a form display."
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 62.980000000000004,
+            "end": 65.98,
+            "text": " Here I can fill my phone number, username, email address,"
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 65.98,
+            "end": 67.98,
+            "text": " I will have a password here,"
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 67.98,
+            "end": 69.98,
+            "text": " I will have a username here."
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 69.98,
+            "end": 73.98,
+            "text": " Now there are different things in the forms that we notice."
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 73.98,
+            "end": 76.98,
+            "text": " When we type the username, it is visible,"
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 76.98,
+            "end": 79.98,
+            "text": " but whenever we type the password, it is visible in the form of dot."
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 80.14,
+            "end": 84.14,
+            "text": " So that no one can see our password when we type it."
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 84.14,
+            "end": 87.14,
+            "text": " So in this way, there are many things in the form,"
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 87.14,
+            "end": 89.14,
+            "text": " which are small things in detail that matter."
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 89.14,
+            "end": 91.14,
+            "text": " This login is a button in itself,"
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 91.14,
+            "end": 95.14,
+            "text": " after clicking it, an action is performed."
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 95.14,
+            "end": 97.14,
+            "text": " Now the action was performed,"
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 97.14,
+            "end": 99.14,
+            "text": " he checked the phone number, password is wrong,"
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 99.14,
+            "end": 101.14,
+            "text": " so we saw an error message."
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 101.14,
+            "end": 103.14,
+            "text": " If I click on sign up,"
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 103.14,
+            "end": 105.14,
+            "text": " then for sign up, Instagram will give me a separate form,"
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 105.14,
+            "end": 107.14,
+            "text": " in which there will be an option for mobile number,"
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 107.14,
+            "end": 109.14,
+            "text": " there will be an option for full name, username, password."
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 109.3,
+            "end": 112.3,
+            "text": " So in this way, this is a separate button for sign up."
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 112.3,
+            "end": 114.3,
+            "text": " Login with Facebook is a button in its app,"
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 114.3,
+            "end": 116.3,
+            "text": " if you click on it, then Facebook has its own separate form,"
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 116.3,
+            "end": 118.3,
+            "text": " which will open."
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 118.3,
+            "end": 120.3,
+            "text": " So we see such forms on many different websites,"
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 120.3,
+            "end": 122.3,
+            "text": " and all these forms,"
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 122.3,
+            "end": 126.3,
+            "text": " we can recreate with the help of HTML forms."
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 126.3,
+            "end": 129.3,
+            "text": " First of all, we are going to talk about its syntax in the forms."
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 129.3,
+            "end": 131.3,
+            "text": " Like we use the table tag to make tables,"
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 131.3,
+            "end": 133.3,
+            "text": " in the same way, to make forms in HTML,"
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 133.3,
+            "end": 135.3,
+            "text": " we are using this form tag."
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 135.46,
+            "end": 137.46,
+            "text": " All the content of the form,"
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 137.46,
+            "end": 139.46,
+            "text": " that I have to take text,"
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 139.46,
+            "end": 141.46,
+            "text": " I have to take the input of the number,"
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 141.46,
+            "end": 143.46,
+            "text": " I have to make a button,"
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 143.46,
+            "end": 145.46,
+            "text": " all the things come under this form tag."
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 145.46,
+            "end": 147.46,
+            "text": " So if I write a form in my HTML,"
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 147.46,
+            "end": 149.46,
+            "text": " then I will have a form created,"
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 149.46,
+            "end": 151.46,
+            "text": " but because that form will be empty now,"
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 151.46,
+            "end": 153.46,
+            "text": " nothing will be displayed on my screen."
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 153.46,
+            "end": 155.46,
+            "text": " Like I have made a classroom.html file,"
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 155.46,
+            "end": 157.46,
+            "text": " in this, in the body tag,"
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 157.46,
+            "end": 159.46,
+            "text": " I am going to make a form tag."
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 159.46,
+            "end": 161.46,
+            "text": " Let's save this,"
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 161.46,
+            "end": 163.46,
+            "text": " and if I open and refresh this file,"
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 163.62,
+            "end": 165.62,
+            "text": " then now my whole page is empty,"
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 165.62,
+            "end": 167.62,
+            "text": " because I have made a form,"
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 167.62,
+            "end": 169.62,
+            "text": " but now there is no content in this form."
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 169.62,
+            "end": 171.62,
+            "text": " So slowly we will read about"
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 171.62,
+            "end": 173.62,
+            "text": " different contents, elements,"
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 173.62,
+            "end": 175.62,
+            "text": " and attributes of the form."
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 175.62,
+            "end": 177.62,
+            "text": " The first thing about which we are going to read"
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 177.62,
+            "end": 179.62,
+            "text": " in the forms is my action attribute."
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 179.62,
+            "end": 181.62,
+            "text": " What is the function of the action attribute?"
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 181.62,
+            "end": 183.62,
+            "text": " In the form tag,"
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 183.62,
+            "end": 185.62,
+            "text": " I can define my action attribute."
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 185.62,
+            "end": 187.62,
+            "text": " And its function is that"
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 187.62,
+            "end": 189.62,
+            "text": " it tells what action should be performed"
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 189.62,
+            "end": 191.62,
+            "text": " after submitting the form."
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 191.78,
+            "end": 193.78,
+            "text": " The function of the form is"
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 193.78,
+            "end": 195.78,
+            "text": " to take a lot of data input from the user,"
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 195.78,
+            "end": 197.78,
+            "text": " but what to do with this data?"
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 197.78,
+            "end": 199.78,
+            "text": " Once all the data is submitted,"
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 199.78,
+            "end": 201.78,
+            "text": " then where should I send this data?"
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 201.78,
+            "end": 203.78,
+            "text": " This is what my action attribute tells me."
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 203.78,
+            "end": 205.78,
+            "text": " So action gives me an address"
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 205.78,
+            "end": 207.78,
+            "text": " that all the data of the form"
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 207.78,
+            "end": 209.78,
+            "text": " should be sent to this address."
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 209.78,
+            "end": 211.78,
+            "text": " Or send it to this address."
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 211.78,
+            "end": 213.78,
+            "text": " If we look at its definition,"
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 213.78,
+            "end": 215.78,
+            "text": " then action attribute is used to define"
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 215.78,
+            "end": 217.78,
+            "text": " what action needs to be performed"
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 217.78,
+            "end": 219.78,
+            "text": " when a form is submitted."
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 219.94,
+            "end": 221.94,
+            "text": " For example, if we submit a form,"
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 221.94,
+            "end": 223.94,
+            "text": " then we click the login button."
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 223.94,
+            "end": 225.94,
+            "text": " If we submit a form,"
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 225.94,
+            "end": 227.94,
+            "text": " then we click the register button."
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 227.94,
+            "end": 229.94,
+            "text": " When we submit the final form,"
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 229.94,
+            "end": 231.94,
+            "text": " then where should we send all the data?"
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 231.94,
+            "end": 233.94,
+            "text": " Or what action should be performed?"
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 233.94,
+            "end": 235.94,
+            "text": " This is what my action attribute tells me."
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 235.94,
+            "end": 237.94,
+            "text": " Usually, where does this action attribute"
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 237.94,
+            "end": 239.94,
+            "text": " get redirected?"
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 239.94,
+            "end": 241.94,
+            "text": " Either to a JavaScript file or"
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 241.94,
+            "end": 243.94,
+            "text": " to another file that will"
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 243.94,
+            "end": 245.94,
+            "text": " perform some work with that data."
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 245.94,
+            "end": 247.94,
+            "text": " For example, here I have written"
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 248.1,
+            "end": 250.1,
+            "text": " action.php file."
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 250.1,
+            "end": 252.1,
+            "text": " So an example is that I have created"
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 252.1,
+            "end": 254.1,
+            "text": " a PHP file named action.php"
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 254.1,
+            "end": 256.1,
+            "text": " which will perform some action with"
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 256.1,
+            "end": 258.1,
+            "text": " the data of this form."
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 258.1,
+            "end": 260.1,
+            "text": " Or I can redirect it to any sub-URL."
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 260.1,
+            "end": 262.1,
+            "text": " For example, if I write slash action,"
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 262.1,
+            "end": 264.1,
+            "text": " then my browser will search"
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 264.1,
+            "end": 266.1,
+            "text": " the file slash action and try to send"
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 266.1,
+            "end": 268.1,
+            "text": " all the data there."
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 268.1,
+            "end": 270.1,
+            "text": " For now, we can write anything in action,"
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 270.1,
+            "end": 272.1,
+            "text": " but later on, how actions are performed"
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 272.1,
+            "end": 274.1,
+            "text": " with this data, where it is sent,"
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 274.1,
+            "end": 276.1,
+            "text": " how it works in the file,"
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 276.26000000000005,
+            "end": 278.26000000000005,
+            "text": " we will understand all these things in detail"
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 278.26000000000005,
+            "end": 280.26000000000005,
+            "text": " while reading JavaScript."
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 280.26000000000005,
+            "end": 282.26000000000005,
+            "text": " For now,"
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 282.26000000000005,
+            "end": 284.26000000000005,
+            "text": " I will create an action attribute"
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 284.26000000000005,
+            "end": 286.26000000000005,
+            "text": " in my form stack."
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 286.26000000000005,
+            "end": 288.26000000000005,
+            "text": " I will write it as slash server."
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 288.26000000000005,
+            "end": 290.26000000000005,
+            "text": " Or instead of slash server,"
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 290.26000000000005,
+            "end": 292.26000000000005,
+            "text": " for now, we will write it as slash action."
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 292.26000000000005,
+            "end": 294.26000000000005,
+            "text": " Let's save this."
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 294.26000000000005,
+            "end": 296.26000000000005,
+            "text": " But my form will not be created yet."
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 296.26000000000005,
+            "end": 298.26000000000005,
+            "text": " My entire web page will be empty"
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 298.26000000000005,
+            "end": 300.26000000000005,
+            "text": " because there is no content"
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 300.26000000000005,
+            "end": 302.26000000000005,
+            "text": " in the form."
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 302.26000000000005,
+            "end": 304.26000000000005,
+            "text": " When we talk about content in the form,"
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 304.42,
+            "end": 306.42,
+            "text": " we usually talk about buttons"
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 306.42,
+            "end": 308.42,
+            "text": " or input text."
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 308.42,
+            "end": 310.42,
+            "text": " So, the first thing we will read"
+        },
+        {
+            "number": "05",
+            "title": "Forms in HTML",
+            "start": 310.42,
+            "end": 312.42,
+            "text": " in terms of form element is my input element."
+        }
+    ],
+    "text": " In the next part, we will talk about an important concept of HTML, i.e. forms. The work of forms is to collect data in real life and HTML. We have seen many such forms on different websites. I am showing you an example of Instagram. Where I am given some options to type something, there is a place to type this password, then I have a button with which I submit all the information to Instagram. In the same way, when we create an account on Instagram, Facebook or WhatsApp, we have to type our number first, then we get the OTP, and then we get the account. So whenever we go to a website or app as a new user, or whenever we log in, register, sign up, try to contact, then we see different forms on different websites. One or two examples of this can be like this. If I search on the internet, log in to Instagram. So in this way, after clicking on the first link, I will have a form display. Here I can fill my phone number, username, email address, I will have a password here, I will have a username here. Now there are different things in the forms that we notice. When we type the username, it is visible, but whenever we type the password, it is visible in the form of dot. So that no one can see our password when we type it. So in this way, there are many things in the form, which are small things in detail that matter. This login is a button in itself, after clicking it, an action is performed. Now the action was performed, he checked the phone number, password is wrong, so we saw an error message. If I click on sign up, then for sign up, Instagram will give me a separate form, in which there will be an option for mobile number, there will be an option for full name, username, password. So in this way, this is a separate button for sign up. Login with Facebook is a button in its app, if you click on it, then Facebook has its own separate form, which will open. So we see such forms on many different websites, and all these forms, we can recreate with the help of HTML forms. First of all, we are going to talk about its syntax in the forms. Like we use the table tag to make tables, in the same way, to make forms in HTML, we are using this form tag. All the content of the form, that I have to take text, I have to take the input of the number, I have to make a button, all the things come under this form tag. So if I write a form in my HTML, then I will have a form created, but because that form will be empty now, nothing will be displayed on my screen. Like I have made a classroom.html file, in this, in the body tag, I am going to make a form tag. Let's save this, and if I open and refresh this file, then now my whole page is empty, because I have made a form, but now there is no content in this form. So slowly we will read about different contents, elements, and attributes of the form. The first thing about which we are going to read in the forms is my action attribute. What is the function of the action attribute? In the form tag, I can define my action attribute. And its function is that it tells what action should be performed after submitting the form. The function of the form is to take a lot of data input from the user, but what to do with this data? Once all the data is submitted, then where should I send this data? This is what my action attribute tells me. So action gives me an address that all the data of the form should be sent to this address. Or send it to this address. If we look at its definition, then action attribute is used to define what action needs to be performed when a form is submitted. For example, if we submit a form, then we click the login button. If we submit a form, then we click the register button. When we submit the final form, then where should we send all the data? Or what action should be performed? This is what my action attribute tells me. Usually, where does this action attribute get redirected? Either to a JavaScript file or to another file that will perform some work with that data. For example, here I have written action.php file. So an example is that I have created a PHP file named action.php which will perform some action with the data of this form. Or I can redirect it to any sub-URL. For example, if I write slash action, then my browser will search the file slash action and try to send all the data there. For now, we can write anything in action, but later on, how actions are performed with this data, where it is sent, how it works in the file, we will understand all these things in detail while reading JavaScript. For now, I will create an action attribute in my form stack. I will write it as slash server. Or instead of slash server, for now, we will write it as slash action. Let's save this. But my form will not be created yet. My entire web page will be empty because there is no content in the form. When we talk about content in the form, we usually talk about buttons or input text. So, the first thing we will read in terms of form element is my input element."
+}

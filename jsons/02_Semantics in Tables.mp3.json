@@ -1,0 +1,355 @@
+{
+    "chunks": [
+        {
+            "number": "02",
+            "title": "Semantics in Tables",
+            "start": 0.0,
+            "end": 3.5,
+            "text": " The next thing we are going to understand is the semantics in the table."
+        },
+        {
+            "number": "02",
+            "title": "Semantics in Tables",
+            "start": 3.5,
+            "end": 9.24,
+            "text": " That is, we can keep our data organized in the table in the form of header, footer, body."
+        },
+        {
+            "number": "02",
+            "title": "Semantics in Tables",
+            "start": 9.24,
+            "end": 11.24,
+            "text": " For this, we use three tags."
+        },
+        {
+            "number": "02",
+            "title": "Semantics in Tables",
+            "start": 11.24,
+            "end": 13.24,
+            "text": " The first tag is my T-head."
+        },
+        {
+            "number": "02",
+            "title": "Semantics in Tables",
+            "start": 13.24,
+            "end": 17.62,
+            "text": " We can also see it in the same way that all the tags on the table start with T."
+        },
+        {
+            "number": "02",
+            "title": "Semantics in Tables",
+            "start": 17.62,
+            "end": 22.12,
+            "text": " If I want to find the header of my table, I write it in the T-head."
+        },
+        {
+            "number": "02",
+            "title": "Semantics in Tables",
+            "start": 22.12,
+            "end": 24.44,
+            "text": " So this is used to wrap the table header."
+        },
+        {
+            "number": "02",
+            "title": "Semantics in Tables",
+            "start": 24.44,
+            "end": 29.0,
+            "text": " Apart from that, I have a T-body tag in which we are wrapping the body of the table."
+        },
+        {
+            "number": "02",
+            "title": "Semantics in Tables",
+            "start": 29.0,
+            "end": 34.2,
+            "text": " And the third tag is T-foot, which is used to wrap the footer of the table."
+        },
+        {
+            "number": "02",
+            "title": "Semantics in Tables",
+            "start": 34.2,
+            "end": 41.84,
+            "text": " So in my table, I know that the item and price in the food menu is my header."
+        },
+        {
+            "number": "02",
+            "title": "Semantics in Tables",
+            "start": 41.84,
+            "end": 46.879999999999995,
+            "text": " So we can wrap this single row in the T-head."
+        },
+        {
+            "number": "02",
+            "title": "Semantics in Tables",
+            "start": 46.879999999999995,
+            "end": 48.879999999999995,
+            "text": " I can write T-head."
+        },
+        {
+            "number": "02",
+            "title": "Semantics in Tables",
+            "start": 48.879999999999995,
+            "end": 54.16,
+            "text": " And in this way, this whole row will be transferred to my header."
+        },
+        {
+            "number": "02",
+            "title": "Semantics in Tables",
+            "start": 55.04,
+            "end": 60.76,
+            "text": " If we want, then there are some tables in our table in which two rows are the part of our header."
+        },
+        {
+            "number": "02",
+            "title": "Semantics in Tables",
+            "start": 60.76,
+            "end": 63.959999999999994,
+            "text": " In that case, we will be putting two TR tags in the header."
+        },
+        {
+            "number": "02",
+            "title": "Semantics in Tables",
+            "start": 63.959999999999994,
+            "end": 65.96,
+            "text": " But for now, only one row is the part of the header."
+        },
+        {
+            "number": "02",
+            "title": "Semantics in Tables",
+            "start": 65.96,
+            "end": 70.19999999999999,
+            "text": " And all the rest of the tables are the body part."
+        },
+        {
+            "number": "02",
+            "title": "Semantics in Tables",
+            "start": 70.19999999999999,
+            "end": 72.19999999999999,
+            "text": " There is no footer in this table."
+        },
+        {
+            "number": "02",
+            "title": "Semantics in Tables",
+            "start": 72.19999999999999,
+            "end": 75.52,
+            "text": " So what I will do here is I am going to write T-body."
+        },
+        {
+            "number": "02",
+            "title": "Semantics in Tables",
+            "start": 75.52,
+            "end": 81.56,
+            "text": " And in this way, we will wrap the entire table data in this tag."
+        },
+        {
+            "number": "02",
+            "title": "Semantics in Tables",
+            "start": 82.16,
+            "end": 85.0,
+            "text": " So the entire body data is in T-body."
+        },
+        {
+            "number": "02",
+            "title": "Semantics in Tables",
+            "start": 85.0,
+            "end": 87.68,
+            "text": " And here is the data of my header."
+        },
+        {
+            "number": "02",
+            "title": "Semantics in Tables",
+            "start": 87.68,
+            "end": 90.4,
+            "text": " In fact, I can also comment here."
+        },
+        {
+            "number": "02",
+            "title": "Semantics in Tables",
+            "start": 90.4,
+            "end": 92.96000000000001,
+            "text": " Table header."
+        },
+        {
+            "number": "02",
+            "title": "Semantics in Tables",
+            "start": 92.96000000000001,
+            "end": 100.04,
+            "text": " And here is my table body."
+        },
+        {
+            "number": "02",
+            "title": "Semantics in Tables",
+            "start": 100.04,
+            "end": 102.36,
+            "text": " Let's save and refresh this."
+        },
+        {
+            "number": "02",
+            "title": "Semantics in Tables",
+            "start": 102.36,
+            "end": 106.88,
+            "text": " The table will look the same, but internally we know that we have added semantics."
+        },
+        {
+            "number": "02",
+            "title": "Semantics in Tables",
+            "start": 106.88,
+            "end": 111.12,
+            "text": " The table head will be detected and the table body will be detected."
+        },
+        {
+            "number": "02",
+            "title": "Semantics in Tables",
+            "start": 111.16000000000001,
+            "end": 114.2,
+            "text": " Now table footer is not used so frequently."
+        },
+        {
+            "number": "02",
+            "title": "Semantics in Tables",
+            "start": 114.2,
+            "end": 117.64,
+            "text": " It is used when we have some type of tables."
+        },
+        {
+            "number": "02",
+            "title": "Semantics in Tables",
+            "start": 117.64,
+            "end": 122.72,
+            "text": " Some type of tables means when I have data such that I have a price here."
+        },
+        {
+            "number": "02",
+            "title": "Semantics in Tables",
+            "start": 122.72,
+            "end": 124.72,
+            "text": " I have items written here."
+        },
+        {
+            "number": "02",
+            "title": "Semantics in Tables",
+            "start": 124.72,
+            "end": 126.72,
+            "text": " This has become my header."
+        },
+        {
+            "number": "02",
+            "title": "Semantics in Tables",
+            "start": 126.72,
+            "end": 129.44,
+            "text": " And I have a table like this."
+        },
+        {
+            "number": "02",
+            "title": "Semantics in Tables",
+            "start": 129.44,
+            "end": 136.04000000000002,
+            "text": " In this type of table, when I have item A, whose price is 10, item B, whose price is 20, item C, whose price is 30."
+        },
+        {
+            "number": "02",
+            "title": "Semantics in Tables",
+            "start": 136.04000000000002,
+            "end": 137.52,
+            "text": " And what am I doing at the end?"
+        },
+        {
+            "number": "02",
+            "title": "Semantics in Tables",
+            "start": 137.52,
+            "end": 139.12,
+            "text": " Let's assume I have left it empty."
+        },
+        {
+            "number": "02",
+            "title": "Semantics in Tables",
+            "start": 140.12,
+            "end": 143.56,
+            "text": " Or instead of leaving it empty, I wrote SUM here."
+        },
+        {
+            "number": "02",
+            "title": "Semantics in Tables",
+            "start": 143.56,
+            "end": 147.52,
+            "text": " And I am writing SUM of all these items below."
+        },
+        {
+            "number": "02",
+            "title": "Semantics in Tables",
+            "start": 147.52,
+            "end": 149.52,
+            "text": " Which is equal to 60."
+        },
+        {
+            "number": "02",
+            "title": "Semantics in Tables",
+            "start": 149.52,
+            "end": 153.88,
+            "text": " So here I would like to detect this as a header in the table."
+        },
+        {
+            "number": "02",
+            "title": "Semantics in Tables",
+            "start": 153.88,
+            "end": 156.76,
+            "text": " This is my main body part of the table."
+        },
+        {
+            "number": "02",
+            "title": "Semantics in Tables",
+            "start": 156.76,
+            "end": 160.0,
+            "text": " And the last part is the footer of my table."
+        },
+        {
+            "number": "02",
+            "title": "Semantics in Tables",
+            "start": 160.0,
+            "end": 164.24,
+            "text": " So, like SUM is done or we can do some average."
+        },
+        {
+            "number": "02",
+            "title": "Semantics in Tables",
+            "start": 164.24,
+            "end": 165.6,
+            "text": " Or total number of students."
+        },
+        {
+            "number": "02",
+            "title": "Semantics in Tables",
+            "start": 165.64,
+            "end": 167.64,
+            "text": " So, this type of total average."
+        },
+        {
+            "number": "02",
+            "title": "Semantics in Tables",
+            "start": 167.64,
+            "end": 173.6,
+            "text": " When we create a main row or set of rows by summarizing the entire data."
+        },
+        {
+            "number": "02",
+            "title": "Semantics in Tables",
+            "start": 173.6,
+            "end": 175.6,
+            "text": " We use footer there."
+        },
+        {
+            "number": "02",
+            "title": "Semantics in Tables",
+            "start": 175.6,
+            "end": 177.6,
+            "text": " But it is not used so frequently."
+        },
+        {
+            "number": "02",
+            "title": "Semantics in Tables",
+            "start": 177.6,
+            "end": 182.32,
+            "text": " Mostly when we create tables, we look at the header and body the most."
+        }
+    ],
+    "text": " The next thing we are going to understand is the semantics in the table. That is, we can keep our data organized in the table in the form of header, footer, body. For this, we use three tags. The first tag is my T-head. We can also see it in the same way that all the tags on the table start with T. If I want to find the header of my table, I write it in the T-head. So this is used to wrap the table header. Apart from that, I have a T-body tag in which we are wrapping the body of the table. And the third tag is T-foot, which is used to wrap the footer of the table. So in my table, I know that the item and price in the food menu is my header. So we can wrap this single row in the T-head. I can write T-head. And in this way, this whole row will be transferred to my header. If we want, then there are some tables in our table in which two rows are the part of our header. In that case, we will be putting two TR tags in the header. But for now, only one row is the part of the header. And all the rest of the tables are the body part. There is no footer in this table. So what I will do here is I am going to write T-body. And in this way, we will wrap the entire table data in this tag. So the entire body data is in T-body. And here is the data of my header. In fact, I can also comment here. Table header. And here is my table body. Let's save and refresh this. The table will look the same, but internally we know that we have added semantics. The table head will be detected and the table body will be detected. Now table footer is not used so frequently. It is used when we have some type of tables. Some type of tables means when I have data such that I have a price here. I have items written here. This has become my header. And I have a table like this. In this type of table, when I have item A, whose price is 10, item B, whose price is 20, item C, whose price is 30. And what am I doing at the end? Let's assume I have left it empty. Or instead of leaving it empty, I wrote SUM here. And I am writing SUM of all these items below. Which is equal to 60. So here I would like to detect this as a header in the table. This is my main body part of the table. And the last part is the footer of my table. So, like SUM is done or we can do some average. Or total number of students. So, this type of total average. When we create a main row or set of rows by summarizing the entire data. We use footer there. But it is not used so frequently. Mostly when we create tables, we look at the header and body the most."
+}

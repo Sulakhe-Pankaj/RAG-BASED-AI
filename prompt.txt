@@ -1,0 +1,9 @@
+
+i am teaching you html and css using apana college course. Here videos subtitle chunks are given.
+The user will ask question related to html and css. You have to answer the question based on the chunks only.
+Here are the chunks: [{"title":" Labels","number":"07","text":" we call it a placeholder."},{"title":" Labels","number":"07","text":" Placeholder is a text that is visible before entering any value."},{"title":"Text Area","number":"15","text":" I can write placeholder."},{"title":" Labels","number":"07","text":" Placeholder means that you have kept someone to stop the place."},{"title":" Labels","number":"07","text":" So, placeholder means a text that is visible before adding the actual value."}]
+-----------------------------------------------------------------------------------------------
+"what is placeholders"
+User asked this Question related to html and css. Provide a precise answer based on the chunks' Where and how much information is given in the chunks.
+and guide the user to the chunk number for better understanding. If users ask unrelated question to html and css then
+respond with "I am sorry, I can only answer questions related to html and css as I have been trained on apna college html and css course."

@@ -1,0 +1,488 @@
+{
+    "chunks": [
+        {
+            "number": "11",
+            "title": "Checkbox - Input Element",
+            "start": 0.0,
+            "end": 4.5600000000000005,
+            "text": " The next thing we are going to read in the forms is my checkbox type element."
+        },
+        {
+            "number": "11",
+            "title": "Checkbox - Input Element",
+            "start": 4.5600000000000005,
+            "end": 10.36,
+            "text": " That is, when I type in the input element, I get a checkbox."
+        },
+        {
+            "number": "11",
+            "title": "Checkbox - Input Element",
+            "start": 10.36,
+            "end": 11.64,
+            "text": " What is a checkbox?"
+        },
+        {
+            "number": "11",
+            "title": "Checkbox - Input Element",
+            "start": 11.64,
+            "end": 16.72,
+            "text": " If I show the checkbox, then we can search for checkbox mda."
+        },
+        {
+            "number": "11",
+            "title": "Checkbox - Input Element",
+            "start": 18.96,
+            "end": 22.400000000000002,
+            "text": " When I see a box like this on the screen,"
+        },
+        {
+            "number": "11",
+            "title": "Checkbox - Input Element",
+            "start": 22.400000000000002,
+            "end": 25.68,
+            "text": " which I can tick, there is any information by ticking it."
+        },
+        {
+            "number": "11",
+            "title": "Checkbox - Input Element",
+            "start": 25.84,
+            "end": 31.28,
+            "text": " And when we tick multiple boxes, then we call such boxes checkboxes."
+        },
+        {
+            "number": "11",
+            "title": "Checkbox - Input Element",
+            "start": 31.28,
+            "end": 34.4,
+            "text": " So this tick is called a check in a way."
+        },
+        {
+            "number": "11",
+            "title": "Checkbox - Input Element",
+            "start": 34.4,
+            "end": 37.6,
+            "text": " To create it, I have to make an input element."
+        },
+        {
+            "number": "11",
+            "title": "Checkbox - Input Element",
+            "start": 37.6,
+            "end": 40.16,
+            "text": " I can type type is equal to checkbox."
+        },
+        {
+            "number": "11",
+            "title": "Checkbox - Input Element",
+            "start": 40.16,
+            "end": 42.8,
+            "text": " What I have tried to make a checkbox of here?"
+        },
+        {
+            "number": "11",
+            "title": "Checkbox - Input Element",
+            "start": 42.8,
+            "end": 48.16,
+            "text": " I basically want to display an information, I am 18 plus."
+        },
+        {
+            "number": "11",
+            "title": "Checkbox - Input Element",
+            "start": 48.16,
+            "end": 50.4,
+            "text": " So a checkbox will come in this."
+        },
+        {
+            "number": "11",
+            "title": "Checkbox - Input Element",
+            "start": 50.4,
+            "end": 53.760000000000005,
+            "text": " Tick means yes and if you don't tick, it means no."
+        },
+        {
+            "number": "11",
+            "title": "Checkbox - Input Element",
+            "start": 53.839999999999996,
+            "end": 56.48,
+            "text": " So here I have given a name attribute."
+        },
+        {
+            "number": "11",
+            "title": "Checkbox - Input Element",
+            "start": 56.48,
+            "end": 58.64,
+            "text": " I have given the name age."
+        },
+        {
+            "number": "11",
+            "title": "Checkbox - Input Element",
+            "start": 58.64,
+            "end": 61.76,
+            "text": " I have given the id to my element which is also equal to age."
+        },
+        {
+            "number": "11",
+            "title": "Checkbox - Input Element",
+            "start": 61.76,
+            "end": 64.48,
+            "text": " For now, I am going to ignore this checked."
+        },
+        {
+            "number": "11",
+            "title": "Checkbox - Input Element",
+            "start": 64.48,
+            "end": 68.96,
+            "text": " And with the same input element, I have associated a label for age."
+        },
+        {
+            "number": "11",
+            "title": "Checkbox - Input Element",
+            "start": 68.96,
+            "end": 71.68,
+            "text": " For and its id are going to be the same."
+        },
+        {
+            "number": "11",
+            "title": "Checkbox - Input Element",
+            "start": 71.68,
+            "end": 75.75999999999999,
+            "text": " So I have associated this text with this input element."
+        },
+        {
+            "number": "11",
+            "title": "Checkbox - Input Element",
+            "start": 75.75999999999999,
+            "end": 79.2,
+            "text": " So by now we must have understood that whenever we have to write an input element,"
+        },
+        {
+            "number": "11",
+            "title": "Checkbox - Input Element",
+            "start": 79.28,
+            "end": 82.48,
+            "text": " So usually the input element with which we want to write some text,"
+        },
+        {
+            "number": "11",
+            "title": "Checkbox - Input Element",
+            "start": 82.48,
+            "end": 85.76,
+            "text": " I have to write my label with the input element."
+        },
+        {
+            "number": "11",
+            "title": "Checkbox - Input Element",
+            "start": 85.76,
+            "end": 90.0,
+            "text": " So we are going to write the same thing in our html file."
+        },
+        {
+            "number": "11",
+            "title": "Checkbox - Input Element",
+            "start": 90.0,
+            "end": 91.84,
+            "text": " I will make a form."
+        },
+        {
+            "number": "11",
+            "title": "Checkbox - Input Element",
+            "start": 91.84,
+            "end": 94.56,
+            "text": " Let's write action in it."
+        },
+        {
+            "number": "11",
+            "title": "Checkbox - Input Element",
+            "start": 94.56,
+            "end": 99.44,
+            "text": " Slash server or we can create any action."
+        },
+        {
+            "number": "11",
+            "title": "Checkbox - Input Element",
+            "start": 99.44,
+            "end": 101.84,
+            "text": " Here I will make an input element."
+        },
+        {
+            "number": "11",
+            "title": "Checkbox - Input Element",
+            "start": 101.84,
+            "end": 105.36,
+            "text": " Type is equal to checkbox."
+        },
+        {
+            "number": "11",
+            "title": "Checkbox - Input Element",
+            "start": 105.52,
+            "end": 108.08,
+            "text": " Give id equal to age."
+        },
+        {
+            "number": "11",
+            "title": "Checkbox - Input Element",
+            "start": 108.08,
+            "end": 110.64,
+            "text": " Give name equal to age."
+        },
+        {
+            "number": "11",
+            "title": "Checkbox - Input Element",
+            "start": 112.08,
+            "end": 114.4,
+            "text": " And in the next line, give label."
+        },
+        {
+            "number": "11",
+            "title": "Checkbox - Input Element",
+            "start": 114.4,
+            "end": 118.8,
+            "text": " In the label, for id which is equal to age."
+        },
+        {
+            "number": "11",
+            "title": "Checkbox - Input Element",
+            "start": 118.8,
+            "end": 123.12,
+            "text": " And in this, I am 18+."
+        },
+        {
+            "number": "11",
+            "title": "Checkbox - Input Element",
+            "start": 123.12,
+            "end": 126.16,
+            "text": " Let's save and refresh."
+        },
+        {
+            "number": "11",
+            "title": "Checkbox - Input Element",
+            "start": 126.16,
+            "end": 128.8,
+            "text": " So we can check this."
+        },
+        {
+            "number": "11",
+            "title": "Checkbox - Input Element",
+            "start": 128.8,
+            "end": 129.84,
+            "text": " I am 18+."
+        },
+        {
+            "number": "11",
+            "title": "Checkbox - Input Element",
+            "start": 129.84,
+            "end": 132.0,
+            "text": " So it will be true or it will be false."
+        },
+        {
+            "number": "11",
+            "title": "Checkbox - Input Element",
+            "start": 132.0,
+            "end": 134.8,
+            "text": " It is basically said that it is on and it is off."
+        },
+        {
+            "number": "11",
+            "title": "Checkbox - Input Element",
+            "start": 135.04000000000002,
+            "end": 139.28,
+            "text": " So on means when it starts looking blue, it becomes highlighted, it starts looking like tick."
+        },
+        {
+            "number": "11",
+            "title": "Checkbox - Input Element",
+            "start": 139.28,
+            "end": 141.28,
+            "text": " And off means it is still empty."
+        },
+        {
+            "number": "11",
+            "title": "Checkbox - Input Element",
+            "start": 141.28,
+            "end": 145.04000000000002,
+            "text": " Now I will click on I am 18+, then it will be on."
+        },
+        {
+            "number": "11",
+            "title": "Checkbox - Input Element",
+            "start": 145.04000000000002,
+            "end": 150.96,
+            "text": " So there is no need to go to the box, even if I click outside with the help of labels, my checkbox will be ticked."
+        },
+        {
+            "number": "11",
+            "title": "Checkbox - Input Element",
+            "start": 150.96,
+            "end": 155.28,
+            "text": " Now there is an attribute called checked in it, which we can write."
+        },
+        {
+            "number": "11",
+            "title": "Checkbox - Input Element",
+            "start": 155.28,
+            "end": 160.56,
+            "text": " As soon as I wrote checked and saved, then by default my checkbox will be checked."
+        },
+        {
+            "number": "11",
+            "title": "Checkbox - Input Element",
+            "start": 160.72,
+            "end": 167.12,
+            "text": " If I remove this checked from here and refresh, then by default it will be unchecked."
+        },
+        {
+            "number": "11",
+            "title": "Checkbox - Input Element",
+            "start": 167.12,
+            "end": 172.08,
+            "text": " So whenever I want checked information by default, then I can write checked."
+        },
+        {
+            "number": "11",
+            "title": "Checkbox - Input Element",
+            "start": 172.08,
+            "end": 175.92000000000002,
+            "text": " So this way we create checkboxes in HTML forms."
+        },
+        {
+            "number": "11",
+            "title": "Checkbox - Input Element",
+            "start": 175.92000000000002,
+            "end": 178.48000000000002,
+            "text": " Now what is the work of these checkboxes in the forms?"
+        },
+        {
+            "number": "11",
+            "title": "Checkbox - Input Element",
+            "start": 178.48000000000002,
+            "end": 183.76,
+            "text": " Many times we have used such software where we have been given many terms and conditions."
+        },
+        {
+            "number": "11",
+            "title": "Checkbox - Input Element",
+            "start": 183.76,
+            "end": 189.12,
+            "text": " And in the last, we have to tick I agree to all the terms and conditions."
+        },
+        {
+            "number": "11",
+            "title": "Checkbox - Input Element",
+            "start": 189.20000000000002,
+            "end": 191.20000000000002,
+            "text": " Or similar things are there."
+        },
+        {
+            "number": "11",
+            "title": "Checkbox - Input Element",
+            "start": 191.20000000000002,
+            "end": 195.20000000000002,
+            "text": " Or let's say I have been given a form in which I have been given multiple subjects."
+        },
+        {
+            "number": "11",
+            "title": "Checkbox - Input Element",
+            "start": 195.20000000000002,
+            "end": 199.20000000000002,
+            "text": " And I have to select which subjects I have to choose for this semester in the college."
+        },
+        {
+            "number": "11",
+            "title": "Checkbox - Input Element",
+            "start": 199.20000000000002,
+            "end": 203.68,
+            "text": " So this type of information is taken in the form of checkboxes."
+        },
+        {
+            "number": "11",
+            "title": "Checkbox - Input Element",
+            "start": 203.68,
+            "end": 208.32,
+            "text": " Now as soon as I added the label of I am 18 plus in the checkbox."
+        },
+        {
+            "number": "11",
+            "title": "Checkbox - Input Element",
+            "start": 208.32,
+            "end": 212.0,
+            "text": " And after that I am going to make a button which will be my submit button."
+        },
+        {
+            "number": "11",
+            "title": "Checkbox - Input Element",
+            "start": 212.0,
+            "end": 214.8,
+            "text": " Let's save it once and refresh it."
+        },
+        {
+            "number": "11",
+            "title": "Checkbox - Input Element",
+            "start": 214.88000000000002,
+            "end": 218.24,
+            "text": " So as soon as I check it and submit it, what came in my URL?"
+        },
+        {
+            "number": "11",
+            "title": "Checkbox - Input Element",
+            "start": 218.24,
+            "end": 221.20000000000002,
+            "text": " Age is equal to on."
+        },
+        {
+            "number": "11",
+            "title": "Checkbox - Input Element",
+            "start": 221.20000000000002,
+            "end": 222.48000000000002,
+            "text": " What was age?"
+        },
+        {
+            "number": "11",
+            "title": "Checkbox - Input Element",
+            "start": 222.48000000000002,
+            "end": 227.12,
+            "text": " Age was the name of my input element, that is, the checkbox."
+        },
+        {
+            "number": "11",
+            "title": "Checkbox - Input Element",
+            "start": 227.12,
+            "end": 228.88000000000002,
+            "text": " So age is equal to on."
+        },
+        {
+            "number": "11",
+            "title": "Checkbox - Input Element",
+            "start": 228.88000000000002,
+            "end": 232.72000000000003,
+            "text": " Whenever my checkbox is ticked, then on is passed in action."
+        },
+        {
+            "number": "11",
+            "title": "Checkbox - Input Element",
+            "start": 232.72000000000003,
+            "end": 237.36,
+            "text": " But if I untick it and submit it, then nothing will be added in the URL."
+        },
+        {
+            "number": "11",
+            "title": "Checkbox - Input Element",
+            "start": 237.36,
+            "end": 242.4,
+            "text": " This is a noteworthy thing that whenever we tick checkboxes and pass information."
+        },
+        {
+            "number": "11",
+            "title": "Checkbox - Input Element",
+            "start": 242.48000000000002,
+            "end": 244.48000000000002,
+            "text": " So if it was ticked, then on is passed."
+        },
+        {
+            "number": "11",
+            "title": "Checkbox - Input Element",
+            "start": 244.48000000000002,
+            "end": 247.36,
+            "text": " Otherwise, no information is passed in the URL."
+        }
+    ],
+    "text": " The next thing we are going to read in the forms is my checkbox type element. That is, when I type in the input element, I get a checkbox. What is a checkbox? If I show the checkbox, then we can search for checkbox mda. When I see a box like this on the screen, which I can tick, there is any information by ticking it. And when we tick multiple boxes, then we call such boxes checkboxes. So this tick is called a check in a way. To create it, I have to make an input element. I can type type is equal to checkbox. What I have tried to make a checkbox of here? I basically want to display an information, I am 18 plus. So a checkbox will come in this. Tick means yes and if you don't tick, it means no. So here I have given a name attribute. I have given the name age. I have given the id to my element which is also equal to age. For now, I am going to ignore this checked. And with the same input element, I have associated a label for age. For and its id are going to be the same. So I have associated this text with this input element. So by now we must have understood that whenever we have to write an input element, So usually the input element with which we want to write some text, I have to write my label with the input element. So we are going to write the same thing in our html file. I will make a form. Let's write action in it. Slash server or we can create any action. Here I will make an input element. Type is equal to checkbox. Give id equal to age. Give name equal to age. And in the next line, give label. In the label, for id which is equal to age. And in this, I am 18+. Let's save and refresh. So we can check this. I am 18+. So it will be true or it will be false. It is basically said that it is on and it is off. So on means when it starts looking blue, it becomes highlighted, it starts looking like tick. And off means it is still empty. Now I will click on I am 18+, then it will be on. So there is no need to go to the box, even if I click outside with the help of labels, my checkbox will be ticked. Now there is an attribute called checked in it, which we can write. As soon as I wrote checked and saved, then by default my checkbox will be checked. If I remove this checked from here and refresh, then by default it will be unchecked. So whenever I want checked information by default, then I can write checked. So this way we create checkboxes in HTML forms. Now what is the work of these checkboxes in the forms? Many times we have used such software where we have been given many terms and conditions. And in the last, we have to tick I agree to all the terms and conditions. Or similar things are there. Or let's say I have been given a form in which I have been given multiple subjects. And I have to select which subjects I have to choose for this semester in the college. So this type of information is taken in the form of checkboxes. Now as soon as I added the label of I am 18 plus in the checkbox. And after that I am going to make a button which will be my submit button. Let's save it once and refresh it. So as soon as I check it and submit it, what came in my URL? Age is equal to on. What was age? Age was the name of my input element, that is, the checkbox. So age is equal to on. Whenever my checkbox is ticked, then on is passed in action. But if I untick it and submit it, then nothing will be added in the URL. This is a noteworthy thing that whenever we tick checkboxes and pass information. So if it was ticked, then on is passed. Otherwise, no information is passed in the URL."
+}

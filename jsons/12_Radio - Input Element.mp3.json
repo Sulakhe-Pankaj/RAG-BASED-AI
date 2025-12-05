@@ -1,0 +1,1706 @@
+{
+    "chunks": [
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 0.0,
+            "end": 3.6,
+            "text": " The next type of input element is the radio button."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 3.6,
+            "end": 5.6000000000000005,
+            "text": " How do we see the radio buttons?"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 5.6000000000000005,
+            "end": 8.32,
+            "text": " Let's search for MDN once again."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 8.32,
+            "end": 12.0,
+            "text": " Radio button MDN."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 12.0,
+            "end": 14.4,
+            "text": " The buttons like this,"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 14.4,
+            "end": 16.4,
+            "text": " like the one I'm clicking on here,"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 16.4,
+            "end": 19.6,
+            "text": " a particular button is selected."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 19.6,
+            "end": 21.6,
+            "text": " This is called a radio button."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 21.6,
+            "end": 23.6,
+            "text": " The difference between a radio button and a checkbox is that"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 23.6,
+            "end": 26.2,
+            "text": " when you show multiple checkboxes,"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 26.2,
+            "end": 28.6,
+            "text": " you can select multiple options."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 28.6,
+            "end": 31.400000000000002,
+            "text": " But when you group the radio buttons,"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 31.400000000000002,
+            "end": 33.4,
+            "text": " only one option is selected."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 33.4,
+            "end": 35.4,
+            "text": " If I click on Huey,"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 35.4,
+            "end": 37.400000000000006,
+            "text": " Huey will be unselected."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 37.400000000000006,
+            "end": 39.400000000000006,
+            "text": " If I click on Luey,"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 39.400000000000006,
+            "end": 41.400000000000006,
+            "text": " the first option above will be unselected."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 41.400000000000006,
+            "end": 43.400000000000006,
+            "text": " So whenever you group the radio buttons,"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 43.400000000000006,
+            "end": 45.400000000000006,
+            "text": " you can select only one option."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 45.400000000000006,
+            "end": 47.400000000000006,
+            "text": " So why do we use radio buttons?"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 47.400000000000006,
+            "end": 50.6,
+            "text": " Whenever I have to select the option of Yes or No."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 50.6,
+            "end": 55.0,
+            "text": " Or whenever I have to select the option of Male or Female in Gender."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 55.0,
+            "end": 57.0,
+            "text": " When I have to select these options,"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 57.0,
+            "end": 59.8,
+            "text": " I know that no one will select all the options."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 59.8,
+            "end": 61.8,
+            "text": " Only one option will be true."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 61.8,
+            "end": 64.6,
+            "text": " Or let's say I have to select the option of True or False."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 64.6,
+            "end": 67.0,
+            "text": " Either something will be true or false."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 67.0,
+            "end": 69.0,
+            "text": " So whenever I have to select these options,"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 69.0,
+            "end": 71.8,
+            "text": " we use radio buttons."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 71.8,
+            "end": 73.8,
+            "text": " To create radio buttons,"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 73.8,
+            "end": 75.8,
+            "text": " we make an input element"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 75.8,
+            "end": 77.8,
+            "text": " where we put type=\"radio\"."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 77.8,
+            "end": 80.2,
+            "text": " Let's say I want to make a list of fruits."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 80.2,
+            "end": 82.6,
+            "text": " I want to show multiple fruits."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 82.6,
+            "end": 84.6,
+            "text": " In this format,"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 84.6,
+            "end": 86.6,
+            "text": " my radio buttons are created."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 86.6,
+            "end": 92.19999999999999,
+            "text": " Here I have apple, mango, and banana."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 92.19999999999999,
+            "end": 94.19999999999999,
+            "text": " So what can I do for this?"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 94.19999999999999,
+            "end": 96.19999999999999,
+            "text": " I can write radio in the input type."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 96.19999999999999,
+            "end": 98.19999999999999,
+            "text": " I can write fruit in the name."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 98.19999999999999,
+            "end": 101.39999999999999,
+            "text": " The ID of this particular fruit will be apple."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 101.39999999999999,
+            "end": 105.0,
+            "text": " I can write apple in the ID of this particular fruit."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 105.0,
+            "end": 107.39999999999999,
+            "text": " For now, let's ignore this value attribute."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 107.39999999999999,
+            "end": 110.6,
+            "text": " And with this fruit, I can associate the label"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 110.6,
+            "end": 112.6,
+            "text": " for apple, apple."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 112.6,
+            "end": 116.19999999999999,
+            "text": " So I will have a single radio element."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 116.2,
+            "end": 120.2,
+            "text": " To create this, let's go to our HTML file."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 120.2,
+            "end": 122.2,
+            "text": " In this form,"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 122.2,
+            "end": 124.2,
+            "text": " let's go to the next line."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 124.2,
+            "end": 128.2,
+            "text": " Or in fact, let's make a div."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 128.2,
+            "end": 130.2,
+            "text": " In the div, first of all,"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 130.2,
+            "end": 132.2,
+            "text": " I will create an input element"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 132.2,
+            "end": 134.2,
+            "text": " whose type we will write radio=\"."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 134.2,
+            "end": 136.2,
+            "text": " Let's give it a name."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 136.2,
+            "end": 138.2,
+            "text": " The name will be fruit."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 138.2,
+            "end": 140.2,
+            "text": " The ID will be apple=\"."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 140.2,
+            "end": 142.2,
+            "text": " And with this,"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 142.2,
+            "end": 144.2,
+            "text": " I will create a label."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 144.2,
+            "end": 148.2,
+            "text": " I will create a label by associating it with the label."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 148.2,
+            "end": 150.2,
+            "text": " For my apple."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 150.2,
+            "end": 152.2,
+            "text": " In which apple will be written."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 152.2,
+            "end": 154.2,
+            "text": " Let's save it."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 154.2,
+            "end": 156.2,
+            "text": " And let's refresh it."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 156.2,
+            "end": 158.2,
+            "text": " So what happened?"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 158.2,
+            "end": 160.2,
+            "text": " There was a checkbox above."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 160.2,
+            "end": 162.2,
+            "text": " Below, I have a radio button"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 162.2,
+            "end": 164.2,
+            "text": " in which apple is written."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 164.2,
+            "end": 166.2,
+            "text": " Now if I want, I can give multiple"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 166.2,
+            "end": 168.2,
+            "text": " options like this."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 168.2,
+            "end": 170.2,
+            "text": " I gave an apple option."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 170.2,
+            "end": 172.2,
+            "text": " I gave a mango option."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 172.2,
+            "end": 174.2,
+            "text": " I gave a mango option."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 174.2,
+            "end": 176.2,
+            "text": " I gave a mango option."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 176.2,
+            "end": 178.2,
+            "text": " I gave a banana option."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 178.2,
+            "end": 180.2,
+            "text": " I gave a banana option."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 180.2,
+            "end": 182.2,
+            "text": " I gave a banana option."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 182.2,
+            "end": 184.2,
+            "text": " And in this way,"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 184.2,
+            "end": 186.2,
+            "text": " I can copy and paste the same thing here."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 186.2,
+            "end": 188.2,
+            "text": " For mango, I have a mango option."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 188.2,
+            "end": 190.2,
+            "text": " Let's save it."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 190.2,
+            "end": 192.2,
+            "text": " And refresh."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 192.2,
+            "end": 194.2,
+            "text": " So I have an apple, a mango, and a banana."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 194.2,
+            "end": 196.2,
+            "text": " Now what does it mean to group them?"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 196.2,
+            "end": 198.2,
+            "text": " Why is it happening that"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 198.2,
+            "end": 200.2,
+            "text": " only one is being selected now?"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 200.2,
+            "end": 202.2,
+            "text": " Why is the other one being unselected?"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 202.2,
+            "end": 204.2,
+            "text": " This is possible because"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 204.2,
+            "end": 206.2,
+            "text": " I have kept the name attribute"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 206.2,
+            "end": 208.2,
+            "text": " same in all of them."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 208.2,
+            "end": 210.2,
+            "text": " When I keep the name attribute"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 210.2,
+            "end": 212.2,
+            "text": " same, it means that"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 212.2,
+            "end": 214.2,
+            "text": " I have grouped multiple radio buttons."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 214.2,
+            "end": 216.2,
+            "text": " Because the name attribute is fruit."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 216.2,
+            "end": 218.2,
+            "text": " So the fruit can have only one value"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 218.2,
+            "end": 220.2,
+            "text": " which will go inside the URL."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 220.2,
+            "end": 222.2,
+            "text": " If I select the banana"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 222.2,
+            "end": 224.2,
+            "text": " and submit it,"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 224.2,
+            "end": 226.2,
+            "text": " then some information like this will go inside my URL."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 226.2,
+            "end": 228.2,
+            "text": " Age was the first checkbox."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 228.2,
+            "end": 230.2,
+            "text": " But fruit is equal to on."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 230.2,
+            "end": 232.2,
+            "text": " If I select the mango and submit it,"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 232.2,
+            "end": 234.2,
+            "text": " then also fruit is equal to on."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 234.2,
+            "end": 236.2,
+            "text": " If I submit the apple,"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 236.2,
+            "end": 238.2,
+            "text": " then also fruit is equal to on."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 238.2,
+            "end": 240.2,
+            "text": " But how can I submit"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 240.2,
+            "end": 242.2,
+            "text": " and send the information with the data"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 242.2,
+            "end": 244.2,
+            "text": " that which tick I had done."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 244.2,
+            "end": 246.2,
+            "text": " Did I tick apple, mango,"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 246.2,
+            "end": 248.2,
+            "text": " or banana?"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 248.2,
+            "end": 250.2,
+            "text": " I have grouped all of them."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 250.2,
+            "end": 252.2,
+            "text": " But to show that thing that"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 252.2,
+            "end": 254.2,
+            "text": " it was actually ticked."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 254.2,
+            "end": 256.2,
+            "text": " I use an attribute which we call value attribute."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 256.2,
+            "end": 258.2,
+            "text": " If I write apple in value,"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 258.2,
+            "end": 260.2,
+            "text": " and in the input element"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 260.2,
+            "end": 262.2,
+            "text": " if I write mango in value,"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 262.2,
+            "end": 264.2,
+            "text": " and here in value,"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 264.2,
+            "end": 266.2,
+            "text": " I write banana."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 266.2,
+            "end": 268.2,
+            "text": " And if I save and refresh it,"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 268.2,
+            "end": 270.2,
+            "text": " now if I tick the mango"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 270.2,
+            "end": 272.2,
+            "text": " and submit, then fruit is equal to mango."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 272.2,
+            "end": 274.2,
+            "text": " If I tick the banana"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 274.2,
+            "end": 276.2,
+            "text": " and submit, then fruit is equal to banana."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 276.2,
+            "end": 278.2,
+            "text": " If I tick the apple"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 278.2,
+            "end": 280.2,
+            "text": " and submit, then fruit is equal to apple"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 280.2,
+            "end": 282.2,
+            "text": " comes inside my URL."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 282.2,
+            "end": 284.2,
+            "text": " Now this thing is possible because"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 284.2,
+            "end": 286.2,
+            "text": " I have defined value attribute separately."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 286.2,
+            "end": 288.2,
+            "text": " We have already discussed that"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 288.2,
+            "end": 290.2,
+            "text": " whatever information is passed inside my URL,"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 290.2,
+            "end": 292.2,
+            "text": " in which format it is passed?"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 292.2,
+            "end": 294.2,
+            "text": " It is passed in the format name"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 294.2,
+            "end": 296.2,
+            "text": " is equal to value."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 296.2,
+            "end": 298.2,
+            "text": " Now name is whatever name I have defined"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 298.2,
+            "end": 300.2,
+            "text": " inside the attribute."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 300.2,
+            "end": 302.2,
+            "text": " So here in the attribute, I have defined"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 302.2,
+            "end": 304.2,
+            "text": " fruit."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 304.2,
+            "end": 306.2,
+            "text": " And value is the actual value"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 306.2,
+            "end": 308.2,
+            "text": " which I have passed."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 308.2,
+            "end": 310.2,
+            "text": " Now because there are buttons,"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 310.2,
+            "end": 312.2,
+            "text": " so buttons do not have their own value,"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 312.2,
+            "end": 314.2,
+            "text": " so I have defined the same value"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 314.2,
+            "end": 316.2,
+            "text": " inside the attribute."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 316.2,
+            "end": 318.2,
+            "text": " So that same value,"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 318.2,
+            "end": 320.2,
+            "text": " fruit is equal to something"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 320.2,
+            "end": 322.2,
+            "text": " is passed in the form of information inside my URL."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 322.2,
+            "end": 324.2,
+            "text": " So we have to learn two things from here."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 324.2,
+            "end": 326.2,
+            "text": " Whenever we have to make radio buttons,"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 326.2,
+            "end": 328.2,
+            "text": " so usually when we group radio buttons,"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 328.2,
+            "end": 330.2,
+            "text": " then the value of name should be the same"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 330.2,
+            "end": 332.2,
+            "text": " in all the input elements."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 332.2,
+            "end": 334.2,
+            "text": " If the value of name is the same,"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 334.2,
+            "end": 336.2,
+            "text": " then only it can be grouped."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 336.2,
+            "end": 338.2,
+            "text": " If I save the value like this"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 338.2,
+            "end": 340.2,
+            "text": " fruit1, fruit2, fruit3"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 340.2,
+            "end": 342.2,
+            "text": " and now refresh,"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 342.2,
+            "end": 344.2,
+            "text": " then I can tick mango and banana."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 344.2,
+            "end": 346.2,
+            "text": " But if I want only one tick,"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 346.2,
+            "end": 348.2,
+            "text": " then I have to keep the name"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 348.2,
+            "end": 350.2,
+            "text": " attribute of all the names the same."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 350.2,
+            "end": 352.2,
+            "text": " And if I want the value"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 352.2,
+            "end": 354.2,
+            "text": " to go with them, then separately"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 354.2,
+            "end": 356.2,
+            "text": " I have to define the value attribute"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 356.2,
+            "end": 358.2,
+            "text": " inside my input element."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 358.2,
+            "end": 360.2,
+            "text": " Now as I have grouped a lot of radio buttons,"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 360.2,
+            "end": 362.2,
+            "text": " similarly I can group a lot of checkboxes."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 362.2,
+            "end": 364.2,
+            "text": " The same way to group checkboxes"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 364.2,
+            "end": 366.2,
+            "text": " is also there."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 366.2,
+            "end": 368.2,
+            "text": " That is, we keep the name attribute the same there too."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 368.2,
+            "end": 370.2,
+            "text": " So what I do is"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 370.2,
+            "end": 372.2,
+            "text": " I am going to make a lot of checkboxes."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 372.2,
+            "end": 374.2,
+            "text": " Let's separate it a little from the space."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 376.2,
+            "end": 378.2,
+            "text": " Here we give a lot of options"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 378.2,
+            "end": 380.2,
+            "text": " like this."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 384.2,
+            "end": 386.2,
+            "text": " This is the checkbox type."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 388.2,
+            "end": 390.2,
+            "text": " Now I am going to enter the subjects here."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 390.2,
+            "end": 392.2,
+            "text": " Choose your subjects."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 392.2,
+            "end": 394.2,
+            "text": " Here we can write"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 394.2,
+            "end": 396.2,
+            "text": " choose your subjects."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 398.2,
+            "end": 400.2,
+            "text": " So in this way,"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 400.2,
+            "end": 402.2,
+            "text": " I wrote type is equal to checkbox."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 402.2,
+            "end": 404.2,
+            "text": " I have given the ID."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 404.2,
+            "end": 406.2,
+            "text": " Let's keep the first subject as math."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 406.2,
+            "end": 408.2,
+            "text": " In the beginning, nothing is checked."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 408.2,
+            "end": 410.2,
+            "text": " So let's remove this checked."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 410.2,
+            "end": 412.2,
+            "text": " For math."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 412.2,
+            "end": 414.2,
+            "text": " And here the first subject that I am defining"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 414.2,
+            "end": 416.2,
+            "text": " that is equal to math."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 416.2,
+            "end": 418.2,
+            "text": " So this has become an option for math."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 418.2,
+            "end": 420.2,
+            "text": " The second option I will take"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 420.2,
+            "end": 422.2,
+            "text": " is science."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 422.2,
+            "end": 424.2,
+            "text": " I have taken science."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 424.2,
+            "end": 426.2,
+            "text": " I have written for science."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 426.2,
+            "end": 428.2,
+            "text": " But because I have to group them."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 428.2,
+            "end": 430.2,
+            "text": " So the subject should be the same"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 430.2,
+            "end": 432.2,
+            "text": " in the name too."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 432.2,
+            "end": 434.2,
+            "text": " I should have subjects in the name of this too."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 434.2,
+            "end": 436.2,
+            "text": " Here we take the third subject."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 438.2,
+            "end": 440.2,
+            "text": " Let's take English."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 440.2,
+            "end": 442.2,
+            "text": " I took the English ID of my element."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 442.2,
+            "end": 444.2,
+            "text": " And let's use this in form."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 444.2,
+            "end": 446.2,
+            "text": " Let's use this in text."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 446.2,
+            "end": 448.2,
+            "text": " Now let's save it and refresh."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 448.2,
+            "end": 450.2,
+            "text": " So what happened?"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 450.2,
+            "end": 452.2,
+            "text": " These three checkboxes came to me"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 452.2,
+            "end": 454.2,
+            "text": " after being grouped."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 454.2,
+            "end": 456.2,
+            "text": " So when I select English."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 456.2,
+            "end": 458.2,
+            "text": " And submit."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 458.2,
+            "end": 460.2,
+            "text": " So here I have the subject is equal to on."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 460.2,
+            "end": 462.2,
+            "text": " So the value of this is not yet passed."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 462.2,
+            "end": 464.2,
+            "text": " How will the value be passed?"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 464.2,
+            "end": 466.2,
+            "text": " The value will be passed when"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 466.2,
+            "end": 468.2,
+            "text": " I explicitly go here and"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 468.2,
+            "end": 470.2,
+            "text": " do the value as English."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 470.2,
+            "end": 472.2,
+            "text": " Or explicitly go and do the value"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 472.2,
+            "end": 474.2,
+            "text": " as science."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 474.2,
+            "end": 476.2,
+            "text": " Or here I go explicitly and"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 476.2,
+            "end": 478.2,
+            "text": " do the value as math."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 478.2,
+            "end": 480.2,
+            "text": " You must have noticed that I am writing"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 480.2,
+            "end": 482.2,
+            "text": " Eng instead of English."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 482.2,
+            "end": 484.2,
+            "text": " So when I submit English"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 484.2,
+            "end": 486.2,
+            "text": " it will be Eng."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 486.2,
+            "end": 488.2,
+            "text": " So subjects is equal to Eng."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 488.2,
+            "end": 490.2,
+            "text": " In fact, I can also make the name"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 490.2,
+            "end": 492.2,
+            "text": " small and do sub."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 492.2,
+            "end": 494.2,
+            "text": " Instead of subjects, if I want to"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 494.2,
+            "end": 496.2,
+            "text": " keep sub."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 496.2,
+            "end": 498.2,
+            "text": " Now if I select math."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 498.2,
+            "end": 500.2,
+            "text": " So subject is equal to math."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 500.2,
+            "end": 502.2,
+            "text": " If I select science and"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 502.2,
+            "end": 504.2,
+            "text": " math both, then what will I see?"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 504.2,
+            "end": 506.2,
+            "text": " So I will see subject is equal to"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 506.2,
+            "end": 508.2,
+            "text": " math and subject is equal to"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 508.2,
+            "end": 510.2,
+            "text": " science."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 510.2,
+            "end": 512.2,
+            "text": " So in this way, the difference in checkboxes is"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 512.2,
+            "end": 514.2,
+            "text": " that even after grouping, I can"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 514.2,
+            "end": 516.2,
+            "text": " select multiple."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 516.2,
+            "end": 518.2,
+            "text": " But the difference in radio buttons is that"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 518.2,
+            "end": 520.2,
+            "text": " after grouping, I can select only one."
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 520.2,
+            "end": 522.2,
+            "text": " So whatever will be our use case"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 522.2,
+            "end": 524.2,
+            "text": " in the forms, we will decide accordingly"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 524.2,
+            "end": 526.2,
+            "text": " that I want a radio button or"
+        },
+        {
+            "number": "12",
+            "title": "Radio - Input Element",
+            "start": 526.2,
+            "end": 528.2,
+            "text": " I want a checkbox."
+        }
+    ],
+    "text": " The next type of input element is the radio button. How do we see the radio buttons? Let's search for MDN once again. Radio button MDN. The buttons like this, like the one I'm clicking on here, a particular button is selected. This is called a radio button. The difference between a radio button and a checkbox is that when you show multiple checkboxes, you can select multiple options. But when you group the radio buttons, only one option is selected. If I click on Huey, Huey will be unselected. If I click on Luey, the first option above will be unselected. So whenever you group the radio buttons, you can select only one option. So why do we use radio buttons? Whenever I have to select the option of Yes or No. Or whenever I have to select the option of Male or Female in Gender. When I have to select these options, I know that no one will select all the options. Only one option will be true. Or let's say I have to select the option of True or False. Either something will be true or false. So whenever I have to select these options, we use radio buttons. To create radio buttons, we make an input element where we put type=\"radio\". Let's say I want to make a list of fruits. I want to show multiple fruits. In this format, my radio buttons are created. Here I have apple, mango, and banana. So what can I do for this? I can write radio in the input type. I can write fruit in the name. The ID of this particular fruit will be apple. I can write apple in the ID of this particular fruit. For now, let's ignore this value attribute. And with this fruit, I can associate the label for apple, apple. So I will have a single radio element. To create this, let's go to our HTML file. In this form, let's go to the next line. Or in fact, let's make a div. In the div, first of all, I will create an input element whose type we will write radio=\". Let's give it a name. The name will be fruit. The ID will be apple=\". And with this, I will create a label. I will create a label by associating it with the label. For my apple. In which apple will be written. Let's save it. And let's refresh it. So what happened? There was a checkbox above. Below, I have a radio button in which apple is written. Now if I want, I can give multiple options like this. I gave an apple option. I gave a mango option. I gave a mango option. I gave a mango option. I gave a banana option. I gave a banana option. I gave a banana option. And in this way, I can copy and paste the same thing here. For mango, I have a mango option. Let's save it. And refresh. So I have an apple, a mango, and a banana. Now what does it mean to group them? Why is it happening that only one is being selected now? Why is the other one being unselected? This is possible because I have kept the name attribute same in all of them. When I keep the name attribute same, it means that I have grouped multiple radio buttons. Because the name attribute is fruit. So the fruit can have only one value which will go inside the URL. If I select the banana and submit it, then some information like this will go inside my URL. Age was the first checkbox. But fruit is equal to on. If I select the mango and submit it, then also fruit is equal to on. If I submit the apple, then also fruit is equal to on. But how can I submit and send the information with the data that which tick I had done. Did I tick apple, mango, or banana? I have grouped all of them. But to show that thing that it was actually ticked. I use an attribute which we call value attribute. If I write apple in value, and in the input element if I write mango in value, and here in value, I write banana. And if I save and refresh it, now if I tick the mango and submit, then fruit is equal to mango. If I tick the banana and submit, then fruit is equal to banana. If I tick the apple and submit, then fruit is equal to apple comes inside my URL. Now this thing is possible because I have defined value attribute separately. We have already discussed that whatever information is passed inside my URL, in which format it is passed? It is passed in the format name is equal to value. Now name is whatever name I have defined inside the attribute. So here in the attribute, I have defined fruit. And value is the actual value which I have passed. Now because there are buttons, so buttons do not have their own value, so I have defined the same value inside the attribute. So that same value, fruit is equal to something is passed in the form of information inside my URL. So we have to learn two things from here. Whenever we have to make radio buttons, so usually when we group radio buttons, then the value of name should be the same in all the input elements. If the value of name is the same, then only it can be grouped. If I save the value like this fruit1, fruit2, fruit3 and now refresh, then I can tick mango and banana. But if I want only one tick, then I have to keep the name attribute of all the names the same. And if I want the value to go with them, then separately I have to define the value attribute inside my input element. Now as I have grouped a lot of radio buttons, similarly I can group a lot of checkboxes. The same way to group checkboxes is also there. That is, we keep the name attribute the same there too. So what I do is I am going to make a lot of checkboxes. Let's separate it a little from the space. Here we give a lot of options like this. This is the checkbox type. Now I am going to enter the subjects here. Choose your subjects. Here we can write choose your subjects. So in this way, I wrote type is equal to checkbox. I have given the ID. Let's keep the first subject as math. In the beginning, nothing is checked. So let's remove this checked. For math. And here the first subject that I am defining that is equal to math. So this has become an option for math. The second option I will take is science. I have taken science. I have written for science. But because I have to group them. So the subject should be the same in the name too. I should have subjects in the name of this too. Here we take the third subject. Let's take English. I took the English ID of my element. And let's use this in form. Let's use this in text. Now let's save it and refresh. So what happened? These three checkboxes came to me after being grouped. So when I select English. And submit. So here I have the subject is equal to on. So the value of this is not yet passed. How will the value be passed? The value will be passed when I explicitly go here and do the value as English. Or explicitly go and do the value as science. Or here I go explicitly and do the value as math. You must have noticed that I am writing Eng instead of English. So when I submit English it will be Eng. So subjects is equal to Eng. In fact, I can also make the name small and do sub. Instead of subjects, if I want to keep sub. Now if I select math. So subject is equal to math. If I select science and math both, then what will I see? So I will see subject is equal to math and subject is equal to science. So in this way, the difference in checkboxes is that even after grouping, I can select multiple. But the difference in radio buttons is that after grouping, I can select only one. So whatever will be our use case in the forms, we will decide accordingly that I want a radio button or I want a checkbox."
+}

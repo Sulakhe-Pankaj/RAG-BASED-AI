@@ -1,0 +1,306 @@
+{
+    "chunks": [
+        {
+            "number": "10",
+            "title": "Practice Qs",
+            "start": 0.0,
+            "end": 2.66,
+            "text": " Next, we will move to our practice question 8."
+        },
+        {
+            "number": "10",
+            "title": "Practice Qs",
+            "start": 2.66,
+            "end": 7.16,
+            "text": " In practice question 8, I have been given the activity to create a search option"
+        },
+        {
+            "number": "10",
+            "title": "Practice Qs",
+            "start": 7.16,
+            "end": 11.16,
+            "text": " which is redirected to Google."
+        },
+        {
+            "number": "10",
+            "title": "Practice Qs",
+            "start": 11.16,
+            "end": 16.66,
+            "text": " Just like we did for YouTube, we are going to do something similar for Google."
+        },
+        {
+            "number": "10",
+            "title": "Practice Qs",
+            "start": 16.66,
+            "end": 23.96,
+            "text": " For Google, I have to create an input box and a submit button."
+        },
+        {
+            "number": "10",
+            "title": "Practice Qs",
+            "start": 24.12,
+            "end": 26.12,
+            "text": " I can type anything in this input box."
+        },
+        {
+            "number": "10",
+            "title": "Practice Qs",
+            "start": 26.12,
+            "end": 28.12,
+            "text": " Let's say I typed Apple."
+        },
+        {
+            "number": "10",
+            "title": "Practice Qs",
+            "start": 28.12,
+            "end": 33.120000000000005,
+            "text": " As soon as I click on submit, the Google page will open"
+        },
+        {
+            "number": "10",
+            "title": "Practice Qs",
+            "start": 33.120000000000005,
+            "end": 40.120000000000005,
+            "text": " in which the same text will be searched as I did in my normal page."
+        },
+        {
+            "number": "10",
+            "title": "Practice Qs",
+            "start": 40.120000000000005,
+            "end": 43.120000000000005,
+            "text": " I have to do something similar to what we did for YouTube."
+        },
+        {
+            "number": "10",
+            "title": "Practice Qs",
+            "start": 43.120000000000005,
+            "end": 51.120000000000005,
+            "text": " So, first of all, we will create a form in our HTML."
+        },
+        {
+            "number": "10",
+            "title": "Practice Qs",
+            "start": 51.279999999999994,
+            "end": 54.28,
+            "text": " Now, I have to decide where the form data will be redirected."
+        },
+        {
+            "number": "10",
+            "title": "Practice Qs",
+            "start": 54.28,
+            "end": 58.28,
+            "text": " For that, let's see where the data is redirected on Google.com."
+        },
+        {
+            "number": "10",
+            "title": "Practice Qs",
+            "start": 58.28,
+            "end": 60.28,
+            "text": " I am going to Google.com."
+        },
+        {
+            "number": "10",
+            "title": "Practice Qs",
+            "start": 60.28,
+            "end": 62.28,
+            "text": " Let's say I searched for Apple."
+        },
+        {
+            "number": "10",
+            "title": "Practice Qs",
+            "start": 62.28,
+            "end": 66.28,
+            "text": " A big URL is being displayed."
+        },
+        {
+            "number": "10",
+            "title": "Practice Qs",
+            "start": 66.28,
+            "end": 70.28,
+            "text": " Let's copy and paste it here."
+        },
+        {
+            "number": "10",
+            "title": "Practice Qs",
+            "start": 70.28,
+            "end": 75.28,
+            "text": " In this big URL, the starting part is only useful for me."
+        },
+        {
+            "number": "10",
+            "title": "Practice Qs",
+            "start": 75.44,
+            "end": 81.44,
+            "text": " I have to make sure that the last part is automatically added."
+        },
+        {
+            "number": "10",
+            "title": "Practice Qs",
+            "start": 81.44,
+            "end": 83.44,
+            "text": " So, I have to ignore the last part."
+        },
+        {
+            "number": "10",
+            "title": "Practice Qs",
+            "start": 83.44,
+            "end": 87.44,
+            "text": " In fact, I will remove it."
+        },
+        {
+            "number": "10",
+            "title": "Practice Qs",
+            "start": 93.44,
+            "end": 98.44,
+            "text": " We will add this last part in our action."
+        },
+        {
+            "number": "10",
+            "title": "Practice Qs",
+            "start": 98.44,
+            "end": 100.44,
+            "text": " So, the action will be this thing."
+        },
+        {
+            "number": "10",
+            "title": "Practice Qs",
+            "start": 100.44,
+            "end": 104.44,
+            "text": " I know that the name of my query should be qkEqual."
+        },
+        {
+            "number": "10",
+            "title": "Practice Qs",
+            "start": 104.6,
+            "end": 108.6,
+            "text": " So, I am going to create an input element in my form."
+        },
+        {
+            "number": "10",
+            "title": "Practice Qs",
+            "start": 108.6,
+            "end": 113.6,
+            "text": " I am going to type text equal and name it q."
+        },
+        {
+            "number": "10",
+            "title": "Practice Qs",
+            "start": 113.6,
+            "end": 116.6,
+            "text": " Along with this, we can also add a placeholder."
+        },
+        {
+            "number": "10",
+            "title": "Practice Qs",
+            "start": 116.6,
+            "end": 119.6,
+            "text": " Search in Google."
+        },
+        {
+            "number": "10",
+            "title": "Practice Qs",
+            "start": 120.6,
+            "end": 124.6,
+            "text": " Next, I will make a button and name it search."
+        },
+        {
+            "number": "10",
+            "title": "Practice Qs",
+            "start": 124.6,
+            "end": 126.6,
+            "text": " Let's save it."
+        },
+        {
+            "number": "10",
+            "title": "Practice Qs",
+            "start": 126.6,
+            "end": 129.6,
+            "text": " And let's refresh it."
+        },
+        {
+            "number": "10",
+            "title": "Practice Qs",
+            "start": 129.6,
+            "end": 131.6,
+            "text": " So, I have created a search in Google."
+        },
+        {
+            "number": "10",
+            "title": "Practice Qs",
+            "start": 131.76,
+            "end": 133.76,
+            "text": " I have typed Apple."
+        },
+        {
+            "number": "10",
+            "title": "Practice Qs",
+            "start": 133.76,
+            "end": 137.76,
+            "text": " As soon as I click on search, my query will be searched in Google."
+        },
+        {
+            "number": "10",
+            "title": "Practice Qs",
+            "start": 137.76,
+            "end": 139.76,
+            "text": " So, I don't have to do anything."
+        },
+        {
+            "number": "10",
+            "title": "Practice Qs",
+            "start": 139.76,
+            "end": 141.76,
+            "text": " I just needed a simple URL."
+        },
+        {
+            "number": "10",
+            "title": "Practice Qs",
+            "start": 141.76,
+            "end": 145.76,
+            "text": " We can do the same thing with Reddit."
+        },
+        {
+            "number": "10",
+            "title": "Practice Qs",
+            "start": 145.76,
+            "end": 149.76,
+            "text": " There are a few other websites that can be recreated with this."
+        },
+        {
+            "number": "10",
+            "title": "Practice Qs",
+            "start": 149.76,
+            "end": 151.76,
+            "text": " So, this is a way to explore."
+        },
+        {
+            "number": "10",
+            "title": "Practice Qs",
+            "start": 151.76,
+            "end": 153.76,
+            "text": " I am giving you this as a homework problem."
+        },
+        {
+            "number": "10",
+            "title": "Practice Qs",
+            "start": 153.76,
+            "end": 155.76,
+            "text": " You can take out 5-10 minutes of your time."
+        },
+        {
+            "number": "10",
+            "title": "Practice Qs",
+            "start": 155.76,
+            "end": 160.76,
+            "text": " Pause the video and you can either go to Reddit or any other random website."
+        },
+        {
+            "number": "10",
+            "title": "Practice Qs",
+            "start": 160.76,
+            "end": 168.92,
+            "text": " You can see how you can use the name attribute to implement a search query."
+        }
+    ],
+    "text": " Next, we will move to our practice question 8. In practice question 8, I have been given the activity to create a search option which is redirected to Google. Just like we did for YouTube, we are going to do something similar for Google. For Google, I have to create an input box and a submit button. I can type anything in this input box. Let's say I typed Apple. As soon as I click on submit, the Google page will open in which the same text will be searched as I did in my normal page. I have to do something similar to what we did for YouTube. So, first of all, we will create a form in our HTML. Now, I have to decide where the form data will be redirected. For that, let's see where the data is redirected on Google.com. I am going to Google.com. Let's say I searched for Apple. A big URL is being displayed. Let's copy and paste it here. In this big URL, the starting part is only useful for me. I have to make sure that the last part is automatically added. So, I have to ignore the last part. In fact, I will remove it. We will add this last part in our action. So, the action will be this thing. I know that the name of my query should be qkEqual. So, I am going to create an input element in my form. I am going to type text equal and name it q. Along with this, we can also add a placeholder. Search in Google. Next, I will make a button and name it search. Let's save it. And let's refresh it. So, I have created a search in Google. I have typed Apple. As soon as I click on search, my query will be searched in Google. So, I don't have to do anything. I just needed a simple URL. We can do the same thing with Reddit. There are a few other websites that can be recreated with this. So, this is a way to explore. I am giving you this as a homework problem. You can take out 5-10 minutes of your time. Pause the video and you can either go to Reddit or any other random website. You can see how you can use the name attribute to implement a search query."
+}

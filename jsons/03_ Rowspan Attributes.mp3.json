@@ -1,0 +1,1552 @@
+{
+    "chunks": [
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 0.0,
+            "end": 3.46,
+            "text": " Next, we will talk about two special attributes in tables."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 3.46,
+            "end": 6.34,
+            "text": " One is called call span and the other is called row span."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 6.34,
+            "end": 11.540000000000001,
+            "text": " If we explain it in more detail, then it is column span and row span."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 11.540000000000001,
+            "end": 14.24,
+            "text": " When we understand the meaning of span here,"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 14.24,
+            "end": 18.94,
+            "text": " then we have to see how much area is surrounded by span."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 18.94,
+            "end": 22.94,
+            "text": " That is, how much area is occupied by a cell in a table."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 22.94,
+            "end": 27.26,
+            "text": " Usually, when I create a normal table, like this table,"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 27.26,
+            "end": 34.36,
+            "text": " then I can say that it occupies one row and one column."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 34.36,
+            "end": 38.56,
+            "text": " That is, if we see it this way, then how many columns does a fruity cell come in?"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 38.56,
+            "end": 40.06,
+            "text": " It comes in one column."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 40.06,
+            "end": 43.36,
+            "text": " If we see it this way, then how many rows does a fruity cell come in?"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 43.36,
+            "end": 45.06,
+            "text": " It comes in one row."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 45.06,
+            "end": 50.260000000000005,
+            "text": " If I talk about item, then it also occupies one row and one column."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 50.260000000000005,
+            "end": 53.06,
+            "text": " So whenever we write data in tables,"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 53.06,
+            "end": 62.760000000000005,
+            "text": " then by default, any cell occupies one row and one column."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 62.760000000000005,
+            "end": 71.46000000000001,
+            "text": " But sometimes I need to create tables in which a particular cell spans multiple columns or rows."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 71.46000000000001,
+            "end": 74.16,
+            "text": " In that case, we use these two attributes."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 74.16,
+            "end": 76.26,
+            "text": " For example, if I take the example of this table,"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 76.26,
+            "end": 81.56,
+            "text": " then I can see that the fruity cell occupies one column and one row."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 81.56,
+            "end": 85.76,
+            "text": " My 10 cell also occupies one row and one column."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 85.76,
+            "end": 88.56,
+            "text": " But if I look at this price cell,"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 88.56,
+            "end": 92.56,
+            "text": " then if we look at the price cell, then it comes in one row."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 92.56,
+            "end": 97.76,
+            "text": " But if we look at the price cell, then it has two columns internally."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 97.76,
+            "end": 101.56,
+            "text": " This is one column and this is my second column."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 101.56,
+            "end": 105.16,
+            "text": " So the price is occupying two columns in one way."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 105.36,
+            "end": 107.96,
+            "text": " So if I talk about the price cell,"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 107.96,
+            "end": 112.75999999999999,
+            "text": " then it occupies one row and two columns."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 112.75999999999999,
+            "end": 115.75999999999999,
+            "text": " Similarly, if I talk about the item cell,"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 115.75999999999999,
+            "end": 119.96,
+            "text": " then the item cell occupies one column."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 119.96,
+            "end": 125.36,
+            "text": " That is, there is only one single line in the vertical line that can pass all the data across the table."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 125.36,
+            "end": 132.35999999999999,
+            "text": " But if I talk about rows, then I have to draw two lines in a row to cover the entire cell."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 132.56,
+            "end": 135.56,
+            "text": " So the item is occupying two rows."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 135.56,
+            "end": 138.76000000000002,
+            "text": " So let's write this once too that in my item cell,"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 138.76000000000002,
+            "end": 142.76000000000002,
+            "text": " I have two rows and one column."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 142.76000000000002,
+            "end": 145.56,
+            "text": " So wherever there is one column, there is one row,"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 145.56,
+            "end": 150.36,
+            "text": " I don't have to do anything for this because by default, one cell will take one row and one column."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 150.36,
+            "end": 153.36,
+            "text": " But if I have to give more rows and columns than this,"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 153.36,
+            "end": 156.16000000000003,
+            "text": " like if I have to give two columns to the price,"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 156.16000000000003,
+            "end": 160.76000000000002,
+            "text": " then I will use the call span attribute and set the value to 2."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 160.95999999999998,
+            "end": 162.95999999999998,
+            "text": " By default, this value is always 1."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 162.95999999999998,
+            "end": 166.95999999999998,
+            "text": " But when I write the call span and create the price header,"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 166.95999999999998,
+            "end": 169.95999999999998,
+            "text": " that is, when I write TH in this way,"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 171.16,
+            "end": 174.16,
+            "text": " and I am going to display the price in it,"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 174.16,
+            "end": 179.16,
+            "text": " then I have to use an attribute in TH which is equal to call span."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 179.16,
+            "end": 183.95999999999998,
+            "text": " Here I will write call span equal to 2."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 183.95999999999998,
+            "end": 186.95999999999998,
+            "text": " So in this way, the price will take one row by default,"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 186.95999999999998,
+            "end": 189.35999999999999,
+            "text": " but how many columns will it take? It will take equal to two columns."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 189.56,
+            "end": 192.56,
+            "text": " So then it will spread across two columns."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 192.56,
+            "end": 195.56,
+            "text": " Similarly, if I have to talk about the item,"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 195.56,
+            "end": 198.56,
+            "text": " then when I write the item, I will write TH"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 198.56,
+            "end": 203.56,
+            "text": " and for this I am going to set the value of my row span equal to 2."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 203.56,
+            "end": 207.56,
+            "text": " And here we will write item TH."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 207.56,
+            "end": 211.56,
+            "text": " So in this way, when I write the item, it will be this big in size"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 211.56,
+            "end": 214.56,
+            "text": " and if I write the price, it will be this big in size."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 214.56,
+            "end": 218.56,
+            "text": " So if summarized, then column span and row span are attributes"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 218.76,
+            "end": 221.76,
+            "text": " and with the help of these attributes, we create cells"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 221.76,
+            "end": 225.76,
+            "text": " that surround or span multiple rows and multiple columns."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 225.76,
+            "end": 229.76,
+            "text": " So with the help of these attributes, we are going to recreate this table a little."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 229.76,
+            "end": 233.76,
+            "text": " To recreate, let's understand what is going on inside this table."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 233.76,
+            "end": 238.76,
+            "text": " First of all, I can see that it is fixed here that this is the caption of my table."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 238.76,
+            "end": 240.76,
+            "text": " The caption is food menu."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 240.76,
+            "end": 242.76,
+            "text": " Now what has changed inside the table?"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 242.76,
+            "end": 245.76,
+            "text": " First, the items are written as they were written,"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 245.95999999999998,
+            "end": 247.95999999999998,
+            "text": " but this time the price is not only in rupees."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 247.95999999999998,
+            "end": 250.95999999999998,
+            "text": " Here the price is in rupees, i.e. Indian Rupee INR"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 250.95999999999998,
+            "end": 253.95999999999998,
+            "text": " and here the price is in US dollars."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 253.95999999999998,
+            "end": 257.96,
+            "text": " So I have given the title of USD and this is the title of INR."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 257.96,
+            "end": 262.96,
+            "text": " So if you want, you can buy the same item in Indian Rupee or in US Dollar."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 262.96,
+            "end": 264.96,
+            "text": " We will recreate this table."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 264.96,
+            "end": 266.96,
+            "text": " First of all, let's talk about what is the header here."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 266.96,
+            "end": 269.96,
+            "text": " Let's separate the header and main body."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 270.15999999999997,
+            "end": 275.15999999999997,
+            "text": " This is my header and this is my main body."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 275.15999999999997,
+            "end": 277.15999999999997,
+            "text": " Now if we talk about row wise,"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 277.15999999999997,
+            "end": 281.15999999999997,
+            "text": " I know that this is my one row and this is my second row."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 281.15999999999997,
+            "end": 285.15999999999997,
+            "text": " So inside the header, I know that I have to create two rows."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 285.15999999999997,
+            "end": 287.15999999999997,
+            "text": " With the help of which tag will we do?"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 287.15999999999997,
+            "end": 289.15999999999997,
+            "text": " With the help of the TR tag."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 289.15999999999997,
+            "end": 292.15999999999997,
+            "text": " If we talk about the main body, then the main body is very simple."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 292.15999999999997,
+            "end": 294.15999999999997,
+            "text": " But this time there is a small change"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 294.15999999999997,
+            "end": 296.15999999999997,
+            "text": " that inside one row, what used to happen before?"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 296.36,
+            "end": 298.36,
+            "text": " We used to create two data cells,"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 298.36,
+            "end": 300.36,
+            "text": " that is, we used to create two columns."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 300.36,
+            "end": 304.36,
+            "text": " This time we will be creating three columns in every row."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 304.36,
+            "end": 306.36,
+            "text": " So this is going to be very simple."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 306.36,
+            "end": 308.36,
+            "text": " We will create it row wise,"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 308.36,
+            "end": 310.36,
+            "text": " in which my TR tag will be outside"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 310.36,
+            "end": 312.36,
+            "text": " and my TD tag will be on the inside."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 312.36,
+            "end": 314.36,
+            "text": " First of all, let's do the easy part."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 314.36,
+            "end": 316.36,
+            "text": " That is, let's create our caption first"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 316.36,
+            "end": 318.36,
+            "text": " and create its body."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 318.36,
+            "end": 320.36,
+            "text": " We will not touch the header for now."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 320.36,
+            "end": 322.36,
+            "text": " So what I will do is"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 322.36,
+            "end": 324.36,
+            "text": " I am going to create a new table."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 326.36,
+            "end": 328.36,
+            "text": " Let's write the caption of the table first."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 328.36,
+            "end": 330.36,
+            "text": " Caption is going to be"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 330.36,
+            "end": 332.36,
+            "text": " Food Menu."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 332.36,
+            "end": 334.36,
+            "text": " Let's delete the table above"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 334.36,
+            "end": 338.36,
+            "text": " because we are going to recreate this table again."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 338.36,
+            "end": 340.36,
+            "text": " First of all, I know that"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 340.36,
+            "end": 342.36,
+            "text": " I have to create the header of my table."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 342.36,
+            "end": 344.36,
+            "text": " So for now we will leave it empty"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 344.36,
+            "end": 346.36,
+            "text": " and I have to create the body of my table."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 346.36,
+            "end": 348.36,
+            "text": " To create the body,"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 348.36,
+            "end": 350.36,
+            "text": " I will have to create three rows."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 350.36,
+            "end": 352.36,
+            "text": " So this is my first row."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 352.36,
+            "end": 354.36,
+            "text": " Now inside the first row, I have to create three cells."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 354.56,
+            "end": 356.56,
+            "text": " So I will display three types of data."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 356.56,
+            "end": 358.56,
+            "text": " First, I am going to display Fruity."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 358.56,
+            "end": 360.56,
+            "text": " After that,"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 360.56,
+            "end": 362.56,
+            "text": " we are going to display on the second number"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 362.56,
+            "end": 364.56,
+            "text": " its price in Indian Rupees which is equal to 10."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 364.56,
+            "end": 366.56,
+            "text": " And after that,"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 366.56,
+            "end": 368.56,
+            "text": " we are going to display its price in US Dollars"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 368.56,
+            "end": 370.56,
+            "text": " which is equal to 0.14."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 370.56,
+            "end": 372.56,
+            "text": " So I have created"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 372.56,
+            "end": 374.56,
+            "text": " one row."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 374.56,
+            "end": 376.56,
+            "text": " Similarly, I will create two more rows."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 376.56,
+            "end": 378.56,
+            "text": " Let's change our item."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 378.56,
+            "end": 380.56,
+            "text": " Samosa, 12 rupees,"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 380.56,
+            "end": 382.56,
+            "text": " 0.17."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 382.76,
+            "end": 384.76,
+            "text": " Here I will display chips."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 384.76,
+            "end": 386.76,
+            "text": " 20 rupees,"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 386.76,
+            "end": 388.76,
+            "text": " 0.28."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 388.76,
+            "end": 390.76,
+            "text": " Let's save it."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 390.76,
+            "end": 392.76,
+            "text": " And here I have refreshed."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 392.76,
+            "end": 394.76,
+            "text": " So the food menu is displayed"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 394.76,
+            "end": 396.76,
+            "text": " and I have the complete data of my table."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 396.76,
+            "end": 398.76,
+            "text": " Now the remaining work is to create the header."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 398.76,
+            "end": 400.76,
+            "text": " To create the header,"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 400.76,
+            "end": 402.76,
+            "text": " for simplicity,"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 402.76,
+            "end": 404.76,
+            "text": " I am going to display"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 404.76,
+            "end": 406.76,
+            "text": " the border of my table."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 406.76,
+            "end": 408.76,
+            "text": " So that we can understand"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 408.76,
+            "end": 410.76,
+            "text": " what is going on inside the table."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 410.96,
+            "end": 412.96,
+            "text": " So I have created a table"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 412.96,
+            "end": 414.96,
+            "text": " which has three columns in a single row."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 414.96,
+            "end": 416.96,
+            "text": " Now let's create the header."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 416.96,
+            "end": 418.96,
+            "text": " To create the header,"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 418.96,
+            "end": 420.96,
+            "text": " I had understood that I have to create two rows."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 420.96,
+            "end": 422.96,
+            "text": " So first of all,"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 422.96,
+            "end": 424.96,
+            "text": " let's create the first row with the TR tag."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 424.96,
+            "end": 426.96,
+            "text": " And then I have created the second row."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 426.96,
+            "end": 428.96,
+            "text": " So I have used two TR tags."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 428.96,
+            "end": 430.96,
+            "text": " Now in the first row,"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 430.96,
+            "end": 432.96,
+            "text": " I have to see which items are coming."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 432.96,
+            "end": 434.96,
+            "text": " Let's remove all these things from the table."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 434.96,
+            "end": 436.96,
+            "text": " In the first row,"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 436.96,
+            "end": 438.96,
+            "text": " I can see by drawing a horizontal line"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 439.15999999999997,
+            "end": 441.15999999999997,
+            "text": " that one item is coming in the first row"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 441.15999999999997,
+            "end": 443.15999999999997,
+            "text": " and the other is the price."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 443.15999999999997,
+            "end": 445.15999999999997,
+            "text": " So I am going to write these things"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 445.15999999999997,
+            "end": 447.15999999999997,
+            "text": " with the help of two header tags."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 447.15999999999997,
+            "end": 449.15999999999997,
+            "text": " One will be my item and the other will be my price."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 449.15999999999997,
+            "end": 451.15999999999997,
+            "text": " So here I will write"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 451.15999999999997,
+            "end": 453.15999999999997,
+            "text": " in the first row,"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 453.15999999999997,
+            "end": 455.15999999999997,
+            "text": " my first header tag,"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 455.15999999999997,
+            "end": 457.15999999999997,
+            "text": " which will have the item"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 457.15999999999997,
+            "end": 459.15999999999997,
+            "text": " and then the second tag,"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 459.15999999999997,
+            "end": 461.15999999999997,
+            "text": " which will have my price."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 461.15999999999997,
+            "end": 463.15999999999997,
+            "text": " But one thing that we have understood"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 463.15999999999997,
+            "end": 465.15999999999997,
+            "text": " with the help of call span and row span"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 465.15999999999997,
+            "end": 467.15999999999997,
+            "text": " is that what is going to happen inside the item."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 467.36,
+            "end": 469.36,
+            "text": " The value of the row span is going to be 2"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 469.36,
+            "end": 471.36,
+            "text": " because how many rows does it occupy?"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 471.36,
+            "end": 473.36,
+            "text": " It occupies 2 rows by default."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 473.36,
+            "end": 475.36,
+            "text": " And the value of the call span"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 475.36,
+            "end": 477.36,
+            "text": " is going to be 2 in the price"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 477.36,
+            "end": 479.36,
+            "text": " because how many columns does it occupy?"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 479.36,
+            "end": 481.36,
+            "text": " It occupies 2 columns because it can"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 481.36,
+            "end": 483.36,
+            "text": " produce 2 vertical lines."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 483.36,
+            "end": 485.36,
+            "text": " How can we understand how many columns are being occupied?"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 485.36,
+            "end": 487.36,
+            "text": " The number of vertical lines that can come out"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 487.36,
+            "end": 489.36,
+            "text": " covering the entire table."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 489.36,
+            "end": 491.36,
+            "text": " And how do we know how many rows are being occupied?"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 491.36,
+            "end": 493.36,
+            "text": " How many horizontal lines can come out"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 493.36,
+            "end": 495.36,
+            "text": " covering the entire table."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 495.56,
+            "end": 497.56,
+            "text": " So for the item,"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 497.56,
+            "end": 499.56,
+            "text": " we will write the value of the row span"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 499.56,
+            "end": 501.56,
+            "text": " as row span equals to 2"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 501.56,
+            "end": 503.56,
+            "text": " and for the price, we will write"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 503.56,
+            "end": 505.56,
+            "text": " column span equals to 2."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 505.56,
+            "end": 507.56,
+            "text": " Let's save this and for now"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 507.56,
+            "end": 509.56,
+            "text": " the table that we will see is something like this."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 509.56,
+            "end": 511.56,
+            "text": " In which we can see only the item"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 511.56,
+            "end": 513.5600000000001,
+            "text": " and only the price."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 513.5600000000001,
+            "end": 515.5600000000001,
+            "text": " But as soon as I create 2 more headers"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 515.5600000000001,
+            "end": 517.5600000000001,
+            "text": " in the second row,"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 517.5600000000001,
+            "end": 519.5600000000001,
+            "text": " let's talk about the second row."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 519.5600000000001,
+            "end": 521.5600000000001,
+            "text": " In the second row, I have"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 521.5600000000001,
+            "end": 523.5600000000001,
+            "text": " 3 items like this."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 523.76,
+            "end": 525.76,
+            "text": " One is Indian Rupees and the other is USD."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 525.76,
+            "end": 527.76,
+            "text": " I have these 3 headers available."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 527.76,
+            "end": 529.76,
+            "text": " I have already written the item"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 529.76,
+            "end": 531.76,
+            "text": " in the first row. It will just spread"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 531.76,
+            "end": 533.76,
+            "text": " and come to the second row. So I will leave it empty."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 533.76,
+            "end": 535.76,
+            "text": " What I will do is I will create"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 535.76,
+            "end": 537.76,
+            "text": " only 2 elements."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 537.76,
+            "end": 539.76,
+            "text": " First is going to be INR header"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 539.76,
+            "end": 541.76,
+            "text": " and second is going to be USD header."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 541.76,
+            "end": 543.76,
+            "text": " So let's create"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 543.76,
+            "end": 545.76,
+            "text": " 2 headers here. First one will be INR"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 545.76,
+            "end": 547.76,
+            "text": " and the second one will be"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 547.76,
+            "end": 549.76,
+            "text": " USD."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 549.76,
+            "end": 551.76,
+            "text": " Now let's save this"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 551.96,
+            "end": 553.96,
+            "text": " and refresh."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 553.96,
+            "end": 555.96,
+            "text": " So my table is looking exactly like the one we started with."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 555.96,
+            "end": 557.96,
+            "text": " Here we can see in detail"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 557.96,
+            "end": 559.96,
+            "text": " that I have created the item"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 559.96,
+            "end": 561.96,
+            "text": " in the table in the code only once."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 561.96,
+            "end": 563.96,
+            "text": " But because I have used the row span attribute"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 563.96,
+            "end": 565.96,
+            "text": " with it, it has spread to 2 rows."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 565.96,
+            "end": 567.96,
+            "text": " I have created the price"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 567.96,
+            "end": 569.96,
+            "text": " only once but because"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 569.96,
+            "end": 571.96,
+            "text": " I have given 2 values to the call span"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 571.96,
+            "end": 573.96,
+            "text": " so it has spread to 2 columns"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 573.96,
+            "end": 575.96,
+            "text": " and the item has spread"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 575.96,
+            "end": 577.96,
+            "text": " to 2 rows. So in this way"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 577.96,
+            "end": 579.96,
+            "text": " we use the call span and row span attribute."
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 580.1600000000001,
+            "end": 582.1600000000001,
+            "text": " Whenever we want"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 582.1600000000001,
+            "end": 584.1600000000001,
+            "text": " a particular cell to reach multiple rows"
+        },
+        {
+            "number": "03",
+            "title": " Rowspan Attributes",
+            "start": 584.1600000000001,
+            "end": 586.1600000000001,
+            "text": " or multiple columns."
+        }
+    ],
+    "text": " Next, we will talk about two special attributes in tables. One is called call span and the other is called row span. If we explain it in more detail, then it is column span and row span. When we understand the meaning of span here, then we have to see how much area is surrounded by span. That is, how much area is occupied by a cell in a table. Usually, when I create a normal table, like this table, then I can say that it occupies one row and one column. That is, if we see it this way, then how many columns does a fruity cell come in? It comes in one column. If we see it this way, then how many rows does a fruity cell come in? It comes in one row. If I talk about item, then it also occupies one row and one column. So whenever we write data in tables, then by default, any cell occupies one row and one column. But sometimes I need to create tables in which a particular cell spans multiple columns or rows. In that case, we use these two attributes. For example, if I take the example of this table, then I can see that the fruity cell occupies one column and one row. My 10 cell also occupies one row and one column. But if I look at this price cell, then if we look at the price cell, then it comes in one row. But if we look at the price cell, then it has two columns internally. This is one column and this is my second column. So the price is occupying two columns in one way. So if I talk about the price cell, then it occupies one row and two columns. Similarly, if I talk about the item cell, then the item cell occupies one column. That is, there is only one single line in the vertical line that can pass all the data across the table. But if I talk about rows, then I have to draw two lines in a row to cover the entire cell. So the item is occupying two rows. So let's write this once too that in my item cell, I have two rows and one column. So wherever there is one column, there is one row, I don't have to do anything for this because by default, one cell will take one row and one column. But if I have to give more rows and columns than this, like if I have to give two columns to the price, then I will use the call span attribute and set the value to 2. By default, this value is always 1. But when I write the call span and create the price header, that is, when I write TH in this way, and I am going to display the price in it, then I have to use an attribute in TH which is equal to call span. Here I will write call span equal to 2. So in this way, the price will take one row by default, but how many columns will it take? It will take equal to two columns. So then it will spread across two columns. Similarly, if I have to talk about the item, then when I write the item, I will write TH and for this I am going to set the value of my row span equal to 2. And here we will write item TH. So in this way, when I write the item, it will be this big in size and if I write the price, it will be this big in size. So if summarized, then column span and row span are attributes and with the help of these attributes, we create cells that surround or span multiple rows and multiple columns. So with the help of these attributes, we are going to recreate this table a little. To recreate, let's understand what is going on inside this table. First of all, I can see that it is fixed here that this is the caption of my table. The caption is food menu. Now what has changed inside the table? First, the items are written as they were written, but this time the price is not only in rupees. Here the price is in rupees, i.e. Indian Rupee INR and here the price is in US dollars. So I have given the title of USD and this is the title of INR. So if you want, you can buy the same item in Indian Rupee or in US Dollar. We will recreate this table. First of all, let's talk about what is the header here. Let's separate the header and main body. This is my header and this is my main body. Now if we talk about row wise, I know that this is my one row and this is my second row. So inside the header, I know that I have to create two rows. With the help of which tag will we do? With the help of the TR tag. If we talk about the main body, then the main body is very simple. But this time there is a small change that inside one row, what used to happen before? We used to create two data cells, that is, we used to create two columns. This time we will be creating three columns in every row. So this is going to be very simple. We will create it row wise, in which my TR tag will be outside and my TD tag will be on the inside. First of all, let's do the easy part. That is, let's create our caption first and create its body. We will not touch the header for now. So what I will do is I am going to create a new table. Let's write the caption of the table first. Caption is going to be Food Menu. Let's delete the table above because we are going to recreate this table again. First of all, I know that I have to create the header of my table. So for now we will leave it empty and I have to create the body of my table. To create the body, I will have to create three rows. So this is my first row. Now inside the first row, I have to create three cells. So I will display three types of data. First, I am going to display Fruity. After that, we are going to display on the second number its price in Indian Rupees which is equal to 10. And after that, we are going to display its price in US Dollars which is equal to 0.14. So I have created one row. Similarly, I will create two more rows. Let's change our item. Samosa, 12 rupees, 0.17. Here I will display chips. 20 rupees, 0.28. Let's save it. And here I have refreshed. So the food menu is displayed and I have the complete data of my table. Now the remaining work is to create the header. To create the header, for simplicity, I am going to display the border of my table. So that we can understand what is going on inside the table. So I have created a table which has three columns in a single row. Now let's create the header. To create the header, I had understood that I have to create two rows. So first of all, let's create the first row with the TR tag. And then I have created the second row. So I have used two TR tags. Now in the first row, I have to see which items are coming. Let's remove all these things from the table. In the first row, I can see by drawing a horizontal line that one item is coming in the first row and the other is the price. So I am going to write these things with the help of two header tags. One will be my item and the other will be my price. So here I will write in the first row, my first header tag, which will have the item and then the second tag, which will have my price. But one thing that we have understood with the help of call span and row span is that what is going to happen inside the item. The value of the row span is going to be 2 because how many rows does it occupy? It occupies 2 rows by default. And the value of the call span is going to be 2 in the price because how many columns does it occupy? It occupies 2 columns because it can produce 2 vertical lines. How can we understand how many columns are being occupied? The number of vertical lines that can come out covering the entire table. And how do we know how many rows are being occupied? How many horizontal lines can come out covering the entire table. So for the item, we will write the value of the row span as row span equals to 2 and for the price, we will write column span equals to 2. Let's save this and for now the table that we will see is something like this. In which we can see only the item and only the price. But as soon as I create 2 more headers in the second row, let's talk about the second row. In the second row, I have 3 items like this. One is Indian Rupees and the other is USD. I have these 3 headers available. I have already written the item in the first row. It will just spread and come to the second row. So I will leave it empty. What I will do is I will create only 2 elements. First is going to be INR header and second is going to be USD header. So let's create 2 headers here. First one will be INR and the second one will be USD. Now let's save this and refresh. So my table is looking exactly like the one we started with. Here we can see in detail that I have created the item in the table in the code only once. But because I have used the row span attribute with it, it has spread to 2 rows. I have created the price only once but because I have given 2 values to the call span so it has spread to 2 columns and the item has spread to 2 rows. So in this way we use the call span and row span attribute. Whenever we want a particular cell to reach multiple rows or multiple columns."
+}

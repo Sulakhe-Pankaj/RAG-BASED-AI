@@ -1,0 +1,873 @@
+{
+    "chunks": [
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 0.0,
+            "end": 9.24,
+            "text": " There can be many different elements in the form, such as a button element, a text area element, and many more."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 9.24,
+            "end": 16.14,
+            "text": " But the most important element of any form is the input element in HTML."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 16.14,
+            "end": 19.240000000000002,
+            "text": " And don't think of it as a single element."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 19.240000000000002,
+            "end": 23.94,
+            "text": " There are many types of input elements, i.e. 20-25 types of input elements,"
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 23.94,
+            "end": 29.5,
+            "text": " which can be used to recreate 20-25 different types of elements using a single element."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 29.6,
+            "end": 32.9,
+            "text": " That's why I will call it the most important element of a form."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 32.9,
+            "end": 34.4,
+            "text": " What is its function?"
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 34.4,
+            "end": 38.2,
+            "text": " The function of the input element is to create multiple form controls,"
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 38.2,
+            "end": 45.5,
+            "text": " i.e. to take different types of information from the user, we use different types of inputs."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 45.5,
+            "end": 50.8,
+            "text": " Secondly, there are multiple types of inputs that can be created using type attribute."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 50.8,
+            "end": 56.5,
+            "text": " I have an input element in HTML, which is my most important form element."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 56.7,
+            "end": 61.6,
+            "text": " And it doesn't have an opening or closing tag, it only has a single tag, which is the input."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 61.6,
+            "end": 66.2,
+            "text": " Now, there is another attribute inside the input, which is my type element."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 66.2,
+            "end": 71.5,
+            "text": " I write type in this way, and then I can define the type of my input."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 71.5,
+            "end": 77.3,
+            "text": " Here I can define the type of my input, and when I write different types in this attribute,"
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 77.3,
+            "end": 82.7,
+            "text": " then my different elements or form controls start to be created."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 82.7,
+            "end": 85.4,
+            "text": " If I want to take text input, then it will have a different type."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 85.4,
+            "end": 88.2,
+            "text": " If I want to take number input, then it will have a different type."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 88.2,
+            "end": 92.5,
+            "text": " If I want to take date input, then it will have a different type."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 92.5,
+            "end": 99.2,
+            "text": " So, according to the type of my input, I can take a lot of types of input from my user in the form."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 99.2,
+            "end": 104.5,
+            "text": " So, first of all, we are going to create a basic input tag."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 104.5,
+            "end": 110.10000000000001,
+            "text": " So, I created a basic input tag in my form, I have not defined any type in it yet."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 110.10000000000001,
+            "end": 113.30000000000001,
+            "text": " Let's save this and refresh it."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 113.3,
+            "end": 117.89999999999999,
+            "text": " So, what happened is that I have created a box in which I can type anything."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 117.89999999999999,
+            "end": 120.5,
+            "text": " Let's say I typed hello world here."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 120.5,
+            "end": 124.3,
+            "text": " So, I have a box in which I can input my information."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 124.3,
+            "end": 126.7,
+            "text": " I can type any text here."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 126.7,
+            "end": 135.1,
+            "text": " So, whenever I write an input tag in my form, I get an input box in which any text can be typed."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 135.1,
+            "end": 142.0,
+            "text": " If I want to understand different types of inputs, then the most popular inputs that we are using again and again are these."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 142.0,
+            "end": 146.1,
+            "text": " Now, we are going to discuss the type attribute in the input."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 146.1,
+            "end": 152.4,
+            "text": " If I simply write the input, then I know that I will have a simple box in which I can type anything."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 152.4,
+            "end": 158.9,
+            "text": " I can type any text here, or I can type numbers, or I can type special symbols."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 158.9,
+            "end": 165.9,
+            "text": " Now, let's talk about what changes I can make if I start using the type attribute in the same input."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 165.9,
+            "end": 169.2,
+            "text": " First, we are going to use type is equal to text."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 169.29999999999998,
+            "end": 171.0,
+            "text": " So, this is my input."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 171.0,
+            "end": 173.6,
+            "text": " Now, I will create another similar input."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 174.6,
+            "end": 177.7,
+            "text": " One thing you will notice here is that there is a single tag for the input."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 177.7,
+            "end": 180.6,
+            "text": " Closing and opening tags are not different, they are single tags."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 180.6,
+            "end": 184.0,
+            "text": " Here, I am going to write type in the input as text."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 184.0,
+            "end": 191.0,
+            "text": " And in fact, when we talk about types, I see a lot of different types in my VS Code suggestions."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 192.1,
+            "end": 194.6,
+            "text": " So, here I am going to write text as my type."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 194.6,
+            "end": 196.79999999999998,
+            "text": " Let's save and refresh it."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 196.9,
+            "end": 199.20000000000002,
+            "text": " So, in a way, I have created two inputs."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 199.20000000000002,
+            "end": 202.70000000000002,
+            "text": " This is my simple input, and this is my text input."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 203.4,
+            "end": 205.3,
+            "text": " I can type anything in the text input."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 205.3,
+            "end": 210.70000000000002,
+            "text": " I can type anything in the simple input because the simple input is by default text."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 211.20000000000002,
+            "end": 214.20000000000002,
+            "text": " The next type we can talk about is my password type."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 214.5,
+            "end": 217.8,
+            "text": " What we do is, let's copy and paste this once."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 217.8,
+            "end": 221.0,
+            "text": " So, this time, the type I will write will be equal to password."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 221.60000000000002,
+            "end": 224.20000000000002,
+            "text": " And I am going to remove this input from here."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 224.20000000000002,
+            "end": 226.20000000000002,
+            "text": " Let's remove the simple input from here."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 226.39999999999998,
+            "end": 228.2,
+            "text": " Let's save and refresh it."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 228.2,
+            "end": 230.39999999999998,
+            "text": " So, I have created two input boxes."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 230.39999999999998,
+            "end": 232.89999999999998,
+            "text": " If we type in our first input box,"
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 232.89999999999998,
+            "end": 235.6,
+            "text": " let's assume I typed username here."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 235.6,
+            "end": 238.2,
+            "text": " And if I type the same thing here,"
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 238.6,
+            "end": 241.29999999999998,
+            "text": " I will not be able to see it, it will be displayed like a password."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 241.29999999999998,
+            "end": 246.6,
+            "text": " So, whenever we try to input a password type or any sensitive information in any form,"
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 246.6,
+            "end": 249.6,
+            "text": " we can write type as password there."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 249.6,
+            "end": 253.39999999999998,
+            "text": " The next type we are going to explore is type is equal to number."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 253.8,
+            "end": 257.6,
+            "text": " Similarly, I am going to create another input element here."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 257.6,
+            "end": 259.8,
+            "text": " In which I will write number in type."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 261.0,
+            "end": 263.0,
+            "text": " Let's save and refresh it."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 263.0,
+            "end": 266.8,
+            "text": " So, I can type any number in this third box."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 266.8,
+            "end": 269.8,
+            "text": " But if I try to type ABCD here,"
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 269.8,
+            "end": 271.4,
+            "text": " then nothing will be typed."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 271.4,
+            "end": 273.4,
+            "text": " I typed 1, 2, 3 in numbers."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 273.4,
+            "end": 278.4,
+            "text": " I can increase and decrease the number of arrows one by one."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 278.4,
+            "end": 281.8,
+            "text": " So, whenever I have to input a number here,"
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 281.8,
+            "end": 285.2,
+            "text": " like if I have to input someone's age or marks,"
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 285.2,
+            "end": 288.2,
+            "text": " and I don't want anyone to type a text there,"
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 288.2,
+            "end": 293.2,
+            "text": " then in such scenarios, we can try number and use type."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 293.2,
+            "end": 296.6,
+            "text": " The next type we can talk about is time in input."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 297.2,
+            "end": 302.2,
+            "text": " I am going to create another input element in which the value of type will be equal to time."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 302.2,
+            "end": 304.2,
+            "text": " Let's save it."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 304.2,
+            "end": 309.2,
+            "text": " And in fact, I am going to write a username here first."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 309.59999999999997,
+            "end": 312.59999999999997,
+            "text": " Here I am going to write a password."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 312.59999999999997,
+            "end": 315.59999999999997,
+            "text": " Here I am going to write that I am trying to input a number."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 315.59999999999997,
+            "end": 318.59999999999997,
+            "text": " Here I am going to write that I am trying to input time."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 318.59999999999997,
+            "end": 323.59999999999997,
+            "text": " And all of these can be said in a way that"
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 323.59999999999997,
+            "end": 330.59999999999997,
+            "text": " I am going to show everyone in the next line with the help of line break."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 332.59999999999997,
+            "end": 334.59999999999997,
+            "text": " I did this, I refreshed."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 334.59999999999997,
+            "end": 336.59999999999997,
+            "text": " So, this was my username."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 337.0,
+            "end": 339.0,
+            "text": " This can be a username."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 339.0,
+            "end": 341.0,
+            "text": " This is my password."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 341.0,
+            "end": 343.0,
+            "text": " This is my some number."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 343.0,
+            "end": 347.0,
+            "text": " And here I can click on it and take time in the input."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 347.0,
+            "end": 350.0,
+            "text": " That is, as soon as I input on the clock,"
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 350.0,
+            "end": 355.0,
+            "text": " I can write 10 o'clock, 28 am, pm, by shifting in this way."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 355.0,
+            "end": 358.0,
+            "text": " And I can take input of time."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 358.0,
+            "end": 362.0,
+            "text": " So, if I make a web page where I have to schedule an appointment,"
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 362.0,
+            "end": 366.0,
+            "text": " or where I have to input the time of someone's date of birth,"
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 366.4,
+            "end": 368.4,
+            "text": " then we can input time."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 368.4,
+            "end": 371.4,
+            "text": " The next type that we can see is my color type."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 371.4,
+            "end": 375.4,
+            "text": " Now it will look very strange because usually we do not see such inputs."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 375.4,
+            "end": 379.4,
+            "text": " But I am showing you an example that such inputs also exist."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 379.4,
+            "end": 384.4,
+            "text": " If I create an input element in which I have taken the value of type color."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 384.4,
+            "end": 388.4,
+            "text": " So, in this way of input, we can also input color."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 388.4,
+            "end": 391.4,
+            "text": " Here I can see color, then I can see this box."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 391.4,
+            "end": 395.4,
+            "text": " As soon as I click on it, there are multiple colors that I can select."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 395.79999999999995,
+            "end": 401.79999999999995,
+            "text": " If I select a green shade, then I can get any color in the input."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 401.79999999999995,
+            "end": 406.79999999999995,
+            "text": " So, I will have a color picker that will help me choose any color."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 406.79999999999995,
+            "end": 409.79999999999995,
+            "text": " So, there are multiple types of inputs, not just this."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 409.79999999999995,
+            "end": 413.79999999999995,
+            "text": " If I search for input type MDN."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 413.79999999999995,
+            "end": 418.79999999999995,
+            "text": " So, there are many different types on this page."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 418.79999999999995,
+            "end": 421.79999999999995,
+            "text": " Button can be a type, checkbox can be a type."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 422.2,
+            "end": 425.2,
+            "text": " I can select it in this way, we will read it in detail later."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 425.2,
+            "end": 428.2,
+            "text": " I have buttons that perform any action by clicking on them."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 428.2,
+            "end": 431.2,
+            "text": " This is my color type, which will open the color picker."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 431.2,
+            "end": 434.2,
+            "text": " This is my date type, so I can input the date too."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 434.2,
+            "end": 436.2,
+            "text": " I have input March 6."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 436.2,
+            "end": 440.2,
+            "text": " This is an input type for email too."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 440.2,
+            "end": 445.2,
+            "text": " It checks for email that if we miss the advert and then do not write any domain."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 445.2,
+            "end": 447.2,
+            "text": " So, it means that there is no valid email ID."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 447.2,
+            "end": 449.2,
+            "text": " Input type can also be for files."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 449.59999999999997,
+            "end": 452.59999999999997,
+            "text": " I can also take image as my input type."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 452.59999999999997,
+            "end": 455.59999999999997,
+            "text": " I can also take numbers, I can type anything here."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 455.59999999999997,
+            "end": 457.59999999999997,
+            "text": " Input type is for password."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 457.59999999999997,
+            "end": 460.59999999999997,
+            "text": " There are radio buttons, we will talk about them in detail later."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 460.59999999999997,
+            "end": 462.59999999999997,
+            "text": " We can also talk about range."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 462.59999999999997,
+            "end": 467.59999999999997,
+            "text": " So, there are many different types of inputs that I can take in my form."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 467.59999999999997,
+            "end": 473.59999999999997,
+            "text": " Among them, the popular ones that are mostly used are text, password, number."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 473.59999999999997,
+            "end": 476.59999999999997,
+            "text": " Sometimes we may have to use the date too."
+        },
+        {
+            "number": "06",
+            "title": "input - Form Element",
+            "start": 476.6,
+            "end": 481.0,
+            "text": " Apart from this, there are buttons of different types that we will explore together."
+        }
+    ],
+    "text": " There can be many different elements in the form, such as a button element, a text area element, and many more. But the most important element of any form is the input element in HTML. And don't think of it as a single element. There are many types of input elements, i.e. 20-25 types of input elements, which can be used to recreate 20-25 different types of elements using a single element. That's why I will call it the most important element of a form. What is its function? The function of the input element is to create multiple form controls, i.e. to take different types of information from the user, we use different types of inputs. Secondly, there are multiple types of inputs that can be created using type attribute. I have an input element in HTML, which is my most important form element. And it doesn't have an opening or closing tag, it only has a single tag, which is the input. Now, there is another attribute inside the input, which is my type element. I write type in this way, and then I can define the type of my input. Here I can define the type of my input, and when I write different types in this attribute, then my different elements or form controls start to be created. If I want to take text input, then it will have a different type. If I want to take number input, then it will have a different type. If I want to take date input, then it will have a different type. So, according to the type of my input, I can take a lot of types of input from my user in the form. So, first of all, we are going to create a basic input tag. So, I created a basic input tag in my form, I have not defined any type in it yet. Let's save this and refresh it. So, what happened is that I have created a box in which I can type anything. Let's say I typed hello world here. So, I have a box in which I can input my information. I can type any text here. So, whenever I write an input tag in my form, I get an input box in which any text can be typed. If I want to understand different types of inputs, then the most popular inputs that we are using again and again are these. Now, we are going to discuss the type attribute in the input. If I simply write the input, then I know that I will have a simple box in which I can type anything. I can type any text here, or I can type numbers, or I can type special symbols. Now, let's talk about what changes I can make if I start using the type attribute in the same input. First, we are going to use type is equal to text. So, this is my input. Now, I will create another similar input. One thing you will notice here is that there is a single tag for the input. Closing and opening tags are not different, they are single tags. Here, I am going to write type in the input as text. And in fact, when we talk about types, I see a lot of different types in my VS Code suggestions. So, here I am going to write text as my type. Let's save and refresh it. So, in a way, I have created two inputs. This is my simple input, and this is my text input. I can type anything in the text input. I can type anything in the simple input because the simple input is by default text. The next type we can talk about is my password type. What we do is, let's copy and paste this once. So, this time, the type I will write will be equal to password. And I am going to remove this input from here. Let's remove the simple input from here. Let's save and refresh it. So, I have created two input boxes. If we type in our first input box, let's assume I typed username here. And if I type the same thing here, I will not be able to see it, it will be displayed like a password. So, whenever we try to input a password type or any sensitive information in any form, we can write type as password there. The next type we are going to explore is type is equal to number. Similarly, I am going to create another input element here. In which I will write number in type. Let's save and refresh it. So, I can type any number in this third box. But if I try to type ABCD here, then nothing will be typed. I typed 1, 2, 3 in numbers. I can increase and decrease the number of arrows one by one. So, whenever I have to input a number here, like if I have to input someone's age or marks, and I don't want anyone to type a text there, then in such scenarios, we can try number and use type. The next type we can talk about is time in input. I am going to create another input element in which the value of type will be equal to time. Let's save it. And in fact, I am going to write a username here first. Here I am going to write a password. Here I am going to write that I am trying to input a number. Here I am going to write that I am trying to input time. And all of these can be said in a way that I am going to show everyone in the next line with the help of line break. I did this, I refreshed. So, this was my username. This can be a username. This is my password. This is my some number. And here I can click on it and take time in the input. That is, as soon as I input on the clock, I can write 10 o'clock, 28 am, pm, by shifting in this way. And I can take input of time. So, if I make a web page where I have to schedule an appointment, or where I have to input the time of someone's date of birth, then we can input time. The next type that we can see is my color type. Now it will look very strange because usually we do not see such inputs. But I am showing you an example that such inputs also exist. If I create an input element in which I have taken the value of type color. So, in this way of input, we can also input color. Here I can see color, then I can see this box. As soon as I click on it, there are multiple colors that I can select. If I select a green shade, then I can get any color in the input. So, I will have a color picker that will help me choose any color. So, there are multiple types of inputs, not just this. If I search for input type MDN. So, there are many different types on this page. Button can be a type, checkbox can be a type. I can select it in this way, we will read it in detail later. I have buttons that perform any action by clicking on them. This is my color type, which will open the color picker. This is my date type, so I can input the date too. I have input March 6. This is an input type for email too. It checks for email that if we miss the advert and then do not write any domain. So, it means that there is no valid email ID. Input type can also be for files. I can also take image as my input type. I can also take numbers, I can type anything here. Input type is for password. There are radio buttons, we will talk about them in detail later. We can also talk about range. So, there are many different types of inputs that I can take in my form. Among them, the popular ones that are mostly used are text, password, number. Sometimes we may have to use the date too. Apart from this, there are buttons of different types that we will explore together."
+}

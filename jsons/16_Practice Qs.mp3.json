@@ -1,0 +1,852 @@
+{
+    "chunks": [
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 0.0,
+            "end": 3.0,
+            "text": " Next we are going to solve our practice question no. 9"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 3.0,
+            "end": 7.4,
+            "text": " It says recreate the following form with suitable elements and input tags"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 7.4,
+            "end": 13.8,
+            "text": " We have read a lot of input types and elements of the form so we have a lot of information"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 13.8,
+            "end": 16.6,
+            "text": " and this is a very easy practice question"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 16.6,
+            "end": 21.1,
+            "text": " Let's see our form, here some registration form is written on it"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 21.1,
+            "end": 25.6,
+            "text": " We can write H1, H2, H3 in any form"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 25.6,
+            "end": 28.6,
+            "text": " Let's analyze what are the input types given to us"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 29.200000000000003,
+            "end": 34.6,
+            "text": " First name is a simple text input"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 34.6,
+            "end": 39.6,
+            "text": " Last name is also a simple text input, both are on the same line"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 39.6,
+            "end": 42.6,
+            "text": " I know this is a drop down"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 42.6,
+            "end": 46.6,
+            "text": " How do I know it is a drop down? Because I can see an arrow here"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 46.6,
+            "end": 48.6,
+            "text": " and now we are in drop downs"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 48.6,
+            "end": 50.6,
+            "text": " How do we create drop downs in HTML?"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 50.6,
+            "end": 56.2,
+            "text": " We do it with the help of select tag and we give different options in it"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 56.2,
+            "end": 60.2,
+            "text": " Now here it is written please select gender, so one option is male"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 60.2,
+            "end": 65.8,
+            "text": " So let's assume one option will be male, one option will be female, one option we can give others"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 65.8,
+            "end": 68.8,
+            "text": " So in this way we can give multiple options in drop down"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 68.8,
+            "end": 71.2,
+            "text": " After that what is on the next line?"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 71.2,
+            "end": 74.2,
+            "text": " On the next line, do you agree to all terms of service?"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 74.2,
+            "end": 76.2,
+            "text": " and here I have a check box"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 76.2,
+            "end": 80.80000000000001,
+            "text": " So here I know I have to create a check box in the third line"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 80.80000000000001,
+            "end": 83.80000000000001,
+            "text": " and at last I have a button named register"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 84.39999999999999,
+            "end": 87.39999999999999,
+            "text": " So we are using four different types of elements"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 87.39999999999999,
+            "end": 91.39999999999999,
+            "text": " One is text input, one is drop down, one is check box and one is button"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 91.39999999999999,
+            "end": 94.39999999999999,
+            "text": " So we are going to create all of them one by one"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 94.39999999999999,
+            "end": 97.39999999999999,
+            "text": " First of all, we have to write the heading registration form"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 97.39999999999999,
+            "end": 104.4,
+            "text": " So in our classroom.html file, I am going to delete all the forms that we have written earlier"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 104.4,
+            "end": 108.4,
+            "text": " First of all, I am going to make an h3 heading"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 109.0,
+            "end": 112.0,
+            "text": " In that we will write registration form"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 112.0,
+            "end": 115.0,
+            "text": " So let's save and refresh"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 115.0,
+            "end": 117.0,
+            "text": " So registration form is up"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 117.0,
+            "end": 120.0,
+            "text": " Now we will create a form"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 120.0,
+            "end": 123.0,
+            "text": " Let's create a form"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 123.0,
+            "end": 125.0,
+            "text": " Let's define action"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 125.0,
+            "end": 128.0,
+            "text": " action is equal to slash action"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 128.0,
+            "end": 132.0,
+            "text": " First of all, we are going to create two input elements"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 132.0,
+            "end": 136.0,
+            "text": " which will be of text type because I have to take the first and last name as input"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 136.6,
+            "end": 141.6,
+            "text": " So I am going to add them in a div"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 141.6,
+            "end": 146.6,
+            "text": " First I am going to make input type equals text"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 146.6,
+            "end": 149.6,
+            "text": " I have also shown placeholder in this"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 149.6,
+            "end": 152.6,
+            "text": " So I am going to add first name in placeholder"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 152.6,
+            "end": 155.6,
+            "text": " Let's save and refresh"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 155.6,
+            "end": 158.6,
+            "text": " So I have got the first name"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 158.6,
+            "end": 164.6,
+            "text": " And because we have already discussed that every input element should have a name attribute"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 165.2,
+            "end": 169.2,
+            "text": " So I am going to give it fname which is basically first name"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 169.2,
+            "end": 172.2,
+            "text": " In the same way, let's create another input"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 172.2,
+            "end": 175.2,
+            "text": " type is equal to text in placeholder"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 175.2,
+            "end": 178.2,
+            "text": " Now last name will come"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 178.2,
+            "end": 181.2,
+            "text": " Let's save and refresh"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 181.2,
+            "end": 184.2,
+            "text": " So we have created the first line"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 184.2,
+            "end": 187.2,
+            "text": " Now what we will do in the next div"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 187.2,
+            "end": 190.2,
+            "text": " For the drop down, first we will select"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 190.79999999999998,
+            "end": 194.79999999999998,
+            "text": " Let's give it gender"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 194.79999999999998,
+            "end": 197.79999999999998,
+            "text": " Let's give it id also"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 197.79999999999998,
+            "end": 199.79999999999998,
+            "text": " gender"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 199.79999999999998,
+            "end": 202.79999999999998,
+            "text": " And in select we are going to give options"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 202.79999999999998,
+            "end": 205.79999999999998,
+            "text": " This is my first option"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 205.79999999999998,
+            "end": 208.79999999999998,
+            "text": " In first option, male is given"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 208.79999999999998,
+            "end": 211.79999999999998,
+            "text": " In second option, we will make it female"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 211.79999999999998,
+            "end": 215.79999999999998,
+            "text": " In third option, we will make it others"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 215.79999999999998,
+            "end": 218.79999999999998,
+            "text": " And along with that, as there are options"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 219.4,
+            "end": 222.4,
+            "text": " So when we will submit data from options, we will not know the value"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 222.4,
+            "end": 225.4,
+            "text": " So I have to define a value attribute"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 225.4,
+            "end": 228.4,
+            "text": " In which I am going to write m"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 228.4,
+            "end": 231.4,
+            "text": " In value attribute, I am going to write f"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 231.4,
+            "end": 234.4,
+            "text": " Because value attribute can be small also"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 234.4,
+            "end": 237.4,
+            "text": " Now along with that, I have to write some text"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 237.4,
+            "end": 240.4,
+            "text": " So for that, let's create a label"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 240.4,
+            "end": 243.4,
+            "text": " So for select, I am creating a label"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 243.4,
+            "end": 246.4,
+            "text": " For which id? For my gender id"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 247.0,
+            "end": 250.0,
+            "text": " What is written in the label?"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 250.0,
+            "end": 253.0,
+            "text": " It is written, please select gender"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 256.0,
+            "end": 259.0,
+            "text": " Let's save and refresh"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 259.0,
+            "end": 262.0,
+            "text": " So please select gender is here"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 262.0,
+            "end": 265.0,
+            "text": " In drop down, male is here, female and others can be selected"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 265.0,
+            "end": 268.0,
+            "text": " So I have multiple options"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 268.0,
+            "end": 271.0,
+            "text": " Now let's see our third line"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 271.0,
+            "end": 274.0,
+            "text": " In third line, I have to create a check box"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 274.6,
+            "end": 277.6,
+            "text": " So to make a check box, first of all, I will ask my question"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 277.6,
+            "end": 280.6,
+            "text": " Do you agree to all terms of service?"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 280.6,
+            "end": 285.6,
+            "text": " After that, we will create an input element"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 285.6,
+            "end": 288.6,
+            "text": " On which type we are going to write check box"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 288.6,
+            "end": 291.6,
+            "text": " Let's give an id"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 291.6,
+            "end": 294.6,
+            "text": " Let's give an id"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 294.6,
+            "end": 297.6,
+            "text": " And same thing"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 297.6,
+            "end": 300.6,
+            "text": " Let's give in its name"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 301.20000000000005,
+            "end": 304.20000000000005,
+            "text": " So my check box is created"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 304.20000000000005,
+            "end": 307.20000000000005,
+            "text": " Let's save and refresh"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 307.20000000000005,
+            "end": 310.20000000000005,
+            "text": " So here is the check box"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 310.20000000000005,
+            "end": 313.20000000000005,
+            "text": " Let's give a label"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 313.20000000000005,
+            "end": 316.20000000000005,
+            "text": " Label for my terms of service"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 316.20000000000005,
+            "end": 319.20000000000005,
+            "text": " Agree"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 319.20000000000005,
+            "end": 322.20000000000005,
+            "text": " Let's write yes I agree"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 322.20000000000005,
+            "end": 325.20000000000005,
+            "text": " Let's save and refresh"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 325.20000000000005,
+            "end": 328.20000000000005,
+            "text": " As soon as I click on yes I agree, it will be checked"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 328.8,
+            "end": 331.8,
+            "text": " So in this way, we have completed the third line of our form"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 331.8,
+            "end": 334.8,
+            "text": " And what is left in the fourth and last?"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 334.8,
+            "end": 337.8,
+            "text": " Let's create a button"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 337.8,
+            "end": 340.8,
+            "text": " And in the button, I have a register instead of submit"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 340.8,
+            "end": 343.8,
+            "text": " But the work will be that it will submit the form"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 343.8,
+            "end": 346.8,
+            "text": " I have to write register here"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 346.8,
+            "end": 349.8,
+            "text": " Let's save and refresh"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 349.8,
+            "end": 352.8,
+            "text": " So notice that the entire form is ready"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 352.8,
+            "end": 355.8,
+            "text": " As we were given the image"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 356.40000000000003,
+            "end": 359.40000000000003,
+            "text": " I can write my first name"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 359.40000000000003,
+            "end": 362.40000000000003,
+            "text": " Any random name"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 362.40000000000003,
+            "end": 365.40000000000003,
+            "text": " So all the information we gave will be passed"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 365.40000000000003,
+            "end": 368.40000000000003,
+            "text": " F name is equal to John"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 368.40000000000003,
+            "end": 371.40000000000003,
+            "text": " First name is equal to John"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 371.40000000000003,
+            "end": 374.40000000000003,
+            "text": " I have selected female in gender so F is visible"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 374.40000000000003,
+            "end": 377.40000000000003,
+            "text": " I checked in terms of service so it is visible"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 377.40000000000003,
+            "end": 380.40000000000003,
+            "text": " So in this way, I can make a form"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 380.40000000000003,
+            "end": 383.40000000000003,
+            "text": " All the information of it goes to get request"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 384.0,
+            "end": 387.0,
+            "text": " All the information is displayed in my URL"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 387.0,
+            "end": 390.0,
+            "text": " So we have to make all the forms in this manner"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 390.0,
+            "end": 393.0,
+            "text": " So far we have studied many elements in forms"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 393.0,
+            "end": 396.0,
+            "text": " And all the important things in forms"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 396.0,
+            "end": 399.0,
+            "text": " We have covered them in a way"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 399.0,
+            "end": 402.0,
+            "text": " We have to practice these things more"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 402.0,
+            "end": 405.0,
+            "text": " We have to solve more assignment questions based on these"
+        },
+        {
+            "number": "16",
+            "title": "Practice Qs",
+            "start": 405.0,
+            "end": 408.0,
+            "text": " And we will remember these as much as we use them"
+        }
+    ],
+    "text": " Next we are going to solve our practice question no. 9 It says recreate the following form with suitable elements and input tags We have read a lot of input types and elements of the form so we have a lot of information and this is a very easy practice question Let's see our form, here some registration form is written on it We can write H1, H2, H3 in any form Let's analyze what are the input types given to us First name is a simple text input Last name is also a simple text input, both are on the same line I know this is a drop down How do I know it is a drop down? Because I can see an arrow here and now we are in drop downs How do we create drop downs in HTML? We do it with the help of select tag and we give different options in it Now here it is written please select gender, so one option is male So let's assume one option will be male, one option will be female, one option we can give others So in this way we can give multiple options in drop down After that what is on the next line? On the next line, do you agree to all terms of service? and here I have a check box So here I know I have to create a check box in the third line and at last I have a button named register So we are using four different types of elements One is text input, one is drop down, one is check box and one is button So we are going to create all of them one by one First of all, we have to write the heading registration form So in our classroom.html file, I am going to delete all the forms that we have written earlier First of all, I am going to make an h3 heading In that we will write registration form So let's save and refresh So registration form is up Now we will create a form Let's create a form Let's define action action is equal to slash action First of all, we are going to create two input elements which will be of text type because I have to take the first and last name as input So I am going to add them in a div First I am going to make input type equals text I have also shown placeholder in this So I am going to add first name in placeholder Let's save and refresh So I have got the first name And because we have already discussed that every input element should have a name attribute So I am going to give it fname which is basically first name In the same way, let's create another input type is equal to text in placeholder Now last name will come Let's save and refresh So we have created the first line Now what we will do in the next div For the drop down, first we will select Let's give it gender Let's give it id also gender And in select we are going to give options This is my first option In first option, male is given In second option, we will make it female In third option, we will make it others And along with that, as there are options So when we will submit data from options, we will not know the value So I have to define a value attribute In which I am going to write m In value attribute, I am going to write f Because value attribute can be small also Now along with that, I have to write some text So for that, let's create a label So for select, I am creating a label For which id? For my gender id What is written in the label? It is written, please select gender Let's save and refresh So please select gender is here In drop down, male is here, female and others can be selected So I have multiple options Now let's see our third line In third line, I have to create a check box So to make a check box, first of all, I will ask my question Do you agree to all terms of service? After that, we will create an input element On which type we are going to write check box Let's give an id Let's give an id And same thing Let's give in its name So my check box is created Let's save and refresh So here is the check box Let's give a label Label for my terms of service Agree Let's write yes I agree Let's save and refresh As soon as I click on yes I agree, it will be checked So in this way, we have completed the third line of our form And what is left in the fourth and last? Let's create a button And in the button, I have a register instead of submit But the work will be that it will submit the form I have to write register here Let's save and refresh So notice that the entire form is ready As we were given the image I can write my first name Any random name So all the information we gave will be passed F name is equal to John First name is equal to John I have selected female in gender so F is visible I checked in terms of service so it is visible So in this way, I can make a form All the information of it goes to get request All the information is displayed in my URL So we have to make all the forms in this manner So far we have studied many elements in forms And all the important things in forms We have covered them in a way We have to practice these things more We have to solve more assignment questions based on these And we will remember these as much as we use them"
+}

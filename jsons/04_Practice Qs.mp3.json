@@ -1,0 +1,1132 @@
+{
+    "chunks": [
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 0.0,
+            "end": 2.66,
+            "text": " Now we are going to solve our practice question number 7."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 2.66,
+            "end": 6.34,
+            "text": " The question says, recreate the following table using HTML."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 6.34,
+            "end": 9.540000000000001,
+            "text": " That is, I have to recreate the table given to me."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 9.540000000000001,
+            "end": 11.540000000000001,
+            "text": " Let's see what data is given to the table."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 12.0,
+            "end": 15.040000000000001,
+            "text": " I can see the title and caption of the table."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 15.040000000000001,
+            "end": 17.3,
+            "text": " A test table with merged cells."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 17.3,
+            "end": 19.64,
+            "text": " I have to write some text like this."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 19.64,
+            "end": 22.34,
+            "text": " I can see a lot of things here."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 22.34,
+            "end": 25.400000000000002,
+            "text": " I can see that this is going to be my header."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 25.4,
+            "end": 30.0,
+            "text": " I can see that the font type is not bold."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 30.0,
+            "end": 33.5,
+            "text": " So I can assume that there is nothing in the header."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 33.5,
+            "end": 37.0,
+            "text": " All the details can be written in the TD cells."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 37.6,
+            "end": 40.2,
+            "text": " That is, all the details can be written in the data cells."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 40.2,
+            "end": 43.7,
+            "text": " I don't need to use the TH cell because the heading is usually bold."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 43.7,
+            "end": 46.4,
+            "text": " And I can't see anything bold in this table."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 47.0,
+            "end": 50.599999999999994,
+            "text": " So let's understand how many rows and columns I will need."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 50.599999999999994,
+            "end": 54.4,
+            "text": " If I count the total number of rows, this will become my first row."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 54.4,
+            "end": 56.4,
+            "text": " This will become my second row."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 56.4,
+            "end": 57.9,
+            "text": " This will become my third row."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 57.9,
+            "end": 59.699999999999996,
+            "text": " And this will become my fourth row."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 59.699999999999996,
+            "end": 61.9,
+            "text": " So how many TR tags do I need?"
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 61.9,
+            "end": 64.3,
+            "text": " I need to use four TR tags."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 64.3,
+            "end": 68.3,
+            "text": " The last two TR tags are straightforward."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 68.8,
+            "end": 71.6,
+            "text": " I have to create four cells in this TR tag."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 71.6,
+            "end": 74.6,
+            "text": " I have to create these four cells in this TR tag."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 74.6,
+            "end": 77.2,
+            "text": " Let's focus on the easy part."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 77.2,
+            "end": 80.4,
+            "text": " First, I will create a table and give a caption."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 80.4,
+            "end": 84.2,
+            "text": " And for the last two rows, I will recreate the data."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 84.2,
+            "end": 88.7,
+            "text": " So we will delete the old table from our file."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 89.10000000000001,
+            "end": 90.9,
+            "text": " I will create a table."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 91.3,
+            "end": 93.5,
+            "text": " I will give a caption in the table."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 96.10000000000001,
+            "end": 100.6,
+            "text": " And test table with merged cells."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 101.30000000000001,
+            "end": 103.5,
+            "text": " So I have given a caption like this."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 103.9,
+            "end": 106.60000000000001,
+            "text": " After that, I know that I have to create four rows."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 106.60000000000001,
+            "end": 111.4,
+            "text": " So to create four rows, we will use four TR tags."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 111.4,
+            "end": 113.4,
+            "text": " There will be no header in this."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 113.5,
+            "end": 117.30000000000001,
+            "text": " I can write all this data in the T body."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 117.30000000000001,
+            "end": 119.5,
+            "text": " But for now, we are skipping the semantics."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 119.5,
+            "end": 123.10000000000001,
+            "text": " Because I have to focus on displaying and recreating the table."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 123.5,
+            "end": 128.6,
+            "text": " Let's complete the last three rows."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 128.6,
+            "end": 131.1,
+            "text": " I know that I have four cells in it."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 131.5,
+            "end": 132.70000000000002,
+            "text": " Which four cells are there?"
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 133.4,
+            "end": 136.1,
+            "text": " There is one cell, one cell, one cell, and one cell."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 136.1,
+            "end": 138.3,
+            "text": " I am going to create these four cells."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 138.70000000000002,
+            "end": 140.5,
+            "text": " First, let's make a TD tag."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 141.3,
+            "end": 142.6,
+            "text": " We will write males here."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 143.1,
+            "end": 146.1,
+            "text": " Similarly, I will get a tag again."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 146.6,
+            "end": 148.2,
+            "text": " I will write 1.9 here."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 148.9,
+            "end": 152.29999999999998,
+            "text": " Again, I will write 0.003 here."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 153.0,
+            "end": 154.1,
+            "text": " And again, TD."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 154.1,
+            "end": 156.7,
+            "text": " Here we are going to write 40%."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 156.9,
+            "end": 161.29999999999998,
+            "text": " I have to recreate the same four things in the last row."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 161.7,
+            "end": 164.7,
+            "text": " Here I am going to write females."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 165.2,
+            "end": 167.6,
+            "text": " Instead of 1.9, it will be 1.7."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 167.6,
+            "end": 170.4,
+            "text": " This will be 0.002."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 170.4,
+            "end": 172.5,
+            "text": " And this will be 43%."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 172.7,
+            "end": 173.9,
+            "text": " Let's save it."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 174.7,
+            "end": 175.9,
+            "text": " And refresh."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 176.29999999999998,
+            "end": 178.9,
+            "text": " I have recreated a table like this."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 178.9,
+            "end": 180.4,
+            "text": " It doesn't look like a table anymore."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 180.4,
+            "end": 183.4,
+            "text": " So I will write a small thing here."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 183.9,
+            "end": 185.5,
+            "text": " Border is equal to black."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 185.5,
+            "end": 187.2,
+            "text": " So I will create a border."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 187.2,
+            "end": 191.1,
+            "text": " I have completely recreated the last two rows."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 191.29999999999998,
+            "end": 193.9,
+            "text": " Now I have to focus on the upper part."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 193.9,
+            "end": 198.1,
+            "text": " Because I know that I have used attributes like colspan and rosepin."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 198.2,
+            "end": 202.6,
+            "text": " Because one cell is spreading to multiple rows and columns."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 203.2,
+            "end": 205.0,
+            "text": " Now let's talk about these two rows."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 205.0,
+            "end": 208.2,
+            "text": " This is my first row."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 208.2,
+            "end": 209.1,
+            "text": " This is my row 1."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 209.1,
+            "end": 211.6,
+            "text": " And this is my second row."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 211.6,
+            "end": 212.6,
+            "text": " This is my row 2."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 212.6,
+            "end": 216.0,
+            "text": " Now if I talk about the first row, what data is coming in the first row?"
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 216.29999999999998,
+            "end": 219.0,
+            "text": " One is my cell which is completely empty."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 219.0,
+            "end": 219.79999999999998,
+            "text": " The cell is not there."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 219.79999999999998,
+            "end": 221.0,
+            "text": " The space is full."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 221.0,
+            "end": 222.9,
+            "text": " But nothing is written in it."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 222.9,
+            "end": 227.4,
+            "text": " So what I will do is I will create an element with the header tag TD."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 227.5,
+            "end": 229.70000000000002,
+            "text": " But I will leave it completely empty."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 230.20000000000002,
+            "end": 233.70000000000002,
+            "text": " After that, I have another cell in the first row."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 234.0,
+            "end": 235.8,
+            "text": " The item written in it is average."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 236.1,
+            "end": 238.0,
+            "text": " And the third is red eyes."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 238.0,
+            "end": 241.8,
+            "text": " So if I have to create the first row in a way, then I will write TR first."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 242.6,
+            "end": 243.6,
+            "text": " And like this."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 244.1,
+            "end": 245.8,
+            "text": " There are three items in the first row."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 246.20000000000002,
+            "end": 248.8,
+            "text": " One is my TD which is completely empty."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 249.8,
+            "end": 253.5,
+            "text": " The second is my TD in which I am going to write average."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 253.6,
+            "end": 258.6,
+            "text": " The third is my data item in which I am going to write red eyes."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 260.6,
+            "end": 263.1,
+            "text": " I have created this, I have created this, I have created this."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 263.1,
+            "end": 264.4,
+            "text": " Now let's see their size."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 264.4,
+            "end": 267.8,
+            "text": " By default, everyone gets one row and one column."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 267.8,
+            "end": 269.8,
+            "text": " Let's talk about this empty cell."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 269.8,
+            "end": 271.8,
+            "text": " How many rows has it occupied?"
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 271.8,
+            "end": 275.6,
+            "text": " Two horizontal lines are going from it, covering the entire table."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 275.6,
+            "end": 278.4,
+            "text": " So it has occupied two rows."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 278.4,
+            "end": 280.4,
+            "text": " And how many columns has it occupied?"
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 280.4,
+            "end": 281.4,
+            "text": " Only one column."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 281.5,
+            "end": 283.5,
+            "text": " So it has occupied two columns."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 283.5,
+            "end": 285.5,
+            "text": " I need only one column to cover the table."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 285.5,
+            "end": 287.5,
+            "text": " So it has occupied one column."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 287.5,
+            "end": 289.5,
+            "text": " If I talk about its average."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 289.5,
+            "end": 291.5,
+            "text": " So it has occupied a single row."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 291.5,
+            "end": 294.5,
+            "text": " But if I talk about columns, it has occupied two columns."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 294.5,
+            "end": 297.5,
+            "text": " So here is one row and two columns."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 297.5,
+            "end": 299.5,
+            "text": " If I talk about red eyes."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 299.5,
+            "end": 303.5,
+            "text": " So it has occupied two rows and one single column."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 304.5,
+            "end": 307.5,
+            "text": " So let's write two rows and a single column here."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 307.5,
+            "end": 310.5,
+            "text": " Now I know that everyone gets one by default."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 310.6,
+            "end": 313.6,
+            "text": " So let's remove one column from here, one row from here, and one column from here."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 313.6,
+            "end": 316.6,
+            "text": " I know what I have to do to occupy two rows."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 316.6,
+            "end": 319.6,
+            "text": " It will have to give an attribute."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 319.6,
+            "end": 322.6,
+            "text": " Row span equals two."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 322.6,
+            "end": 326.6,
+            "text": " Here to occupy two columns, I have to give an attribute to the tree."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 326.6,
+            "end": 329.6,
+            "text": " Call span equals two."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 329.6,
+            "end": 332.6,
+            "text": " And I have to give an attribute to it too."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 332.6,
+            "end": 335.6,
+            "text": " Row span equals two."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 335.6,
+            "end": 337.6,
+            "text": " So what am I going to do?"
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 337.6,
+            "end": 339.6,
+            "text": " I am going to write all three."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 339.70000000000005,
+            "end": 341.70000000000005,
+            "text": " So in my row, first of all."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 341.70000000000005,
+            "end": 343.70000000000005,
+            "text": " I will create a data cell."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 343.70000000000005,
+            "end": 347.70000000000005,
+            "text": " First of all, giving the attribute of row span equals two to the data cell."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 347.70000000000005,
+            "end": 349.70000000000005,
+            "text": " I will keep it empty."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 349.70000000000005,
+            "end": 351.70000000000005,
+            "text": " After that, I am going to create a second cell."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 351.70000000000005,
+            "end": 353.70000000000005,
+            "text": " The value will come in it."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 353.70000000000005,
+            "end": 356.70000000000005,
+            "text": " I will have the value of average and call span in it."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 356.70000000000005,
+            "end": 357.70000000000005,
+            "text": " Two equals."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 357.70000000000005,
+            "end": 359.70000000000005,
+            "text": " I will create a third cell."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 359.70000000000005,
+            "end": 361.70000000000005,
+            "text": " I will give it red eyes."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 361.70000000000005,
+            "end": 365.70000000000005,
+            "text": " And the value of row span in it will be equal to two."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 365.70000000000005,
+            "end": 367.70000000000005,
+            "text": " For now, let's save and refresh it."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 367.8,
+            "end": 370.8,
+            "text": " I have created a single row."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 370.8,
+            "end": 374.8,
+            "text": " But for now, the row span and column span have not been implemented."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 374.8,
+            "end": 377.8,
+            "text": " It has not been implemented because it cannot be logically implemented."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 377.8,
+            "end": 381.8,
+            "text": " Because to span up to two rows, I should have some items in the next row."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 381.8,
+            "end": 384.8,
+            "text": " Now let's talk about the second row."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 384.8,
+            "end": 388.8,
+            "text": " If I look inside the second row, I have four items."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 388.8,
+            "end": 392.8,
+            "text": " Out of the four items, this empty cell and this red eye cell."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 392.8,
+            "end": 395.8,
+            "text": " We have already created this in the first row."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 395.90000000000003,
+            "end": 397.90000000000003,
+            "text": " I have to create two items."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 397.90000000000003,
+            "end": 399.90000000000003,
+            "text": " Height and weight."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 399.90000000000003,
+            "end": 401.90000000000003,
+            "text": " It is taking only one row and one column."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 401.90000000000003,
+            "end": 405.90000000000003,
+            "text": " The weight cell occupies one row and one column."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 405.90000000000003,
+            "end": 407.90000000000003,
+            "text": " Now we are going to create the second row."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 407.90000000000003,
+            "end": 411.90000000000003,
+            "text": " First of all, we will create a data cell in the second row."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 411.90000000000003,
+            "end": 413.90000000000003,
+            "text": " In which the height will come."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 417.90000000000003,
+            "end": 419.90000000000003,
+            "text": " And the weight will be written in the cell other than that."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 419.90000000000003,
+            "end": 421.90000000000003,
+            "text": " Let's save it and refresh it."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 422.0,
+            "end": 428.0,
+            "text": " Now my table looks exactly the same as we started creating it."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 428.0,
+            "end": 434.0,
+            "text": " Earlier, the empty cell, the average and the red eye cell were coming in a single line."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 434.0,
+            "end": 436.0,
+            "text": " But as soon as I created the second row,"
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 436.0,
+            "end": 440.0,
+            "text": " It has adjusted two rows and occupied the entire area."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 440.0,
+            "end": 446.0,
+            "text": " The first row items that I had defined in the form of attributes."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 446.0,
+            "end": 448.0,
+            "text": " So this is how we use tables in HTML."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 448.1,
+            "end": 452.1,
+            "text": " We have already learned all the important things in tables."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 452.1,
+            "end": 454.1,
+            "text": " As a beginner or while learning web development."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 454.1,
+            "end": 456.1,
+            "text": " We have already learned them."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 456.1,
+            "end": 458.1,
+            "text": " So this is the part of tables in HTML."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 458.1,
+            "end": 464.1,
+            "text": " After this, the only homework for you is to complete the assignment problems related to tables."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 464.1,
+            "end": 468.1,
+            "text": " By giving us time, we will be able to solve the small problems in the beginning."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 468.1,
+            "end": 470.1,
+            "text": " Gradually we will be increasing the level."
+        },
+        {
+            "number": "04",
+            "title": "Practice Qs",
+            "start": 470.1,
+            "end": 474.1,
+            "text": " And the next topic we will be studying is forms in HTML."
+        }
+    ],
+    "text": " Now we are going to solve our practice question number 7. The question says, recreate the following table using HTML. That is, I have to recreate the table given to me. Let's see what data is given to the table. I can see the title and caption of the table. A test table with merged cells. I have to write some text like this. I can see a lot of things here. I can see that this is going to be my header. I can see that the font type is not bold. So I can assume that there is nothing in the header. All the details can be written in the TD cells. That is, all the details can be written in the data cells. I don't need to use the TH cell because the heading is usually bold. And I can't see anything bold in this table. So let's understand how many rows and columns I will need. If I count the total number of rows, this will become my first row. This will become my second row. This will become my third row. And this will become my fourth row. So how many TR tags do I need? I need to use four TR tags. The last two TR tags are straightforward. I have to create four cells in this TR tag. I have to create these four cells in this TR tag. Let's focus on the easy part. First, I will create a table and give a caption. And for the last two rows, I will recreate the data. So we will delete the old table from our file. I will create a table. I will give a caption in the table. And test table with merged cells. So I have given a caption like this. After that, I know that I have to create four rows. So to create four rows, we will use four TR tags. There will be no header in this. I can write all this data in the T body. But for now, we are skipping the semantics. Because I have to focus on displaying and recreating the table. Let's complete the last three rows. I know that I have four cells in it. Which four cells are there? There is one cell, one cell, one cell, and one cell. I am going to create these four cells. First, let's make a TD tag. We will write males here. Similarly, I will get a tag again. I will write 1.9 here. Again, I will write 0.003 here. And again, TD. Here we are going to write 40%. I have to recreate the same four things in the last row. Here I am going to write females. Instead of 1.9, it will be 1.7. This will be 0.002. And this will be 43%. Let's save it. And refresh. I have recreated a table like this. It doesn't look like a table anymore. So I will write a small thing here. Border is equal to black. So I will create a border. I have completely recreated the last two rows. Now I have to focus on the upper part. Because I know that I have used attributes like colspan and rosepin. Because one cell is spreading to multiple rows and columns. Now let's talk about these two rows. This is my first row. This is my row 1. And this is my second row. This is my row 2. Now if I talk about the first row, what data is coming in the first row? One is my cell which is completely empty. The cell is not there. The space is full. But nothing is written in it. So what I will do is I will create an element with the header tag TD. But I will leave it completely empty. After that, I have another cell in the first row. The item written in it is average. And the third is red eyes. So if I have to create the first row in a way, then I will write TR first. And like this. There are three items in the first row. One is my TD which is completely empty. The second is my TD in which I am going to write average. The third is my data item in which I am going to write red eyes. I have created this, I have created this, I have created this. Now let's see their size. By default, everyone gets one row and one column. Let's talk about this empty cell. How many rows has it occupied? Two horizontal lines are going from it, covering the entire table. So it has occupied two rows. And how many columns has it occupied? Only one column. So it has occupied two columns. I need only one column to cover the table. So it has occupied one column. If I talk about its average. So it has occupied a single row. But if I talk about columns, it has occupied two columns. So here is one row and two columns. If I talk about red eyes. So it has occupied two rows and one single column. So let's write two rows and a single column here. Now I know that everyone gets one by default. So let's remove one column from here, one row from here, and one column from here. I know what I have to do to occupy two rows. It will have to give an attribute. Row span equals two. Here to occupy two columns, I have to give an attribute to the tree. Call span equals two. And I have to give an attribute to it too. Row span equals two. So what am I going to do? I am going to write all three. So in my row, first of all. I will create a data cell. First of all, giving the attribute of row span equals two to the data cell. I will keep it empty. After that, I am going to create a second cell. The value will come in it. I will have the value of average and call span in it. Two equals. I will create a third cell. I will give it red eyes. And the value of row span in it will be equal to two. For now, let's save and refresh it. I have created a single row. But for now, the row span and column span have not been implemented. It has not been implemented because it cannot be logically implemented. Because to span up to two rows, I should have some items in the next row. Now let's talk about the second row. If I look inside the second row, I have four items. Out of the four items, this empty cell and this red eye cell. We have already created this in the first row. I have to create two items. Height and weight. It is taking only one row and one column. The weight cell occupies one row and one column. Now we are going to create the second row. First of all, we will create a data cell in the second row. In which the height will come. And the weight will be written in the cell other than that. Let's save it and refresh it. Now my table looks exactly the same as we started creating it. Earlier, the empty cell, the average and the red eye cell were coming in a single line. But as soon as I created the second row, It has adjusted two rows and occupied the entire area. The first row items that I had defined in the form of attributes. So this is how we use tables in HTML. We have already learned all the important things in tables. As a beginner or while learning web development. We have already learned them. So this is the part of tables in HTML. After this, the only homework for you is to complete the assignment problems related to tables. By giving us time, we will be able to solve the small problems in the beginning. Gradually we will be increasing the level. And the next topic we will be studying is forms in HTML."
+}

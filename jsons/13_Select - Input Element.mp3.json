@@ -1,0 +1,502 @@
+{
+    "chunks": [
+        {
+            "number": "13",
+            "title": "Select - Input Element",
+            "start": 0.0,
+            "end": 3.2800000000000002,
+            "text": " The next thing we are going to study in Forms is called Dropdowns."
+        },
+        {
+            "number": "13",
+            "title": "Select - Input Element",
+            "start": 3.2800000000000002,
+            "end": 6.08,
+            "text": " We have seen many dropdowns in Forms."
+        },
+        {
+            "number": "13",
+            "title": "Select - Input Element",
+            "start": 6.08,
+            "end": 9.84,
+            "text": " In HTML, we create dropdowns in the form of select."
+        },
+        {
+            "number": "13",
+            "title": "Select - Input Element",
+            "start": 9.84,
+            "end": 15.92,
+            "text": " If I search for select MDN, then we must have seen many such things."
+        },
+        {
+            "number": "13",
+            "title": "Select - Input Element",
+            "start": 15.92,
+            "end": 22.88,
+            "text": " Sometimes we have to fill in the information of our state or city in the form."
+        },
+        {
+            "number": "13",
+            "title": "Select - Input Element",
+            "start": 22.88,
+            "end": 25.92,
+            "text": " So, we usually see this type of form element."
+        },
+        {
+            "number": "13",
+            "title": "Select - Input Element",
+            "start": 25.92,
+            "end": 32.0,
+            "text": " So, these are called dropdowns and we create them in Forms using our select element."
+        },
+        {
+            "number": "13",
+            "title": "Select - Input Element",
+            "start": 32.0,
+            "end": 33.52,
+            "text": " How is it created?"
+        },
+        {
+            "number": "13",
+            "title": "Select - Input Element",
+            "start": 33.52,
+            "end": 37.28,
+            "text": " I create a select element with the tag select."
+        },
+        {
+            "number": "13",
+            "title": "Select - Input Element",
+            "start": 37.28,
+            "end": 40.160000000000004,
+            "text": " Now, I can define my name in the select tag."
+        },
+        {
+            "number": "13",
+            "title": "Select - Input Element",
+            "start": 40.160000000000004,
+            "end": 46.64,
+            "text": " The information that will be selected in the dropdown, will be submitted to the URL."
+        },
+        {
+            "number": "13",
+            "title": "Select - Input Element",
+            "start": 46.64,
+            "end": 49.36,
+            "text": " So, we will put that name and ID."
+        },
+        {
+            "number": "13",
+            "title": "Select - Input Element",
+            "start": 49.36,
+            "end": 52.72,
+            "text": " And then we define different options."
+        },
+        {
+            "number": "13",
+            "title": "Select - Input Element",
+            "start": 52.72,
+            "end": 58.64,
+            "text": " So, I have to write an option tag for each individual in my dropdown."
+        },
+        {
+            "number": "13",
+            "title": "Select - Input Element",
+            "start": 58.64,
+            "end": 62.8,
+            "text": " For example, if I want to create a dropdown where I am asking about my profession,"
+        },
+        {
+            "number": "13",
+            "title": "Select - Input Element",
+            "start": 62.8,
+            "end": 65.68,
+            "text": " I have to give two options in my dropdown."
+        },
+        {
+            "number": "13",
+            "title": "Select - Input Element",
+            "start": 65.68,
+            "end": 70.48,
+            "text": " One option is that I am a student and the other is that I am a developer."
+        },
+        {
+            "number": "13",
+            "title": "Select - Input Element",
+            "start": 70.48,
+            "end": 74.88,
+            "text": " So, I have to create two options for that."
+        },
+        {
+            "number": "13",
+            "title": "Select - Input Element",
+            "start": 74.88,
+            "end": 76.72,
+            "text": " I will use the option tag."
+        },
+        {
+            "number": "13",
+            "title": "Select - Input Element",
+            "start": 76.72,
+            "end": 82.4,
+            "text": " And the value that we define in the option tag, will be passed in the backend."
+        },
+        {
+            "number": "13",
+            "title": "Select - Input Element",
+            "start": 83.12,
+            "end": 86.56,
+            "text": " What we are going to do is, we will write the same code and run it once."
+        },
+        {
+            "number": "13",
+            "title": "Select - Input Element",
+            "start": 86.56,
+            "end": 88.56,
+            "text": " And then we will analyze it."
+        },
+        {
+            "number": "13",
+            "title": "Select - Input Element",
+            "start": 88.56,
+            "end": 92.80000000000001,
+            "text": " So, I will go to the HTML document and create another div."
+        },
+        {
+            "number": "13",
+            "title": "Select - Input Element",
+            "start": 92.80000000000001,
+            "end": 95.84,
+            "text": " Where I will write, choose your profession."
+        },
+        {
+            "number": "13",
+            "title": "Select - Input Element",
+            "start": 95.84,
+            "end": 100.0,
+            "text": " Now, I am going to create a dropdown from the select."
+        },
+        {
+            "number": "13",
+            "title": "Select - Input Element",
+            "start": 100.0,
+            "end": 104.48,
+            "text": " The name of this dropdown will be the name attribute, profession."
+        },
+        {
+            "number": "13",
+            "title": "Select - Input Element",
+            "start": 104.48,
+            "end": 109.60000000000001,
+            "text": " And its ID is also going to be equal to the profession."
+        },
+        {
+            "number": "13",
+            "title": "Select - Input Element",
+            "start": 112.64,
+            "end": 118.64,
+            "text": " Now, I am going to refresh the page."
+        },
+        {
+            "number": "13",
+            "title": "Select - Input Element",
+            "start": 118.64,
+            "end": 122.96000000000001,
+            "text": " I can see the same text, choose your profession."
+        },
+        {
+            "number": "13",
+            "title": "Select - Input Element",
+            "start": 122.96000000000001,
+            "end": 124.96000000000001,
+            "text": " And I have just created a dropdown."
+        },
+        {
+            "number": "13",
+            "title": "Select - Input Element",
+            "start": 124.96000000000001,
+            "end": 127.92,
+            "text": " So, it is not much to click on it."
+        },
+        {
+            "number": "13",
+            "title": "Select - Input Element",
+            "start": 127.92,
+            "end": 130.72,
+            "text": " But I can see an arrow that is pointing downwards."
+        },
+        {
+            "number": "13",
+            "title": "Select - Input Element",
+            "start": 130.72,
+            "end": 132.72,
+            "text": " Usually, this is the symbol of a dropdown."
+        },
+        {
+            "number": "13",
+            "title": "Select - Input Element",
+            "start": 132.72,
+            "end": 136.0,
+            "text": " Now, I am going to create multiple options."
+        },
+        {
+            "number": "13",
+            "title": "Select - Input Element",
+            "start": 136.0,
+            "end": 138.48000000000002,
+            "text": " Let's create the first option."
+        },
+        {
+            "number": "13",
+            "title": "Select - Input Element",
+            "start": 138.48000000000002,
+            "end": 141.84,
+            "text": " In which, the value will be passed as my student."
+        },
+        {
+            "number": "13",
+            "title": "Select - Input Element",
+            "start": 143.36,
+            "end": 145.36,
+            "text": " So, this is the student's option."
+        },
+        {
+            "number": "13",
+            "title": "Select - Input Element",
+            "start": 145.36,
+            "end": 151.36,
+            "text": " The second option that we can put is the developer's option."
+        },
+        {
+            "number": "13",
+            "title": "Select - Input Element",
+            "start": 151.36,
+            "end": 154.08,
+            "text": " So, I can simply write dev here."
+        },
+        {
+            "number": "13",
+            "title": "Select - Input Element",
+            "start": 154.08,
+            "end": 156.08,
+            "text": " Let's save and refresh."
+        },
+        {
+            "number": "13",
+            "title": "Select - Input Element",
+            "start": 156.08,
+            "end": 161.28,
+            "text": " Now, I can select multiple options from the dropdown."
+        },
+        {
+            "number": "13",
+            "title": "Select - Input Element",
+            "start": 161.28,
+            "end": 164.4,
+            "text": " And as soon as I select the developer and submit it."
+        },
+        {
+            "number": "13",
+            "title": "Select - Input Element",
+            "start": 164.4,
+            "end": 165.76,
+            "text": " What is in my URL?"
+        },
+        {
+            "number": "13",
+            "title": "Select - Input Element",
+            "start": 165.76,
+            "end": 168.88,
+            "text": " The information is in the URL, profession is equal to dev."
+        },
+        {
+            "number": "13",
+            "title": "Select - Input Element",
+            "start": 169.35999999999999,
+            "end": 172.16,
+            "text": " And as soon as I submit the student,"
+        },
+        {
+            "number": "13",
+            "title": "Select - Input Element",
+            "start": 172.16,
+            "end": 175.51999999999998,
+            "text": " my profession is now in the form of student."
+        },
+        {
+            "number": "13",
+            "title": "Select - Input Element",
+            "start": 175.51999999999998,
+            "end": 179.12,
+            "text": " So, the information that is passed is not the text."
+        },
+        {
+            "number": "13",
+            "title": "Select - Input Element",
+            "start": 179.12,
+            "end": 182.32,
+            "text": " After submitting in the URL, the information that is passed in the data,"
+        },
+        {
+            "number": "13",
+            "title": "Select - Input Element",
+            "start": 182.32,
+            "end": 185.04,
+            "text": " the value that is passed is not the developer."
+        },
+        {
+            "number": "13",
+            "title": "Select - Input Element",
+            "start": 185.04,
+            "end": 188.64,
+            "text": " But the text that I have written in the value attribute."
+        },
+        {
+            "number": "13",
+            "title": "Select - Input Element",
+            "start": 188.64,
+            "end": 192.4,
+            "text": " This information is passed if I select the developer."
+        },
+        {
+            "number": "13",
+            "title": "Select - Input Element",
+            "start": 192.4,
+            "end": 196.56,
+            "text": " So, this is how we create dropdowns in HTML."
+        },
+        {
+            "number": "13",
+            "title": "Select - Input Element",
+            "start": 196.8,
+            "end": 200.32,
+            "text": " In some cases, we can create an empty option."
+        },
+        {
+            "number": "13",
+            "title": "Select - Input Element",
+            "start": 200.32,
+            "end": 204.4,
+            "text": " I mean, if I write an option here that has no value."
+        },
+        {
+            "number": "13",
+            "title": "Select - Input Element",
+            "start": 204.4,
+            "end": 209.84,
+            "text": " So, I can write here, select your option."
+        },
+        {
+            "number": "13",
+            "title": "Select - Input Element",
+            "start": 209.84,
+            "end": 211.84,
+            "text": " Let's save it."
+        },
+        {
+            "number": "13",
+            "title": "Select - Input Element",
+            "start": 211.84,
+            "end": 213.84,
+            "text": " And go back and refresh."
+        },
+        {
+            "number": "13",
+            "title": "Select - Input Element",
+            "start": 213.84,
+            "end": 216.24,
+            "text": " So, in this way, select your option will come."
+        },
+        {
+            "number": "13",
+            "title": "Select - Input Element",
+            "start": 216.24,
+            "end": 218.96,
+            "text": " In which, I will have two options, student and developer."
+        },
+        {
+            "number": "13",
+            "title": "Select - Input Element",
+            "start": 218.96,
+            "end": 222.96,
+            "text": " And this select your option usually comes default."
+        },
+        {
+            "number": "13",
+            "title": "Select - Input Element",
+            "start": 222.96,
+            "end": 226.16,
+            "text": " Now, if I want to have the student selected before."
+        },
+        {
+            "number": "13",
+            "title": "Select - Input Element",
+            "start": 226.24,
+            "end": 229.44,
+            "text": " So, I can write selected in the option."
+        },
+        {
+            "number": "13",
+            "title": "Select - Input Element",
+            "start": 229.44,
+            "end": 231.44,
+            "text": " Let's save and refresh."
+        },
+        {
+            "number": "13",
+            "title": "Select - Input Element",
+            "start": 231.44,
+            "end": 233.44,
+            "text": " So, the student will be selected before."
+        },
+        {
+            "number": "13",
+            "title": "Select - Input Element",
+            "start": 233.44,
+            "end": 235.44,
+            "text": " After that, I can select the developer."
+        },
+        {
+            "number": "13",
+            "title": "Select - Input Element",
+            "start": 235.44,
+            "end": 238.8,
+            "text": " But if I want to have the developer selected before."
+        },
+        {
+            "number": "13",
+            "title": "Select - Input Element",
+            "start": 238.8,
+            "end": 242.96,
+            "text": " So, I can write selected in the dev."
+        },
+        {
+            "number": "13",
+            "title": "Select - Input Element",
+            "start": 242.96,
+            "end": 245.35999999999999,
+            "text": " And the developer will be pre-selected."
+        },
+        {
+            "number": "13",
+            "title": "Select - Input Element",
+            "start": 245.35999999999999,
+            "end": 247.35999999999999,
+            "text": " So, whenever we have to pre-select the options,"
+        },
+        {
+            "number": "13",
+            "title": "Select - Input Element",
+            "start": 247.35999999999999,
+            "end": 249.35999999999999,
+            "text": " we can use the selected attribute."
+        },
+        {
+            "number": "13",
+            "title": "Select - Input Element",
+            "start": 249.35999999999999,
+            "end": 253.04,
+            "text": " And in this way, we will be using the dropdowns in the HTML forms."
+        }
+    ],
+    "text": " The next thing we are going to study in Forms is called Dropdowns. We have seen many dropdowns in Forms. In HTML, we create dropdowns in the form of select. If I search for select MDN, then we must have seen many such things. Sometimes we have to fill in the information of our state or city in the form. So, we usually see this type of form element. So, these are called dropdowns and we create them in Forms using our select element. How is it created? I create a select element with the tag select. Now, I can define my name in the select tag. The information that will be selected in the dropdown, will be submitted to the URL. So, we will put that name and ID. And then we define different options. So, I have to write an option tag for each individual in my dropdown. For example, if I want to create a dropdown where I am asking about my profession, I have to give two options in my dropdown. One option is that I am a student and the other is that I am a developer. So, I have to create two options for that. I will use the option tag. And the value that we define in the option tag, will be passed in the backend. What we are going to do is, we will write the same code and run it once. And then we will analyze it. So, I will go to the HTML document and create another div. Where I will write, choose your profession. Now, I am going to create a dropdown from the select. The name of this dropdown will be the name attribute, profession. And its ID is also going to be equal to the profession. Now, I am going to refresh the page. I can see the same text, choose your profession. And I have just created a dropdown. So, it is not much to click on it. But I can see an arrow that is pointing downwards. Usually, this is the symbol of a dropdown. Now, I am going to create multiple options. Let's create the first option. In which, the value will be passed as my student. So, this is the student's option. The second option that we can put is the developer's option. So, I can simply write dev here. Let's save and refresh. Now, I can select multiple options from the dropdown. And as soon as I select the developer and submit it. What is in my URL? The information is in the URL, profession is equal to dev. And as soon as I submit the student, my profession is now in the form of student. So, the information that is passed is not the text. After submitting in the URL, the information that is passed in the data, the value that is passed is not the developer. But the text that I have written in the value attribute. This information is passed if I select the developer. So, this is how we create dropdowns in HTML. In some cases, we can create an empty option. I mean, if I write an option here that has no value. So, I can write here, select your option. Let's save it. And go back and refresh. So, in this way, select your option will come. In which, I will have two options, student and developer. And this select your option usually comes default. Now, if I want to have the student selected before. So, I can write selected in the option. Let's save and refresh. So, the student will be selected before. After that, I can select the developer. But if I want to have the developer selected before. So, I can write selected in the dev. And the developer will be pre-selected. So, whenever we have to pre-select the options, we can use the selected attribute. And in this way, we will be using the dropdowns in the HTML forms."
+}

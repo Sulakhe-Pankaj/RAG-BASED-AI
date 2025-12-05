@@ -1,0 +1,2616 @@
+{
+    "chunks": [
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 0.0,
+            "end": 3.0,
+            "text": " Next we will study HTML level 3"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 3.0,
+            "end": 7.0,
+            "text": " In level 3 we will talk about 2 important concepts of HTML"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 7.0,
+            "end": 9.0,
+            "text": " We will understand this level in 2 parts"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 9.0,
+            "end": 14.0,
+            "text": " First we will discuss in detail how tables are formed in HTML"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 14.0,
+            "end": 16.0,
+            "text": " How we can manipulate tables"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 16.0,
+            "end": 20.0,
+            "text": " And second we will understand forms in detail in HTML"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 20.0,
+            "end": 25.0,
+            "text": " In real life we have seen many websites, apps, applications"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 25.0,
+            "end": 28.0,
+            "text": " Where we have seen tables and forms"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 28.0,
+            "end": 37.0,
+            "text": " Today we will understand how we can display a table or form on our website"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 37.0,
+            "end": 40.0,
+            "text": " First we will start with HTML tables"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 40.0,
+            "end": 42.0,
+            "text": " We have seen many tables in real life"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 42.0,
+            "end": 46.0,
+            "text": " The most basic example of which is our attendance in school"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 46.0,
+            "end": 51.0,
+            "text": " In attendance, a table was made in the register"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 51.0,
+            "end": 54.0,
+            "text": " In that table, above everything was written name"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 54.0,
+            "end": 56.0,
+            "text": " And with that our roll number"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 56.0,
+            "end": 59.0,
+            "text": " And it is possible that many more details are written"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 59.0,
+            "end": 63.0,
+            "text": " So here it is possible that this is my upper part"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 63.0,
+            "end": 66.0,
+            "text": " Where the name can be Aman, roll number can be 24"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 66.0,
+            "end": 70.0,
+            "text": " The name can be Shraddha, roll number can be 86"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 70.0,
+            "end": 74.0,
+            "text": " The name can be Rajat, roll number can be 12"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 74.0,
+            "end": 77.0,
+            "text": " The name can be Sudhir, roll number can be 10"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 77.0,
+            "end": 81.0,
+            "text": " Although in school our roll numbers were run with sequence"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 81.0,
+            "end": 83.0,
+            "text": " But when data is organized in this way"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 83.0,
+            "end": 87.0,
+            "text": " We call this as my data is organized in the form of a table"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 87.0,
+            "end": 93.0,
+            "text": " The data in the table is used to represent real life table data"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 93.0,
+            "end": 95.0,
+            "text": " When we are making tables in HTML"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 95.0,
+            "end": 98.0,
+            "text": " We are organizing our data in the same way"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 98.0,
+            "end": 101.0,
+            "text": " So if I see this much part"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 101.0,
+            "end": 106.0,
+            "text": " So this is my HTML visualized in the form of a table"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 106.0,
+            "end": 108.0,
+            "text": " Now when we talk about HTML table"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 108.0,
+            "end": 111.0,
+            "text": " There are different parts of the table that we have to understand"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 111.0,
+            "end": 113.0,
+            "text": " If this table is formatted better"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 113.0,
+            "end": 116.0,
+            "text": " Then we can draw our table in this way"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 116.0,
+            "end": 120.0,
+            "text": " So my table will appear in the proper format"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 120.0,
+            "end": 123.0,
+            "text": " So I can call this as my table"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 123.0,
+            "end": 126.0,
+            "text": " And we can create similar tables in HTML"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 126.0,
+            "end": 129.0,
+            "text": " Now before reading tables in HTML"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 129.0,
+            "end": 132.0,
+            "text": " We have to understand some table names and characteristics"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 132.0,
+            "end": 136.0,
+            "text": " To understand any table, we have to understand two attributes"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 136.0,
+            "end": 139.0,
+            "text": " One is row and one is column"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 139.0,
+            "end": 141.0,
+            "text": " Now if we are coming from the background of maths"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 141.0,
+            "end": 143.0,
+            "text": " Then we must have learned about rows and columns many times"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 143.0,
+            "end": 146.0,
+            "text": " We make many tables in commerce"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 146.0,
+            "end": 148.0,
+            "text": " Now let's understand the basics"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 148.0,
+            "end": 149.0,
+            "text": " What is row?"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 149.0,
+            "end": 151.0,
+            "text": " If we analyze any data in this straight line"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 151.0,
+            "end": 153.0,
+            "text": " In horizontal line"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 153.0,
+            "end": 155.0,
+            "text": " So this is my row 1"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 155.0,
+            "end": 157.0,
+            "text": " This is my row 2"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 157.0,
+            "end": 159.0,
+            "text": " This data is written in row 3"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 159.0,
+            "end": 161.0,
+            "text": " This data is written in row 4"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 161.0,
+            "end": 163.0,
+            "text": " This data is written in row 5"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 163.0,
+            "end": 166.0,
+            "text": " Row means when we see a line of data horizontally"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 166.0,
+            "end": 168.0,
+            "text": " So we call it row"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 168.0,
+            "end": 171.0,
+            "text": " Similarly column means when we see a line of data vertically"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 171.0,
+            "end": 173.0,
+            "text": " So this is my column 1"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 173.0,
+            "end": 175.0,
+            "text": " And this is my column 2"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 175.0,
+            "end": 180.0,
+            "text": " So all the data of the table is divided in the form of rows and columns"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 180.0,
+            "end": 182.0,
+            "text": " I can call any data in this way"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 182.0,
+            "end": 185.0,
+            "text": " That this data comes in my single row"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 185.0,
+            "end": 188.0,
+            "text": " Or this data comes in my single column"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 188.0,
+            "end": 191.0,
+            "text": " Now the main row in my rows and columns"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 191.0,
+            "end": 194.0,
+            "text": " That means in which we are writing a heading"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 194.0,
+            "end": 198.0,
+            "text": " We can also call this as header of my table"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 198.0,
+            "end": 200.0,
+            "text": " Header means"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 200.0,
+            "end": 202.0,
+            "text": " We have already learned what is header in HTML"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 202.0,
+            "end": 204.0,
+            "text": " Header means the main part"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 204.0,
+            "end": 206.0,
+            "text": " Or the part which tells about the heading"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 206.0,
+            "end": 208.0,
+            "text": " Or the main content"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 208.0,
+            "end": 211.0,
+            "text": " We call it as header in section HTML pages"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 211.0,
+            "end": 214.0,
+            "text": " Similarly, the part which tells us about the main content of the table"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 214.0,
+            "end": 216.0,
+            "text": " We call it as header of any table"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 216.0,
+            "end": 218.0,
+            "text": " Now there is a unique thing in tables"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 218.0,
+            "end": 220.0,
+            "text": " That header cannot be here"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 220.0,
+            "end": 223.0,
+            "text": " If we want, we can make a header of any random row in the middle"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 224.0,
+            "end": 228.0,
+            "text": " Logically, we don't do this in 99% practical cases"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 228.0,
+            "end": 230.0,
+            "text": " And all the data we are showing"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 230.0,
+            "end": 232.0,
+            "text": " It looks like a normal real-life table"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 232.0,
+            "end": 234.0,
+            "text": " So whenever we talk about tables"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 234.0,
+            "end": 236.0,
+            "text": " We have to remember two things"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 236.0,
+            "end": 238.0,
+            "text": " Table is a combination of rows and columns"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 238.0,
+            "end": 240.0,
+            "text": " Rows are on our horizontal side"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 240.0,
+            "end": 242.0,
+            "text": " Columns are on our vertical side"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 242.0,
+            "end": 244.0,
+            "text": " Now let's talk about"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 244.0,
+            "end": 246.0,
+            "text": " If I have to recreate any table in HTML"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 246.0,
+            "end": 248.0,
+            "text": " Then what syntax will we use for that"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 248.0,
+            "end": 250.0,
+            "text": " There is some syntax like this"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 250.0,
+            "end": 253.0,
+            "text": " There is some syntax to create any table in HTML"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 253.0,
+            "end": 256.0,
+            "text": " Which starts with a table tag"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 256.0,
+            "end": 260.0,
+            "text": " As soon as I write a table tag in my code"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 260.0,
+            "end": 264.0,
+            "text": " Similarly, I will start creating a table"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 264.0,
+            "end": 266.0,
+            "text": " But the table will not be created"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 266.0,
+            "end": 268.0,
+            "text": " Like if I open my HTML document"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 268.0,
+            "end": 273.0,
+            "text": " And here I have already made a file named classroom.html"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 273.0,
+            "end": 275.0,
+            "text": " In which the boilerplate code is already written"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 275.0,
+            "end": 278.0,
+            "text": " I have kept its title as HTML level 3"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 278.0,
+            "end": 280.0,
+            "text": " All the other things are the same"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 280.0,
+            "end": 285.0,
+            "text": " I am going to write a table tag in the body"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 285.0,
+            "end": 287.0,
+            "text": " So I have created a table like this"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 287.0,
+            "end": 289.0,
+            "text": " If I save it, then both came on the same line"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 289.0,
+            "end": 291.0,
+            "text": " Because the table is empty now"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 291.0,
+            "end": 294.0,
+            "text": " And I am going to open this classroom.html"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 294.0,
+            "end": 297.0,
+            "text": " So the page I have made is completely empty"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 297.0,
+            "end": 299.0,
+            "text": " So it was understood that just writing a table"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 299.0,
+            "end": 301.0,
+            "text": " Does not create a table"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 301.0,
+            "end": 303.0,
+            "text": " To create a table in HTML"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 303.0,
+            "end": 305.0,
+            "text": " There should be some actual data inside the table"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 305.0,
+            "end": 307.0,
+            "text": " Because an empty table is nothing"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 307.0,
+            "end": 311.0,
+            "text": " So let's talk about how we can add data in HTML tables"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 311.0,
+            "end": 314.0,
+            "text": " Our table will look like this"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 314.0,
+            "end": 318.0,
+            "text": " In which I have given a title in a table"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 318.0,
+            "end": 320.0,
+            "text": " We can call it the title of the table"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 320.0,
+            "end": 323.0,
+            "text": " Otherwise, we also call it a caption in HTML"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 323.0,
+            "end": 326.0,
+            "text": " We must have seen the caption word many times before"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 326.0,
+            "end": 328.0,
+            "text": " When we post photos on Instagram"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 328.0,
+            "end": 330.0,
+            "text": " We post photos and videos on Facebook"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 330.0,
+            "end": 332.0,
+            "text": " So there is always a text with the photo"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 332.0,
+            "end": 335.0,
+            "text": " Which describes what is going on in this photo"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 335.0,
+            "end": 337.0,
+            "text": " It is called a caption in common language"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 337.0,
+            "end": 339.0,
+            "text": " That it is a caption of that photo"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 339.0,
+            "end": 341.0,
+            "text": " Similarly, tables also have a caption"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 341.0,
+            "end": 343.0,
+            "text": " The caption of the table tells"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 343.0,
+            "end": 345.0,
+            "text": " What kind of data is inside the table"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 345.0,
+            "end": 349.0,
+            "text": " Like I have written the data of item and price in this table"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 349.0,
+            "end": 351.0,
+            "text": " We can say that this is a menu"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 351.0,
+            "end": 353.0,
+            "text": " In which the price of fruity is 10 rupees"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 353.0,
+            "end": 355.0,
+            "text": " The price of samosa is 12 rupees"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 355.0,
+            "end": 357.0,
+            "text": " The price of chips is 20 rupees"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 357.0,
+            "end": 359.0,
+            "text": " And this is my food menu"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 359.0,
+            "end": 361.0,
+            "text": " Similarly, the table I made earlier"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 361.0,
+            "end": 363.0,
+            "text": " We can call it student data"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 363.0,
+            "end": 367.0,
+            "text": " So the caption of this table could have been student data"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 367.0,
+            "end": 370.0,
+            "text": " So the first thing we can describe about any table"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 370.0,
+            "end": 372.0,
+            "text": " Is its caption"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 372.0,
+            "end": 374.0,
+            "text": " What kind of content will come inside this table"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 374.0,
+            "end": 376.0,
+            "text": " To describe the caption"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 376.0,
+            "end": 378.0,
+            "text": " We are writing the caption tag"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 378.0,
+            "end": 380.0,
+            "text": " Whatever we write inside the caption tag"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 380.0,
+            "end": 382.0,
+            "text": " It becomes a caption of my table"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 382.0,
+            "end": 386.0,
+            "text": " To create the same table in my HTML file"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 386.0,
+            "end": 388.0,
+            "text": " I can write caption"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 388.0,
+            "end": 391.0,
+            "text": " And we will be writing food menu inside it"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 391.0,
+            "end": 393.0,
+            "text": " So I am going to make a food menu"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 393.0,
+            "end": 395.0,
+            "text": " Which is usually given in restaurants"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 395.0,
+            "end": 397.0,
+            "text": " Or in canteens"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 397.0,
+            "end": 399.0,
+            "text": " We are going to visualize the same menu"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 399.0,
+            "end": 401.0,
+            "text": " On a webpage"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 401.0,
+            "end": 403.0,
+            "text": " After that we get some tags"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 403.0,
+            "end": 405.0,
+            "text": " First I can see this TR tag"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 405.0,
+            "end": 407.0,
+            "text": " Then I can see this TH tag"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 407.0,
+            "end": 409.0,
+            "text": " Inside this there is header 1, header 2, data 1, data 2"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 409.0,
+            "end": 411.0,
+            "text": " There is a TD tag"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 411.0,
+            "end": 413.0,
+            "text": " I can see different tags inside"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 413.0,
+            "end": 415.0,
+            "text": " So whatever data is shown inside a table"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 415.0,
+            "end": 417.0,
+            "text": " Whether it is header data or normal text data"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 417.0,
+            "end": 419.0,
+            "text": " Header data means the heading"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 419.0,
+            "end": 421.0,
+            "text": " Like this white text highlighted in black"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 421.0,
+            "end": 423.0,
+            "text": " This is my header data"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 423.0,
+            "end": 425.0,
+            "text": " Because it is highlighted part of my table"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 425.0,
+            "end": 427.0,
+            "text": " And this is my normal table data"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 427.0,
+            "end": 429.0,
+            "text": " So we can visualize different types of data"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 429.0,
+            "end": 431.0,
+            "text": " In different forms of tags"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 431.0,
+            "end": 433.0,
+            "text": " Inside a table"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 433.0,
+            "end": 435.0,
+            "text": " To represent the data"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 435.0,
+            "end": 437.0,
+            "text": " We read 3 different types of tags in HTML"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 437.0,
+            "end": 439.0,
+            "text": " First is TR tag"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 439.0,
+            "end": 441.0,
+            "text": " TR tag's job is to create rows inside the table"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 441.0,
+            "end": 443.0,
+            "text": " If I am going to create a row"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 443.0,
+            "end": 445.0,
+            "text": " Inside this table"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 445.0,
+            "end": 447.0,
+            "text": " I can see the rows"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 447.0,
+            "end": 449.0,
+            "text": " I can create rows"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 449.0,
+            "end": 451.0,
+            "text": " If I have made this type of table"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 451.0,
+            "end": 453.0,
+            "text": " So this is my row 1"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 453.0,
+            "end": 455.0,
+            "text": " About which we have already read"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 455.0,
+            "end": 457.0,
+            "text": " This is my row 2"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 457.0,
+            "end": 459.0,
+            "text": " This is my row 3 and this is my row 4"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 459.0,
+            "end": 461.0,
+            "text": " To create this row"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 461.0,
+            "end": 463.0,
+            "text": " I will use a TR tag"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 463.0,
+            "end": 465.0,
+            "text": " To create this row"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 465.0,
+            "end": 467.0,
+            "text": " To create this row"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 467.0,
+            "end": 469.0,
+            "text": " And similarly all the rows inside a table"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 469.0,
+            "end": 471.0,
+            "text": " For every individual row"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 471.0,
+            "end": 473.0,
+            "text": " I have to write a TR tag"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 473.0,
+            "end": 475.0,
+            "text": " Whatever content is inside the TR tag"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 475.0,
+            "end": 477.0,
+            "text": " All the content will show"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 477.0,
+            "end": 479.0,
+            "text": " The content of a particular row"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 479.0,
+            "end": 481.0,
+            "text": " For example"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 481.0,
+            "end": 483.0,
+            "text": " If I have to make this table"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 483.0,
+            "end": 485.0,
+            "text": " I have to use 4 TR tags"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 485.0,
+            "end": 487.0,
+            "text": " So what do we do with 4 TR tags"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 487.0,
+            "end": 489.0,
+            "text": " We create them inside our table"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 489.0,
+            "end": 491.0,
+            "text": " This is my first tag"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 491.0,
+            "end": 493.0,
+            "text": " This is my second, third and fourth"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 493.0,
+            "end": 495.0,
+            "text": " To create 4 rows"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 495.0,
+            "end": 497.0,
+            "text": " I have used 4 TR tags"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 497.0,
+            "end": 499.0,
+            "text": " The second type of tag which we study"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 499.0,
+            "end": 501.0,
+            "text": " Is my TD tag"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 501.0,
+            "end": 503.0,
+            "text": " TD tag shows"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 503.0,
+            "end": 505.0,
+            "text": " The data of a table"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 505.0,
+            "end": 507.0,
+            "text": " And TD is the same as TH tag"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 507.0,
+            "end": 509.0,
+            "text": " Which shows the header of a table"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 509.0,
+            "end": 511.0,
+            "text": " We can also remember this in full form"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 511.0,
+            "end": 513.0,
+            "text": " T is common in all tags"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 513.0,
+            "end": 515.0,
+            "text": " R stands for row"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 515.0,
+            "end": 517.0,
+            "text": " D stands for data"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 517.0,
+            "end": 519.0,
+            "text": " And H stands for header"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 519.0,
+            "end": 521.0,
+            "text": " So we can remember it like this"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 521.0,
+            "end": 523.0,
+            "text": " When we have to display data"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 523.0,
+            "end": 525.0,
+            "text": " Then TD tag is there"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 525.0,
+            "end": 527.0,
+            "text": " When we have to make a row then TR tag is there"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 527.0,
+            "end": 529.0,
+            "text": " When we have to show header then TH tag is there"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 529.0,
+            "end": 531.0,
+            "text": " So if I analyze this table"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 531.0,
+            "end": 533.0,
+            "text": " The row at the top"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 533.0,
+            "end": 535.0,
+            "text": " What is there inside it"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 535.0,
+            "end": 537.0,
+            "text": " It has a header"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 537.0,
+            "end": 539.0,
+            "text": " So I will use TH tag"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 539.0,
+            "end": 541.0,
+            "text": " I have made a row"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 541.0,
+            "end": 543.0,
+            "text": " But what type of data should be there inside the row"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 543.0,
+            "end": 545.0,
+            "text": " That will be shown by my TH tag"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 545.0,
+            "end": 547.0,
+            "text": " This is my normal data"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 547.0,
+            "end": 549.0,
+            "text": " So my TD tag will be there"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 549.0,
+            "end": 551.0,
+            "text": " TD tag will be there inside this"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 551.0,
+            "end": 553.0,
+            "text": " We can understand it like this"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 553.0,
+            "end": 555.0,
+            "text": " If I have created a row"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 555.0,
+            "end": 557.0,
+            "text": " For that I will use TR tag"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 557.0,
+            "end": 559.0,
+            "text": " So I have written TR tag here"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 559.0,
+            "end": 561.0,
+            "text": " But if I have to show header inside the row"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 561.0,
+            "end": 563.0,
+            "text": " Then I will use TH tag"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 563.0,
+            "end": 565.0,
+            "text": " Like this"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 565.0,
+            "end": 567.0,
+            "text": " But if I want to show normal data inside the row"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 567.0,
+            "end": 569.0,
+            "text": " Then for that"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 569.0,
+            "end": 571.0,
+            "text": " I have to make a row"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 571.0,
+            "end": 573.0,
+            "text": " Like this"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 573.0,
+            "end": 575.0,
+            "text": " And inside that we will create"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 575.0,
+            "end": 577.0,
+            "text": " TD tag"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 577.0,
+            "end": 579.0,
+            "text": " So like this"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 579.0,
+            "end": 581.0,
+            "text": " I will make a row with normal data"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 581.0,
+            "end": 583.0,
+            "text": " And like this we will make a row with header data"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 583.0,
+            "end": 585.0,
+            "text": " Same thing we have seen in the previous syntax"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 585.0,
+            "end": 587.0,
+            "text": " That here I have written TD tag"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 587.0,
+            "end": 589.0,
+            "text": " And like this we have seen in the previous syntax"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 589.0,
+            "end": 591.0,
+            "text": " That here I have created a row"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 591.0,
+            "end": 593.0,
+            "text": " But inside the row"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 593.0,
+            "end": 595.0,
+            "text": " I will give two headers"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 595.0,
+            "end": 597.0,
+            "text": " So for headers I have used TH tag"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 597.0,
+            "end": 599.0,
+            "text": " I will write header1"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 599.0,
+            "end": 601.0,
+            "text": " For this table header1 will be"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 601.0,
+            "end": 603.0,
+            "text": " Item"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 603.0,
+            "end": 605.0,
+            "text": " For this table"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 605.0,
+            "end": 607.0,
+            "text": " What will be the second thing in the header"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 607.0,
+            "end": 609.0,
+            "text": " I will have price"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 609.0,
+            "end": 611.0,
+            "text": " So I can write it here"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 611.0,
+            "end": 613.0,
+            "text": " Price"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 613.0,
+            "end": 615.0,
+            "text": " So my first row is over"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 615.0,
+            "end": 617.0,
+            "text": " After that I will create second row"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 617.0,
+            "end": 619.0,
+            "text": " Inside the second row"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 619.0,
+            "end": 621.0,
+            "text": " Because I have to display normal data"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 621.0,
+            "end": 623.0,
+            "text": " So I will use TD tag"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 623.0,
+            "end": 625.0,
+            "text": " Inside TD and TH tags"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 625.0,
+            "end": 627.0,
+            "text": " Single item will be displayed"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 627.0,
+            "end": 629.0,
+            "text": " Single item display means"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 629.0,
+            "end": 631.0,
+            "text": " It is a single cell"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 631.0,
+            "end": 633.0,
+            "text": " Single cell means only this much part"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 633.0,
+            "end": 635.0,
+            "text": " Which takes one row and one column"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 635.0,
+            "end": 637.0,
+            "text": " This much part which takes one row and one column"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 637.0,
+            "end": 639.0,
+            "text": " We call it a cell inside the table"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 639.0,
+            "end": 641.0,
+            "text": " So to display the first cell"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 641.0,
+            "end": 643.0,
+            "text": " I will write data1 here"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 643.0,
+            "end": 645.0,
+            "text": " And to display the second cell"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 645.0,
+            "end": 647.0,
+            "text": " Means to display this cell"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 647.0,
+            "end": 649.0,
+            "text": " I can cut and write data2 here"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 649.0,
+            "end": 651.0,
+            "text": " Which is going to be equal to 10"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 651.0,
+            "end": 653.0,
+            "text": " So what we are going to do"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 653.0,
+            "end": 655.0,
+            "text": " We will recreate this table in our HTML code"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 655.0,
+            "end": 657.0,
+            "text": " I used 4 TR tags"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 657.0,
+            "end": 659.0,
+            "text": " To display 4 rows"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 659.0,
+            "end": 661.0,
+            "text": " Now if we talk about the first row"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 661.0,
+            "end": 663.0,
+            "text": " In the first row I have header tag"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 663.0,
+            "end": 665.0,
+            "text": " So I have two header items"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 665.0,
+            "end": 667.0,
+            "text": " One heading is item and one heading is price"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 667.0,
+            "end": 669.0,
+            "text": " So inside TR tag"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 669.0,
+            "end": 671.0,
+            "text": " First I will make TH tag"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 671.0,
+            "end": 673.0,
+            "text": " Inside this I will write item"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 673.0,
+            "end": 675.0,
+            "text": " And second heading"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 675.0,
+            "end": 677.0,
+            "text": " That will be equal to price"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 677.0,
+            "end": 679.0,
+            "text": " We will make it capital P"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 679.0,
+            "end": 681.0,
+            "text": " This is the first row"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 681.0,
+            "end": 683.0,
+            "text": " Now let's talk about the second row"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 683.0,
+            "end": 685.0,
+            "text": " Inside the second row"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 685.0,
+            "end": 687.0,
+            "text": " The first data which I have to display is fruity"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 687.0,
+            "end": 689.0,
+            "text": " Second data which I have to display is 10"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 689.0,
+            "end": 691.0,
+            "text": " Is this header type data"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 691.0,
+            "end": 693.0,
+            "text": " No, this is not header type data"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 693.0,
+            "end": 695.0,
+            "text": " This is a normal data cell"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 695.0,
+            "end": 697.0,
+            "text": " So for this I will use TD tag"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 697.0,
+            "end": 699.0,
+            "text": " Here I am going to write fruity"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 699.0,
+            "end": 701.0,
+            "text": " And in the second line also"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 701.0,
+            "end": 703.0,
+            "text": " I am going to write 10"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 703.0,
+            "end": 705.0,
+            "text": " Similarly, these same things"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 705.0,
+            "end": 707.0,
+            "text": " Will be replicated in the next row"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 707.0,
+            "end": 709.0,
+            "text": " And in the next row also"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 709.0,
+            "end": 711.0,
+            "text": " So what is this format"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 711.0,
+            "end": 713.0,
+            "text": " I used TR tags to create row"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 713.0,
+            "end": 715.0,
+            "text": " And inside that I have displayed header"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 715.0,
+            "end": 717.0,
+            "text": " Again I used TR tag to display row"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 717.0,
+            "end": 719.0,
+            "text": " And inside that I have displayed data"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 719.0,
+            "end": 721.0,
+            "text": " Let's save this"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 721.0,
+            "end": 723.0,
+            "text": " And here I am going to refresh my page"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 723.0,
+            "end": 725.0,
+            "text": " So I can see some things like this"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 725.0,
+            "end": 727.0,
+            "text": " Now this is not the same table"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 727.0,
+            "end": 729.0,
+            "text": " As we want to make"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 729.0,
+            "end": 731.0,
+            "text": " Because the main thing inside this"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 731.0,
+            "end": 733.0,
+            "text": " Is a border missing"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 733.0,
+            "end": 735.0,
+            "text": " Means no lines are visible"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 735.0,
+            "end": 737.0,
+            "text": " So for now we are going to ignore those lines"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 737.0,
+            "end": 739.0,
+            "text": " For now let's focus on data"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 739.0,
+            "end": 741.0,
+            "text": " When we will focus on data"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 741.0,
+            "end": 743.0,
+            "text": " Then I will know that item and price"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 743.0,
+            "end": 745.0,
+            "text": " Is in bold"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 745.0,
+            "end": 747.0,
+            "text": " Means all the things which are displayed"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 747.0,
+            "end": 749.0,
+            "text": " Are displayed in normal text form"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 749.0,
+            "end": 751.0,
+            "text": " But the header which I made"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 751.0,
+            "end": 753.0,
+            "text": " Item and price is displayed in bold"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 753.0,
+            "end": 755.0,
+            "text": " So all the headers of tables"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 755.0,
+            "end": 757.0,
+            "text": " Are displayed in bold by default"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 757.0,
+            "end": 759.0,
+            "text": " If we want we can change any styling"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 759.0,
+            "end": 761.0,
+            "text": " In CSS but we have not read CSS yet"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 761.0,
+            "end": 763.0,
+            "text": " So we will be using basic raw HTML"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 763.0,
+            "end": 765.0,
+            "text": " The data below is normally visible"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 765.0,
+            "end": 767.0,
+            "text": " And the caption of my table"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 767.0,
+            "end": 769.0,
+            "text": " Which was food menu"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 769.0,
+            "end": 771.0,
+            "text": " Is visible like this"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 771.0,
+            "end": 773.0,
+            "text": " Now in all rows"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 773.0,
+            "end": 775.0,
+            "text": " Fruity 10 is written"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 775.0,
+            "end": 777.0,
+            "text": " So let's change our items"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 777.0,
+            "end": 779.0,
+            "text": " In first row it is fruity 10"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 779.0,
+            "end": 781.0,
+            "text": " In second row we are going to write"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 781.0,
+            "end": 783.0,
+            "text": " Samosa and rupees 12"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 783.0,
+            "end": 785.0,
+            "text": " And in third row we are going to write"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 785.0,
+            "end": 787.0,
+            "text": " Chips and rupees 20"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 787.0,
+            "end": 789.0,
+            "text": " Let's save and refresh"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 789.0,
+            "end": 791.0,
+            "text": " So like this my data is visible"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 791.0,
+            "end": 793.0,
+            "text": " If I want I can do a small thing"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 793.0,
+            "end": 795.0,
+            "text": " Means in my code"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 795.0,
+            "end": 797.0,
+            "text": " In my table"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 797.0,
+            "end": 799.0,
+            "text": " I will write border"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 799.0,
+            "end": 801.0,
+            "text": " Is equal to black"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 801.0,
+            "end": 803.0,
+            "text": " And after saving it"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 803.0,
+            "end": 805.0,
+            "text": " If I refresh it"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 805.0,
+            "end": 807.0,
+            "text": " I will see that a border is created"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 807.0,
+            "end": 809.0,
+            "text": " Now this border thing which I added"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 809.0,
+            "end": 811.0,
+            "text": " What happened with this"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 811.0,
+            "end": 813.0,
+            "text": " This border is created"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 813.0,
+            "end": 815.0,
+            "text": " This is a hack"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 815.0,
+            "end": 817.0,
+            "text": " In HTML only CSS has a way"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 817.0,
+            "end": 819.0,
+            "text": " So the border which I have created"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 819.0,
+            "end": 821.0,
+            "text": " Is actually part of CSS"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 821.0,
+            "end": 823.0,
+            "text": " And in this way to create a border"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 823.0,
+            "end": 825.0,
+            "text": " Is not a good idea"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 825.0,
+            "end": 827.0,
+            "text": " But for clarity I am showing you"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 827.0,
+            "end": 829.0,
+            "text": " When table is completely ready"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 829.0,
+            "end": 831.0,
+            "text": " Then it has a border"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 831.0,
+            "end": 833.0,
+            "text": " But because we have not learned CSS yet"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 833.0,
+            "end": 835.0,
+            "text": " So the border and all the styling"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 835.0,
+            "end": 837.0,
+            "text": " Which is related to table"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 837.0,
+            "end": 839.0,
+            "text": " We are learning it in CSS time"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 839.0,
+            "end": 841.0,
+            "text": " So we are ignoring it"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 841.0,
+            "end": 843.0,
+            "text": " We are not seeing that beautiful table"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 843.0,
+            "end": 845.0,
+            "text": " We are just understanding the functionality of table"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 845.0,
+            "end": 847.0,
+            "text": " So let's refresh it again"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 847.0,
+            "end": 849.0,
+            "text": " So my border is gone"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 849.0,
+            "end": 851.0,
+            "text": " And in this way I have created a table"
+        },
+        {
+            "number": "01",
+            "title": "Tables in HTML",
+            "start": 851.0,
+            "end": 853.0,
+            "text": " With which we started"
+        }
+    ],
+    "text": " Next we will study HTML level 3 In level 3 we will talk about 2 important concepts of HTML We will understand this level in 2 parts First we will discuss in detail how tables are formed in HTML How we can manipulate tables And second we will understand forms in detail in HTML In real life we have seen many websites, apps, applications Where we have seen tables and forms Today we will understand how we can display a table or form on our website First we will start with HTML tables We have seen many tables in real life The most basic example of which is our attendance in school In attendance, a table was made in the register In that table, above everything was written name And with that our roll number And it is possible that many more details are written So here it is possible that this is my upper part Where the name can be Aman, roll number can be 24 The name can be Shraddha, roll number can be 86 The name can be Rajat, roll number can be 12 The name can be Sudhir, roll number can be 10 Although in school our roll numbers were run with sequence But when data is organized in this way We call this as my data is organized in the form of a table The data in the table is used to represent real life table data When we are making tables in HTML We are organizing our data in the same way So if I see this much part So this is my HTML visualized in the form of a table Now when we talk about HTML table There are different parts of the table that we have to understand If this table is formatted better Then we can draw our table in this way So my table will appear in the proper format So I can call this as my table And we can create similar tables in HTML Now before reading tables in HTML We have to understand some table names and characteristics To understand any table, we have to understand two attributes One is row and one is column Now if we are coming from the background of maths Then we must have learned about rows and columns many times We make many tables in commerce Now let's understand the basics What is row? If we analyze any data in this straight line In horizontal line So this is my row 1 This is my row 2 This data is written in row 3 This data is written in row 4 This data is written in row 5 Row means when we see a line of data horizontally So we call it row Similarly column means when we see a line of data vertically So this is my column 1 And this is my column 2 So all the data of the table is divided in the form of rows and columns I can call any data in this way That this data comes in my single row Or this data comes in my single column Now the main row in my rows and columns That means in which we are writing a heading We can also call this as header of my table Header means We have already learned what is header in HTML Header means the main part Or the part which tells about the heading Or the main content We call it as header in section HTML pages Similarly, the part which tells us about the main content of the table We call it as header of any table Now there is a unique thing in tables That header cannot be here If we want, we can make a header of any random row in the middle Logically, we don't do this in 99% practical cases And all the data we are showing It looks like a normal real-life table So whenever we talk about tables We have to remember two things Table is a combination of rows and columns Rows are on our horizontal side Columns are on our vertical side Now let's talk about If I have to recreate any table in HTML Then what syntax will we use for that There is some syntax like this There is some syntax to create any table in HTML Which starts with a table tag As soon as I write a table tag in my code Similarly, I will start creating a table But the table will not be created Like if I open my HTML document And here I have already made a file named classroom.html In which the boilerplate code is already written I have kept its title as HTML level 3 All the other things are the same I am going to write a table tag in the body So I have created a table like this If I save it, then both came on the same line Because the table is empty now And I am going to open this classroom.html So the page I have made is completely empty So it was understood that just writing a table Does not create a table To create a table in HTML There should be some actual data inside the table Because an empty table is nothing So let's talk about how we can add data in HTML tables Our table will look like this In which I have given a title in a table We can call it the title of the table Otherwise, we also call it a caption in HTML We must have seen the caption word many times before When we post photos on Instagram We post photos and videos on Facebook So there is always a text with the photo Which describes what is going on in this photo It is called a caption in common language That it is a caption of that photo Similarly, tables also have a caption The caption of the table tells What kind of data is inside the table Like I have written the data of item and price in this table We can say that this is a menu In which the price of fruity is 10 rupees The price of samosa is 12 rupees The price of chips is 20 rupees And this is my food menu Similarly, the table I made earlier We can call it student data So the caption of this table could have been student data So the first thing we can describe about any table Is its caption What kind of content will come inside this table To describe the caption We are writing the caption tag Whatever we write inside the caption tag It becomes a caption of my table To create the same table in my HTML file I can write caption And we will be writing food menu inside it So I am going to make a food menu Which is usually given in restaurants Or in canteens We are going to visualize the same menu On a webpage After that we get some tags First I can see this TR tag Then I can see this TH tag Inside this there is header 1, header 2, data 1, data 2 There is a TD tag I can see different tags inside So whatever data is shown inside a table Whether it is header data or normal text data Header data means the heading Like this white text highlighted in black This is my header data Because it is highlighted part of my table And this is my normal table data So we can visualize different types of data In different forms of tags Inside a table To represent the data We read 3 different types of tags in HTML First is TR tag TR tag's job is to create rows inside the table If I am going to create a row Inside this table I can see the rows I can create rows If I have made this type of table So this is my row 1 About which we have already read This is my row 2 This is my row 3 and this is my row 4 To create this row I will use a TR tag To create this row To create this row And similarly all the rows inside a table For every individual row I have to write a TR tag Whatever content is inside the TR tag All the content will show The content of a particular row For example If I have to make this table I have to use 4 TR tags So what do we do with 4 TR tags We create them inside our table This is my first tag This is my second, third and fourth To create 4 rows I have used 4 TR tags The second type of tag which we study Is my TD tag TD tag shows The data of a table And TD is the same as TH tag Which shows the header of a table We can also remember this in full form T is common in all tags R stands for row D stands for data And H stands for header So we can remember it like this When we have to display data Then TD tag is there When we have to make a row then TR tag is there When we have to show header then TH tag is there So if I analyze this table The row at the top What is there inside it It has a header So I will use TH tag I have made a row But what type of data should be there inside the row That will be shown by my TH tag This is my normal data So my TD tag will be there TD tag will be there inside this We can understand it like this If I have created a row For that I will use TR tag So I have written TR tag here But if I have to show header inside the row Then I will use TH tag Like this But if I want to show normal data inside the row Then for that I have to make a row Like this And inside that we will create TD tag So like this I will make a row with normal data And like this we will make a row with header data Same thing we have seen in the previous syntax That here I have written TD tag And like this we have seen in the previous syntax That here I have created a row But inside the row I will give two headers So for headers I have used TH tag I will write header1 For this table header1 will be Item For this table What will be the second thing in the header I will have price So I can write it here Price So my first row is over After that I will create second row Inside the second row Because I have to display normal data So I will use TD tag Inside TD and TH tags Single item will be displayed Single item display means It is a single cell Single cell means only this much part Which takes one row and one column This much part which takes one row and one column We call it a cell inside the table So to display the first cell I will write data1 here And to display the second cell Means to display this cell I can cut and write data2 here Which is going to be equal to 10 So what we are going to do We will recreate this table in our HTML code I used 4 TR tags To display 4 rows Now if we talk about the first row In the first row I have header tag So I have two header items One heading is item and one heading is price So inside TR tag First I will make TH tag Inside this I will write item And second heading That will be equal to price We will make it capital P This is the first row Now let's talk about the second row Inside the second row The first data which I have to display is fruity Second data which I have to display is 10 Is this header type data No, this is not header type data This is a normal data cell So for this I will use TD tag Here I am going to write fruity And in the second line also I am going to write 10 Similarly, these same things Will be replicated in the next row And in the next row also So what is this format I used TR tags to create row And inside that I have displayed header Again I used TR tag to display row And inside that I have displayed data Let's save this And here I am going to refresh my page So I can see some things like this Now this is not the same table As we want to make Because the main thing inside this Is a border missing Means no lines are visible So for now we are going to ignore those lines For now let's focus on data When we will focus on data Then I will know that item and price Is in bold Means all the things which are displayed Are displayed in normal text form But the header which I made Item and price is displayed in bold So all the headers of tables Are displayed in bold by default If we want we can change any styling In CSS but we have not read CSS yet So we will be using basic raw HTML The data below is normally visible And the caption of my table Which was food menu Is visible like this Now in all rows Fruity 10 is written So let's change our items In first row it is fruity 10 In second row we are going to write Samosa and rupees 12 And in third row we are going to write Chips and rupees 20 Let's save and refresh So like this my data is visible If I want I can do a small thing Means in my code In my table I will write border Is equal to black And after saving it If I refresh it I will see that a border is created Now this border thing which I added What happened with this This border is created This is a hack In HTML only CSS has a way So the border which I have created Is actually part of CSS And in this way to create a border Is not a good idea But for clarity I am showing you When table is completely ready Then it has a border But because we have not learned CSS yet So the border and all the styling Which is related to table We are learning it in CSS time So we are ignoring it We are not seeing that beautiful table We are just understanding the functionality of table So let's refresh it again So my border is gone And in this way I have created a table With which we started"
+}

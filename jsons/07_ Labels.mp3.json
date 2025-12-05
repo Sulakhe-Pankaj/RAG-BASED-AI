@@ -1,0 +1,1405 @@
+{
+    "chunks": [
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 0.0,
+            "end": 3.4,
+            "text": " Next, we will talk about the placeholder attribute."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 3.4,
+            "end": 9.08,
+            "text": " Whenever I create an input element, I can write an attribute in it, which is my placeholder."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 9.08,
+            "end": 14.56,
+            "text": " Placeholder is a text that is visible before entering any value."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 14.56,
+            "end": 23.12,
+            "text": " Usually, whenever we open an Instagram page, there is a place for input, but there is a very light color type here."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 23.12,
+            "end": 27.52,
+            "text": " Type here or the username is written or anything is written."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 27.52,
+            "end": 34.48,
+            "text": " As soon as we start typing there, everything disappears and whatever we type or input, I can see it."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 34.48,
+            "end": 44.4,
+            "text": " To display such text, which clearly shows what I have to enter in this box or in this input element,"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 44.4,
+            "end": 46.239999999999995,
+            "text": " we call it a placeholder."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 46.239999999999995,
+            "end": 51.0,
+            "text": " Placeholder means that you have kept someone to stop the place."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 51.0,
+            "end": 55.84,
+            "text": " So, we can write a random text in this box so that it does not appear empty."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 55.84,
+            "end": 59.519999999999996,
+            "text": " When we put the actual input in it, the random text will disappear."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 59.519999999999996,
+            "end": 63.120000000000005,
+            "text": " If you want to understand the placeholder attribute in more detail,"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 63.120000000000005,
+            "end": 68.12,
+            "text": " then I wrote the input type text in which I was entering my username."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 68.12,
+            "end": 76.52,
+            "text": " I can write a placeholder attribute there, which can be equal to type or enter username."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 76.52,
+            "end": 79.24000000000001,
+            "text": " I save and refresh it."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 79.32,
+            "end": 84.03999999999999,
+            "text": " Now I can see the enter username in the box of this username."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 84.03999999999999,
+            "end": 88.56,
+            "text": " But as soon as I start writing my username, it will disappear."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 88.56,
+            "end": 94.0,
+            "text": " So, placeholder means a text that is visible before adding the actual value."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 94.0,
+            "end": 98.28,
+            "text": " So, if I remove all these inputs, number, time, and color,"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 98.28,
+            "end": 101.75999999999999,
+            "text": " I can add a placeholder for my username, enter username,"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 101.75999999999999,
+            "end": 107.19999999999999,
+            "text": " and similarly, I can add a placeholder for my password, enter password."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 107.32000000000001,
+            "end": 109.68,
+            "text": " Let's save and refresh it."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 109.68,
+            "end": 112.68,
+            "text": " So, I can enter my username here."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 112.68,
+            "end": 117.0,
+            "text": " Let's say my username is Shraddha Kapra and I can enter my password as ABCD."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 117.0,
+            "end": 122.32000000000001,
+            "text": " So, I have placeholders for username and password."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 122.32000000000001,
+            "end": 126.2,
+            "text": " Now, the next thing we can read in the form is our labels."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 126.2,
+            "end": 133.6,
+            "text": " Labels are such elements in HTML that show a caption for an item in a user interface."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 133.64,
+            "end": 137.32,
+            "text": " So, I have already learned how to create input elements."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 137.32,
+            "end": 144.44,
+            "text": " But with input elements, I have written a username or password in the HTML file."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 144.44,
+            "end": 148.32,
+            "text": " Now, the username is a separate text and the input is a separate text."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 148.32,
+            "end": 155.68,
+            "text": " Since I have written everything in the same line, it seems like the username is showing that I have to enter the username."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 155.72,
+            "end": 162.28,
+            "text": " But if I want to connect this text with this input element,"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 162.28,
+            "end": 165.28,
+            "text": " then we use labels in HTML."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 165.28,
+            "end": 167.68,
+            "text": " How do we use labels?"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 167.68,
+            "end": 172.36,
+            "text": " In the form, I can create a label here with the help of label tag."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 172.36,
+            "end": 176.36,
+            "text": " If I write my username in the label tag,"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 176.36,
+            "end": 178.36,
+            "text": " I have written my username here."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 178.36,
+            "end": 182.48000000000002,
+            "text": " And now, if I write my input element in this label,"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 182.6,
+            "end": 185.95999999999998,
+            "text": " I can save and refresh this."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 185.95999999999998,
+            "end": 189.95999999999998,
+            "text": " Now, as soon as I click on the username,"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 189.95999999999998,
+            "end": 194.83999999999997,
+            "text": " the cursor will start showing for typing in my box."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 194.83999999999997,
+            "end": 198.88,
+            "text": " If I click on the password, then there is no activity in my box."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 198.88,
+            "end": 200.88,
+            "text": " But as soon as I click on the username,"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 200.88,
+            "end": 203.56,
+            "text": " my cursor is also changing as compared to a normal cursor."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 203.56,
+            "end": 204.83999999999997,
+            "text": " I am getting an arrow."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 204.83999999999997,
+            "end": 208.83999999999997,
+            "text": " And as soon as I click on the username, I can see a cursor in my box."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 208.84,
+            "end": 214.56,
+            "text": " So, because of the label, the text and input element form a connection."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 214.56,
+            "end": 219.04,
+            "text": " Now, whether I click on my text or my box,"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 219.04,
+            "end": 221.04,
+            "text": " the cursor will always go inside the box."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 221.04,
+            "end": 224.36,
+            "text": " Both things represent the same entity."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 224.36,
+            "end": 227.36,
+            "text": " Now, if I do the same thing for the password,"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 227.36,
+            "end": 229.36,
+            "text": " I created a label here."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 229.36,
+            "end": 234.36,
+            "text": " And I added the label as my password."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 234.36,
+            "end": 237.36,
+            "text": " And I showed the input element in it."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 237.36,
+            "end": 242.36,
+            "text": " So, I am forming a connection between this text and this input element."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 242.36,
+            "end": 245.36,
+            "text": " I am converting both of them into a single entity, which is a label."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 245.36,
+            "end": 247.36,
+            "text": " Let's save and refresh this."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 247.36,
+            "end": 249.36,
+            "text": " Now, if I click on the password,"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 249.36,
+            "end": 251.36,
+            "text": " my arrow has also changed."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 251.36,
+            "end": 253.36,
+            "text": " And as soon as I click on it, my box is highlighted."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 253.36,
+            "end": 255.36,
+            "text": " Now, we are talking about the password."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 255.36,
+            "end": 258.36,
+            "text": " I clicked on the username, so now we are talking about the username."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 258.36,
+            "end": 263.36,
+            "text": " So, by clicking on the text, my input box is triggered."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 263.36,
+            "end": 265.36,
+            "text": " So, this is the work of labels."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 265.36,
+            "end": 267.36,
+            "text": " Now, I have created the labels in this way."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 267.36,
+            "end": 269.36,
+            "text": " By creating labels, I mean that"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 269.36,
+            "end": 272.36,
+            "text": " this can be any text,"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 272.36,
+            "end": 275.36,
+            "text": " and this can be any input element."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 275.36,
+            "end": 277.36,
+            "text": " I have formed a connection between these two."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 277.36,
+            "end": 280.36,
+            "text": " But when we write labels in the future,"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 280.36,
+            "end": 283.36,
+            "text": " we will use a classical approach to write them."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 283.36,
+            "end": 286.36,
+            "text": " In which we will write the label separately and the input element separately."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 286.36,
+            "end": 288.36,
+            "text": " But how will the connection form between the two?"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 288.36,
+            "end": 290.36,
+            "text": " To form a connection between the two,"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 290.36,
+            "end": 294.36,
+            "text": " we will use the for attribute and the id attribute."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 294.36,
+            "end": 298.36,
+            "text": " First, I will explain briefly what is the id attribute."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 298.36,
+            "end": 300.36,
+            "text": " When we are reading CSS,"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 300.36,
+            "end": 304.36,
+            "text": " we will read the id and class in detail."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 304.36,
+            "end": 306.36,
+            "text": " So, for now, I will remove the class."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 306.36,
+            "end": 308.36,
+            "text": " We will only talk about the id."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 308.36,
+            "end": 309.36,
+            "text": " What is id?"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 309.36,
+            "end": 311.36,
+            "text": " Id is a unique name"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 311.36,
+            "end": 315.36,
+            "text": " which I give to any element."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 315.36,
+            "end": 318.36,
+            "text": " If I give any id to any input,"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 318.36,
+            "end": 320.36,
+            "text": " then I cannot give the same id to the other input."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 320.36,
+            "end": 324.36,
+            "text": " So, id is a unique name or attribute"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 324.36,
+            "end": 327.36,
+            "text": " which is associated with any element."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 327.36,
+            "end": 332.36,
+            "text": " So, if I am using my input for the username,"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 332.36,
+            "end": 334.36,
+            "text": " then I can give it the username."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 334.36,
+            "end": 336.36,
+            "text": " I can give it the username 123."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 336.36,
+            "end": 338.36,
+            "text": " Defining id for any element means"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 338.36,
+            "end": 340.36,
+            "text": " that I have named that element."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 340.36,
+            "end": 342.36,
+            "text": " For example, I have a name,"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 342.36,
+            "end": 343.36,
+            "text": " you will have a name,"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 343.36,
+            "end": 344.36,
+            "text": " your friend will have a name,"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 344.36,
+            "end": 345.36,
+            "text": " your parents will have a name."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 345.36,
+            "end": 349.36,
+            "text": " Similarly, if I want to name any element in HTML,"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 349.36,
+            "end": 352.36,
+            "text": " then the name will be in the form of an id."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 352.36,
+            "end": 355.36,
+            "text": " Now, as soon as I give an id to this input box,"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 355.36,
+            "end": 356.36,
+            "text": " this is the input type, text,"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 356.36,
+            "end": 358.36,
+            "text": " and it has a placeholder, username."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 358.36,
+            "end": 360.36,
+            "text": " I have given the username to this id,"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 360.36,
+            "end": 362.36,
+            "text": " which can be the same as my placeholder."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 362.36,
+            "end": 364.36,
+            "text": " Now, if I want to create a label for this element,"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 364.36,
+            "end": 366.36,
+            "text": " then I will create a label tag"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 366.36,
+            "end": 370.36,
+            "text": " and I will write the same id as for."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 370.36,
+            "end": 373.36,
+            "text": " So, the for attribute written in the label"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 373.36,
+            "end": 376.36,
+            "text": " is equal to the id attribute in the input element."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 376.36,
+            "end": 379.36,
+            "text": " So, the value in both should be the same."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 379.36,
+            "end": 381.36,
+            "text": " So, the first connection"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 381.36,
+            "end": 385.36,
+            "text": " was written in a single tag."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 385.36,
+            "end": 387.36,
+            "text": " Now, the same connection is due to"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 387.36,
+            "end": 389.36,
+            "text": " using the for attribute and the id attribute"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 389.36,
+            "end": 391.36,
+            "text": " in the attributes."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 391.36,
+            "end": 393.36,
+            "text": " So, the for I write in the label,"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 393.36,
+            "end": 395.36,
+            "text": " for means this label is being used"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 395.36,
+            "end": 400.36,
+            "text": " for this input."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 400.36,
+            "end": 403.36,
+            "text": " This sense is formed internally in HTML."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 403.36,
+            "end": 405.36,
+            "text": " So, now we are going to change the way"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 405.36,
+            "end": 407.36,
+            "text": " we write our label in HTML."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 407.36,
+            "end": 409.36,
+            "text": " Now, what I am going to do is"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 409.36,
+            "end": 411.36,
+            "text": " I will remove this label from here."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 411.36,
+            "end": 413.36,
+            "text": " First of all, I am going to give an id"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 413.36,
+            "end": 415.36,
+            "text": " to my input element."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 415.36,
+            "end": 417.36,
+            "text": " I give this id as username."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 417.36,
+            "end": 419.36,
+            "text": " And similarly, I am going to remove"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 419.36,
+            "end": 421.36,
+            "text": " my label from here."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 421.36,
+            "end": 423.36,
+            "text": " And I will also give an id to this second"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 423.36,
+            "end": 427.36,
+            "text": " input element, which is equal to password."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 427.36,
+            "end": 429.36,
+            "text": " Now, when I create a label for them,"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 429.36,
+            "end": 432.36,
+            "text": " then I will write for equals username"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 432.36,
+            "end": 434.36,
+            "text": " because the id should be the same."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 434.36,
+            "end": 436.36,
+            "text": " And I will write username in it."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 436.36,
+            "end": 438.36,
+            "text": " We are going to do the same thing"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 438.36,
+            "end": 440.36,
+            "text": " for the password."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 440.36,
+            "end": 442.36,
+            "text": " We will create a label here,"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 442.36,
+            "end": 444.36,
+            "text": " in which the id of the password"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 444.36,
+            "end": 446.36,
+            "text": " will come in the form, which is equal to"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 446.36,
+            "end": 448.36,
+            "text": " password."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 448.36,
+            "end": 450.36,
+            "text": " And here we will write password."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 450.36,
+            "end": 452.36,
+            "text": " Let's save and refresh it."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 452.36,
+            "end": 454.36,
+            "text": " So, in this way, when I am clicking"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 454.36,
+            "end": 456.36,
+            "text": " on the username, then my highlight is"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 456.36,
+            "end": 458.36,
+            "text": " being triggered again, that is, the"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 458.36,
+            "end": 460.36,
+            "text": " username input is being triggered."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 460.36,
+            "end": 462.36,
+            "text": " So, now the connection has been formed."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 462.36,
+            "end": 464.36,
+            "text": " And to form a connection,"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 464.36,
+            "end": 466.36,
+            "text": " I have not written both the elements"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 466.36,
+            "end": 468.36,
+            "text": " in a single tag, but I have used"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 468.36,
+            "end": 470.36,
+            "text": " for and id."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 470.36,
+            "end": 472.36,
+            "text": " So, we are using id more now,"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 472.36,
+            "end": 474.36,
+            "text": " but the real usage of id"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 474.36,
+            "end": 476.36,
+            "text": " will be understood more while reading"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 476.36,
+            "end": 478.36,
+            "text": " CSS. Because whenever I have to"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 478.36,
+            "end": 480.36,
+            "text": " style for a specific element,"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 480.36,
+            "end": 482.36,
+            "text": " then we access it with the help"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 482.36,
+            "end": 484.36,
+            "text": " of id. But we will understand all"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 484.36,
+            "end": 486.36,
+            "text": " these things in detail in CSS,"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 486.36,
+            "end": 488.36,
+            "text": " then we will understand it better."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 488.36,
+            "end": 490.36,
+            "text": " So, the real use of id is that"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 490.36,
+            "end": 492.36,
+            "text": " if id is with an input element,"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 492.36,
+            "end": 494.36,
+            "text": " then we will be able to connect it"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 494.36,
+            "end": 496.36,
+            "text": " with a label and form a connection."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 496.36,
+            "end": 498.36,
+            "text": " Now, instead of tagging br here,"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 498.36,
+            "end": 500.36,
+            "text": " what can I do?"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 500.36,
+            "end": 502.36,
+            "text": " I will transfer all the information"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 502.36,
+            "end": 504.36,
+            "text": " to a div."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 504.36,
+            "end": 506.36,
+            "text": " I transferred the information to the div."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 506.36,
+            "end": 508.36,
+            "text": " So, my input element"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 508.36,
+            "end": 510.36,
+            "text": " and my label will come"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 510.36,
+            "end": 512.36,
+            "text": " in a single line."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 512.36,
+            "end": 514.36,
+            "text": " Similarly, let's write the password"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 514.36,
+            "end": 516.36,
+            "text": " in a div."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 518.36,
+            "end": 520.36,
+            "text": " And I can make another div"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 520.36,
+            "end": 522.36,
+            "text": " to enter my age."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 522.36,
+            "end": 524.36,
+            "text": " To enter age, I will create an input element"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 524.36,
+            "end": 526.36,
+            "text": " and the type of that I am going to give"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 526.36,
+            "end": 528.36,
+            "text": " will be equal to a number."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 528.36,
+            "end": 530.36,
+            "text": " And in this, I can give"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 530.36,
+            "end": 532.36,
+            "text": " a placeholder, age."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 532.36,
+            "end": 534.36,
+            "text": " And here, I can also give"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 534.36,
+            "end": 536.36,
+            "text": " id equal to age."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 536.36,
+            "end": 538.36,
+            "text": " Now, for this age,"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 538.36,
+            "end": 540.36,
+            "text": " I will create a label for this input element."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 540.36,
+            "end": 542.36,
+            "text": " In which, for equals"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 542.36,
+            "end": 544.36,
+            "text": " age. That is, the"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 544.36,
+            "end": 546.36,
+            "text": " for and id of this will be the same."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 546.36,
+            "end": 548.36,
+            "text": " And what will be the label?"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 548.36,
+            "end": 550.36,
+            "text": " Label means what will be my text?"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 550.36,
+            "end": 552.36,
+            "text": " I can write this as enter age."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 552.36,
+            "end": 554.36,
+            "text": " Let's save it and refresh."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 554.36,
+            "end": 556.36,
+            "text": " So, here I can enter"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 556.36,
+            "end": 558.36,
+            "text": " my age which will be equal to"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 558.36,
+            "end": 560.36,
+            "text": " let's say 23."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 560.36,
+            "end": 562.36,
+            "text": " I can also decrease it or increase it."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 562.36,
+            "end": 564.36,
+            "text": " So, in this way,"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 564.36,
+            "end": 566.36,
+            "text": " we have seen a form"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 566.36,
+            "end": 568.36,
+            "text": " being created on our screen"
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 568.36,
+            "end": 570.36,
+            "text": " and how we are taking different types of input."
+        },
+        {
+            "number": "07",
+            "title": " Labels",
+            "start": 570.36,
+            "end": 572.36,
+            "text": " We are slowly understanding that."
+        }
+    ],
+    "text": " Next, we will talk about the placeholder attribute. Whenever I create an input element, I can write an attribute in it, which is my placeholder. Placeholder is a text that is visible before entering any value. Usually, whenever we open an Instagram page, there is a place for input, but there is a very light color type here. Type here or the username is written or anything is written. As soon as we start typing there, everything disappears and whatever we type or input, I can see it. To display such text, which clearly shows what I have to enter in this box or in this input element, we call it a placeholder. Placeholder means that you have kept someone to stop the place. So, we can write a random text in this box so that it does not appear empty. When we put the actual input in it, the random text will disappear. If you want to understand the placeholder attribute in more detail, then I wrote the input type text in which I was entering my username. I can write a placeholder attribute there, which can be equal to type or enter username. I save and refresh it. Now I can see the enter username in the box of this username. But as soon as I start writing my username, it will disappear. So, placeholder means a text that is visible before adding the actual value. So, if I remove all these inputs, number, time, and color, I can add a placeholder for my username, enter username, and similarly, I can add a placeholder for my password, enter password. Let's save and refresh it. So, I can enter my username here. Let's say my username is Shraddha Kapra and I can enter my password as ABCD. So, I have placeholders for username and password. Now, the next thing we can read in the form is our labels. Labels are such elements in HTML that show a caption for an item in a user interface. So, I have already learned how to create input elements. But with input elements, I have written a username or password in the HTML file. Now, the username is a separate text and the input is a separate text. Since I have written everything in the same line, it seems like the username is showing that I have to enter the username. But if I want to connect this text with this input element, then we use labels in HTML. How do we use labels? In the form, I can create a label here with the help of label tag. If I write my username in the label tag, I have written my username here. And now, if I write my input element in this label, I can save and refresh this. Now, as soon as I click on the username, the cursor will start showing for typing in my box. If I click on the password, then there is no activity in my box. But as soon as I click on the username, my cursor is also changing as compared to a normal cursor. I am getting an arrow. And as soon as I click on the username, I can see a cursor in my box. So, because of the label, the text and input element form a connection. Now, whether I click on my text or my box, the cursor will always go inside the box. Both things represent the same entity. Now, if I do the same thing for the password, I created a label here. And I added the label as my password. And I showed the input element in it. So, I am forming a connection between this text and this input element. I am converting both of them into a single entity, which is a label. Let's save and refresh this. Now, if I click on the password, my arrow has also changed. And as soon as I click on it, my box is highlighted. Now, we are talking about the password. I clicked on the username, so now we are talking about the username. So, by clicking on the text, my input box is triggered. So, this is the work of labels. Now, I have created the labels in this way. By creating labels, I mean that this can be any text, and this can be any input element. I have formed a connection between these two. But when we write labels in the future, we will use a classical approach to write them. In which we will write the label separately and the input element separately. But how will the connection form between the two? To form a connection between the two, we will use the for attribute and the id attribute. First, I will explain briefly what is the id attribute. When we are reading CSS, we will read the id and class in detail. So, for now, I will remove the class. We will only talk about the id. What is id? Id is a unique name which I give to any element. If I give any id to any input, then I cannot give the same id to the other input. So, id is a unique name or attribute which is associated with any element. So, if I am using my input for the username, then I can give it the username. I can give it the username 123. Defining id for any element means that I have named that element. For example, I have a name, you will have a name, your friend will have a name, your parents will have a name. Similarly, if I want to name any element in HTML, then the name will be in the form of an id. Now, as soon as I give an id to this input box, this is the input type, text, and it has a placeholder, username. I have given the username to this id, which can be the same as my placeholder. Now, if I want to create a label for this element, then I will create a label tag and I will write the same id as for. So, the for attribute written in the label is equal to the id attribute in the input element. So, the value in both should be the same. So, the first connection was written in a single tag. Now, the same connection is due to using the for attribute and the id attribute in the attributes. So, the for I write in the label, for means this label is being used for this input. This sense is formed internally in HTML. So, now we are going to change the way we write our label in HTML. Now, what I am going to do is I will remove this label from here. First of all, I am going to give an id to my input element. I give this id as username. And similarly, I am going to remove my label from here. And I will also give an id to this second input element, which is equal to password. Now, when I create a label for them, then I will write for equals username because the id should be the same. And I will write username in it. We are going to do the same thing for the password. We will create a label here, in which the id of the password will come in the form, which is equal to password. And here we will write password. Let's save and refresh it. So, in this way, when I am clicking on the username, then my highlight is being triggered again, that is, the username input is being triggered. So, now the connection has been formed. And to form a connection, I have not written both the elements in a single tag, but I have used for and id. So, we are using id more now, but the real usage of id will be understood more while reading CSS. Because whenever I have to style for a specific element, then we access it with the help of id. But we will understand all these things in detail in CSS, then we will understand it better. So, the real use of id is that if id is with an input element, then we will be able to connect it with a label and form a connection. Now, instead of tagging br here, what can I do? I will transfer all the information to a div. I transferred the information to the div. So, my input element and my label will come in a single line. Similarly, let's write the password in a div. And I can make another div to enter my age. To enter age, I will create an input element and the type of that I am going to give will be equal to a number. And in this, I can give a placeholder, age. And here, I can also give id equal to age. Now, for this age, I will create a label for this input element. In which, for equals age. That is, the for and id of this will be the same. And what will be the label? Label means what will be my text? I can write this as enter age. Let's save it and refresh. So, here I can enter my age which will be equal to let's say 23. I can also decrease it or increase it. So, in this way, we have seen a form being created on our screen and how we are taking different types of input. We are slowly understanding that."
+}

@@ -1,0 +1,439 @@
+{
+    "chunks": [
+        {
+            "number": "14",
+            "title": "Range - Input Element",
+            "start": 0.0,
+            "end": 5.62,
+            "text": " Next, we'll talk about another special type of input element, which is range input."
+        },
+        {
+            "number": "14",
+            "title": "Range - Input Element",
+            "start": 5.62,
+            "end": 9.72,
+            "text": " Sometimes, we don't have specific options to select."
+        },
+        {
+            "number": "14",
+            "title": "Range - Input Element",
+            "start": 9.72,
+            "end": 14.82,
+            "text": " Like, making apple or mango, these are specific options that we can select with the help of a button."
+        },
+        {
+            "number": "14",
+            "title": "Range - Input Element",
+            "start": 14.82,
+            "end": 18.400000000000002,
+            "text": " But sometimes, we have to select a value in terms of range."
+        },
+        {
+            "number": "14",
+            "title": "Range - Input Element",
+            "start": 18.400000000000002,
+            "end": 24.98,
+            "text": " Like, if we have to select a number between 0 and 100, or between 1000 and 2000,"
+        },
+        {
+            "number": "14",
+            "title": "Range - Input Element",
+            "start": 24.98,
+            "end": 30.8,
+            "text": " So, for such a large range, if we display different buttons on the screen and then tell you to click on one of them,"
+        },
+        {
+            "number": "14",
+            "title": "Range - Input Element",
+            "start": 30.8,
+            "end": 37.78,
+            "text": " then it will be a very tedious and unfriendly process for any user and programmer."
+        },
+        {
+            "number": "14",
+            "title": "Range - Input Element",
+            "start": 37.78,
+            "end": 41.34,
+            "text": " So, what we do is, we use the range input element."
+        },
+        {
+            "number": "14",
+            "title": "Range - Input Element",
+            "start": 41.34,
+            "end": 47.78,
+            "text": " If I show the range input element, then I can search for range input MDN."
+        },
+        {
+            "number": "14",
+            "title": "Range - Input Element",
+            "start": 48.38,
+            "end": 59.78,
+            "text": " And here, we have such input elements, in which I can select any value in a range."
+        },
+        {
+            "number": "14",
+            "title": "Range - Input Element",
+            "start": 59.78,
+            "end": 62.22,
+            "text": " These are called range input elements."
+        },
+        {
+            "number": "14",
+            "title": "Range - Input Element",
+            "start": 62.22,
+            "end": 69.54,
+            "text": " Now, to create these elements, we'll create an input element, which we'll type as range."
+        },
+        {
+            "number": "14",
+            "title": "Range - Input Element",
+            "start": 69.54,
+            "end": 74.78,
+            "text": " And we can give it any name, in which the value in the name will be passed."
+        },
+        {
+            "number": "14",
+            "title": "Range - Input Element",
+            "start": 74.78,
+            "end": 80.06,
+            "text": " And the range that we define, means, to which level you can select the values,"
+        },
+        {
+            "number": "14",
+            "title": "Range - Input Element",
+            "start": 80.06,
+            "end": 83.5,
+            "text": " we use two attributes, minimum and maximum."
+        },
+        {
+            "number": "14",
+            "title": "Range - Input Element",
+            "start": 83.5,
+            "end": 85.5,
+            "text": " What will be the minimum value?"
+        },
+        {
+            "number": "14",
+            "title": "Range - Input Element",
+            "start": 85.5,
+            "end": 91.66,
+            "text": " Whenever I take my cursor to this setting, what value should be passed in the URL?"
+        },
+        {
+            "number": "14",
+            "title": "Range - Input Element",
+            "start": 91.66,
+            "end": 96.66,
+            "text": " And when I select the entire range, what should be the maximum value?"
+        },
+        {
+            "number": "14",
+            "title": "Range - Input Element",
+            "start": 96.66,
+            "end": 100.58,
+            "text": " To define that, we use min and max attributes."
+        },
+        {
+            "number": "14",
+            "title": "Range - Input Element",
+            "start": 100.74,
+            "end": 107.17999999999999,
+            "text": " For example, I'm going to create an input element in the HTML form,"
+        },
+        {
+            "number": "14",
+            "title": "Range - Input Element",
+            "start": 107.17999999999999,
+            "end": 112.22,
+            "text": " in the HTML document, which we'll type as range."
+        },
+        {
+            "number": "14",
+            "title": "Range - Input Element",
+            "start": 112.22,
+            "end": 117.42,
+            "text": " As soon as I type range, I can write, select volume level."
+        },
+        {
+            "number": "14",
+            "title": "Range - Input Element",
+            "start": 117.42,
+            "end": 120.25999999999999,
+            "text": " I'll make a label for this input element."
+        },
+        {
+            "number": "14",
+            "title": "Range - Input Element",
+            "start": 120.25999999999999,
+            "end": 126.74,
+            "text": " We'll give it an ID, volume, VOL, and we'll write for VOL."
+        },
+        {
+            "number": "14",
+            "title": "Range - Input Element",
+            "start": 127.69999999999999,
+            "end": 133.9,
+            "text": " We'll write select your volume level in the label."
+        },
+        {
+            "number": "14",
+            "title": "Range - Input Element",
+            "start": 133.9,
+            "end": 137.1,
+            "text": " We'll save and refresh."
+        },
+        {
+            "number": "14",
+            "title": "Range - Input Element",
+            "start": 137.1,
+            "end": 139.78,
+            "text": " So, here it's written select your volume level."
+        },
+        {
+            "number": "14",
+            "title": "Range - Input Element",
+            "start": 139.78,
+            "end": 143.1,
+            "text": " And from here, I can select the level of my volume."
+        },
+        {
+            "number": "14",
+            "title": "Range - Input Element",
+            "start": 143.1,
+            "end": 145.1,
+            "text": " And I can submit this value."
+        },
+        {
+            "number": "14",
+            "title": "Range - Input Element",
+            "start": 145.1,
+            "end": 149.9,
+            "text": " So, nothing has come up yet, but as soon as I define the range,"
+        },
+        {
+            "number": "14",
+            "title": "Range - Input Element",
+            "start": 149.94,
+            "end": 156.70000000000002,
+            "text": " I'll assume the minimum value to be 0, and the maximum value to be 100."
+        },
+        {
+            "number": "14",
+            "title": "Range - Input Element",
+            "start": 156.70000000000002,
+            "end": 162.06,
+            "text": " Now, if I save and refresh, and submit the 0 level volume,"
+        },
+        {
+            "number": "14",
+            "title": "Range - Input Element",
+            "start": 162.06,
+            "end": 170.22,
+            "text": " still nothing is coming up in my URL because I haven't defined a name."
+        },
+        {
+            "number": "14",
+            "title": "Range - Input Element",
+            "start": 170.22,
+            "end": 175.1,
+            "text": " I'm going to define a name for my input, which is equal to my volume."
+        },
+        {
+            "number": "14",
+            "title": "Range - Input Element",
+            "start": 175.1,
+            "end": 177.42000000000002,
+            "text": " Let's save and refresh."
+        },
+        {
+            "number": "14",
+            "title": "Range - Input Element",
+            "start": 177.5,
+            "end": 184.22,
+            "text": " Now, if I submit at 0 level, then in my URL, I'll get a display of volume is equal to 0."
+        },
+        {
+            "number": "14",
+            "title": "Range - Input Element",
+            "start": 184.22,
+            "end": 190.22,
+            "text": " If I select the entire range and submit it, then the volume will be 100."
+        },
+        {
+            "number": "14",
+            "title": "Range - Input Element",
+            "start": 190.22,
+            "end": 194.22,
+            "text": " I could have made this range from 10 to 100."
+        },
+        {
+            "number": "14",
+            "title": "Range - Input Element",
+            "start": 194.22,
+            "end": 202.22,
+            "text": " In this case, if I refresh and go to the minimum, then the volume will be 10."
+        },
+        {
+            "number": "14",
+            "title": "Range - Input Element",
+            "start": 202.22,
+            "end": 206.06,
+            "text": " Because the minimum value of this range is equal to 10."
+        },
+        {
+            "number": "14",
+            "title": "Range - Input Element",
+            "start": 206.06,
+            "end": 209.26,
+            "text": " So, in this way, we can select the data in the form of range."
+        },
+        {
+            "number": "14",
+            "title": "Range - Input Element",
+            "start": 209.26,
+            "end": 213.26,
+            "text": " And there is another attribute here, which is my step attribute."
+        },
+        {
+            "number": "14",
+            "title": "Range - Input Element",
+            "start": 213.26,
+            "end": 218.06,
+            "text": " In the form of step attribute, if I go from 0 to 100,"
+        },
+        {
+            "number": "14",
+            "title": "Range - Input Element",
+            "start": 218.06,
+            "end": 222.06,
+            "text": " then let's assume I did 10 in step, and now I refresh it."
+        },
+        {
+            "number": "14",
+            "title": "Range - Input Element",
+            "start": 222.06,
+            "end": 226.86,
+            "text": " So, whenever I increase the volume level, it will always increase in the terms of 10."
+        },
+        {
+            "number": "14",
+            "title": "Range - Input Element",
+            "start": 226.86,
+            "end": 232.06,
+            "text": " First, it will increase in the terms of 10, then 10, then 20, then 30, then 40, and so on."
+        },
+        {
+            "number": "14",
+            "title": "Range - Input Element",
+            "start": 232.06,
+            "end": 240.06,
+            "text": " If I increase the volume level once and submit it, then I will get volume is equal to 10."
+        },
+        {
+            "number": "14",
+            "title": "Range - Input Element",
+            "start": 240.06,
+            "end": 244.06,
+            "text": " If I increase it twice, then I get volume is equal to 20."
+        },
+        {
+            "number": "14",
+            "title": "Range - Input Element",
+            "start": 244.06,
+            "end": 246.06,
+            "text": " So, how is the volume increasing?"
+        },
+        {
+            "number": "14",
+            "title": "Range - Input Element",
+            "start": 246.06,
+            "end": 248.06,
+            "text": " It is increasing in the steps of 10."
+        },
+        {
+            "number": "14",
+            "title": "Range - Input Element",
+            "start": 248.06,
+            "end": 256.06,
+            "text": " So, if we want the data to increase in the terms of fixed value, then we can use the step attribute."
+        },
+        {
+            "number": "14",
+            "title": "Range - Input Element",
+            "start": 257.06,
+            "end": 263.06,
+            "text": " If we want a value to be set by default, then we can use the value attribute."
+        },
+        {
+            "number": "14",
+            "title": "Range - Input Element",
+            "start": 263.06,
+            "end": 267.06,
+            "text": " I want my range to be set at 70."
+        },
+        {
+            "number": "14",
+            "title": "Range - Input Element",
+            "start": 267.06,
+            "end": 270.06,
+            "text": " So, here value is equal to 70 will be the attribute."
+        },
+        {
+            "number": "14",
+            "title": "Range - Input Element",
+            "start": 270.06,
+            "end": 272.06,
+            "text": " Let's refresh it."
+        },
+        {
+            "number": "14",
+            "title": "Range - Input Element",
+            "start": 272.06,
+            "end": 275.06,
+            "text": " So, this volume is already set at 70."
+        },
+        {
+            "number": "14",
+            "title": "Range - Input Element",
+            "start": 275.06,
+            "end": 278.06,
+            "text": " If I submit it without changing it, then it will come to volume is equal to 7."
+        },
+        {
+            "number": "14",
+            "title": "Range - Input Element",
+            "start": 278.06,
+            "end": 282.06,
+            "text": " And if I want to change it now, then I can increase it to 100."
+        },
+        {
+            "number": "14",
+            "title": "Range - Input Element",
+            "start": 282.06,
+            "end": 284.06,
+            "text": " If I increase it to 100, then it will be equal to 100."
+        },
+        {
+            "number": "14",
+            "title": "Range - Input Element",
+            "start": 284.06,
+            "end": 287.06,
+            "text": " But by default, whenever the form will open, it will always be 70."
+        },
+        {
+            "number": "14",
+            "title": "Range - Input Element",
+            "start": 287.06,
+            "end": 299.06,
+            "text": " So, if we want to set a minimum level of volume in our form, or there should be any initial value in any other range, then we can set it with the help of the value attribute."
+        },
+        {
+            "number": "14",
+            "title": "Range - Input Element",
+            "start": 299.06,
+            "end": 304.06,
+            "text": " So, in this way, range is another input element that we can use in the forms."
+        }
+    ],
+    "text": " Next, we'll talk about another special type of input element, which is range input. Sometimes, we don't have specific options to select. Like, making apple or mango, these are specific options that we can select with the help of a button. But sometimes, we have to select a value in terms of range. Like, if we have to select a number between 0 and 100, or between 1000 and 2000, So, for such a large range, if we display different buttons on the screen and then tell you to click on one of them, then it will be a very tedious and unfriendly process for any user and programmer. So, what we do is, we use the range input element. If I show the range input element, then I can search for range input MDN. And here, we have such input elements, in which I can select any value in a range. These are called range input elements. Now, to create these elements, we'll create an input element, which we'll type as range. And we can give it any name, in which the value in the name will be passed. And the range that we define, means, to which level you can select the values, we use two attributes, minimum and maximum. What will be the minimum value? Whenever I take my cursor to this setting, what value should be passed in the URL? And when I select the entire range, what should be the maximum value? To define that, we use min and max attributes. For example, I'm going to create an input element in the HTML form, in the HTML document, which we'll type as range. As soon as I type range, I can write, select volume level. I'll make a label for this input element. We'll give it an ID, volume, VOL, and we'll write for VOL. We'll write select your volume level in the label. We'll save and refresh. So, here it's written select your volume level. And from here, I can select the level of my volume. And I can submit this value. So, nothing has come up yet, but as soon as I define the range, I'll assume the minimum value to be 0, and the maximum value to be 100. Now, if I save and refresh, and submit the 0 level volume, still nothing is coming up in my URL because I haven't defined a name. I'm going to define a name for my input, which is equal to my volume. Let's save and refresh. Now, if I submit at 0 level, then in my URL, I'll get a display of volume is equal to 0. If I select the entire range and submit it, then the volume will be 100. I could have made this range from 10 to 100. In this case, if I refresh and go to the minimum, then the volume will be 10. Because the minimum value of this range is equal to 10. So, in this way, we can select the data in the form of range. And there is another attribute here, which is my step attribute. In the form of step attribute, if I go from 0 to 100, then let's assume I did 10 in step, and now I refresh it. So, whenever I increase the volume level, it will always increase in the terms of 10. First, it will increase in the terms of 10, then 10, then 20, then 30, then 40, and so on. If I increase the volume level once and submit it, then I will get volume is equal to 10. If I increase it twice, then I get volume is equal to 20. So, how is the volume increasing? It is increasing in the steps of 10. So, if we want the data to increase in the terms of fixed value, then we can use the step attribute. If we want a value to be set by default, then we can use the value attribute. I want my range to be set at 70. So, here value is equal to 70 will be the attribute. Let's refresh it. So, this volume is already set at 70. If I submit it without changing it, then it will come to volume is equal to 7. And if I want to change it now, then I can increase it to 100. If I increase it to 100, then it will be equal to 100. But by default, whenever the form will open, it will always be 70. So, if we want to set a minimum level of volume in our form, or there should be any initial value in any other range, then we can set it with the help of the value attribute. So, in this way, range is another input element that we can use in the forms."
+}

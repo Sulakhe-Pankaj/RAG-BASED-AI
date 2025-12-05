@@ -1,0 +1,1692 @@
+{
+    "chunks": [
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 0.0,
+            "end": 3.8000000000000003,
+            "text": " The next thing we are going to read in the forms is my button element."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 3.8000000000000003,
+            "end": 7.04,
+            "text": " That is, all the buttons we have seen in the forms till date."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 7.04,
+            "end": 9.72,
+            "text": " Like if I open the form again and show you."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 9.72,
+            "end": 13.200000000000001,
+            "text": " Login to Instagram."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 13.200000000000001,
+            "end": 16.080000000000002,
+            "text": " If I do, then my form is open."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 16.080000000000002,
+            "end": 18.92,
+            "text": " Now there are many different buttons on the website."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 18.92,
+            "end": 20.92,
+            "text": " This is my login button."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 20.92,
+            "end": 23.32,
+            "text": " Here it is download the app."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 23.32,
+            "end": 24.84,
+            "text": " Get it on Google Play."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 24.84,
+            "end": 26.48,
+            "text": " These are also buttons in itself."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 26.48,
+            "end": 28.76,
+            "text": " The buttons that happen when you click."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 28.96,
+            "end": 30.840000000000003,
+            "text": " If I take out the signup form here."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 30.840000000000003,
+            "end": 32.72,
+            "text": " This is the login with Facebook button."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 32.72,
+            "end": 34.160000000000004,
+            "text": " This is the signup button."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 34.160000000000004,
+            "end": 36.800000000000004,
+            "text": " So there are many different buttons on the website."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 36.800000000000004,
+            "end": 38.120000000000005,
+            "text": " Which we can create."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 38.120000000000005,
+            "end": 41.2,
+            "text": " First of all, let's talk about a simple button element."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 41.2,
+            "end": 42.68,
+            "text": " If I want to create a button."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 42.68,
+            "end": 45.64,
+            "text": " Then I simply have to write the opening and closing tag of the button."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 45.64,
+            "end": 47.56,
+            "text": " And the thing that should be visible above the button."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 47.56,
+            "end": 49.44,
+            "text": " I can write that in the middle."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 49.44,
+            "end": 51.760000000000005,
+            "text": " So what are we going to do for our form?"
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 51.760000000000005,
+            "end": 54.56,
+            "text": " For the form, we will create a button."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 54.56,
+            "end": 55.56,
+            "text": " Something here."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 56.56,
+            "end": 58.56,
+            "text": " I am going to write a button."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 58.56,
+            "end": 61.56,
+            "text": " And I will write submit on it."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 61.56,
+            "end": 63.56,
+            "text": " Let's save it and refresh."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 63.56,
+            "end": 68.56,
+            "text": " Right now, we can see a grayish old school button."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 68.56,
+            "end": 69.56,
+            "text": " It doesn't look beautiful."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 69.56,
+            "end": 73.56,
+            "text": " But all this styling, beauty, how beautiful the buttons should be."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 73.56,
+            "end": 76.56,
+            "text": " What should be the color, should there be an icon on it or not."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 76.56,
+            "end": 78.56,
+            "text": " We are going to learn all these things in CSS."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 78.56,
+            "end": 80.56,
+            "text": " Now as soon as I click on this button."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 80.56,
+            "end": 82.56,
+            "text": " As soon as I clicked on submit."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 82.56,
+            "end": 84.56,
+            "text": " What happened? Some action was performed."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 84.56,
+            "end": 86.56,
+            "text": " My entire web page disappeared."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 86.56,
+            "end": 87.56,
+            "text": " And now I have come here."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 87.56,
+            "end": 88.56,
+            "text": " What is this?"
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 88.56,
+            "end": 91.56,
+            "text": " This is something slash action question mark."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 91.56,
+            "end": 93.56,
+            "text": " I can paste it here."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 93.56,
+            "end": 94.56,
+            "text": " I will paste it here."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 94.56,
+            "end": 97.56,
+            "text": " This file slash action was written."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 97.56,
+            "end": 103.56,
+            "text": " So this slash action is the same thing that I had defined in my action attribute in the form."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 103.56,
+            "end": 106.56,
+            "text": " If I had written server instead of action in this form."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 106.56,
+            "end": 108.56,
+            "text": " Let's remove this."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 108.56,
+            "end": 111.56,
+            "text": " And instead of action, let's write server in the form."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 111.56,
+            "end": 113.56,
+            "text": " Let's save this."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 113.56,
+            "end": 115.56,
+            "text": " I am going to refresh this."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 115.56,
+            "end": 117.56,
+            "text": " As soon as I click on submit, what happened here?"
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 117.56,
+            "end": 119.56,
+            "text": " Slash server started to appear."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 119.56,
+            "end": 122.56,
+            "text": " So what is happening by clicking on the submit button in the form?"
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 122.56,
+            "end": 126.56,
+            "text": " By clicking on this submit button, my form data is basically being submitted."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 126.56,
+            "end": 132.56,
+            "text": " And all the data is being redirected to this location."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 132.56,
+            "end": 135.56,
+            "text": " So when we were talking in the beginning that with the help of action attribute."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 135.56,
+            "end": 138.56,
+            "text": " We know that the entire information of the form."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 138.56,
+            "end": 139.56,
+            "text": " Where is it going to go?"
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 139.56,
+            "end": 141.56,
+            "text": " Which file is it going to go to?"
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 141.56,
+            "end": 143.56,
+            "text": " Which URL is it going to go to?"
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 143.56,
+            "end": 145.56,
+            "text": " So the same information is going to the slash server."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 145.56,
+            "end": 147.56,
+            "text": " But because the slash server does not exist."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 147.56,
+            "end": 150.56,
+            "text": " We have not created any file or location like this yet."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 150.56,
+            "end": 154.56,
+            "text": " That's why when I click on submit, it shows here that your file could not be accessed."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 154.56,
+            "end": 156.56,
+            "text": " Because it does not exist."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 156.56,
+            "end": 159.56,
+            "text": " Because I have written any random name by slashing here."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 159.56,
+            "end": 161.56,
+            "text": " But when we actually implement the forms."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 161.56,
+            "end": 163.56,
+            "text": " We are sending the data in the javascript file."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 163.56,
+            "end": 167.56,
+            "text": " So here in the action, we are writing a logical thing."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 167.56,
+            "end": 170.56,
+            "text": " But for now, because it is not there, my data is not going anywhere."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 170.56,
+            "end": 173.56,
+            "text": " But it is clear to me that whenever we click on the button."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 173.56,
+            "end": 175.56,
+            "text": " Then some action is definitely performed."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 175.56,
+            "end": 179.56,
+            "text": " Now I am going to show you one more interesting thing about forms."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 179.56,
+            "end": 183.56,
+            "text": " That in the form, I created this button in which I wrote submit."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 183.56,
+            "end": 186.56,
+            "text": " Let's assume I create another button."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 186.56,
+            "end": 188.56,
+            "text": " In which I am going to write hello."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 188.56,
+            "end": 191.56,
+            "text": " If I save this and refresh it."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 191.56,
+            "end": 194.56,
+            "text": " So one button is submitted and the other is hello."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 194.56,
+            "end": 196.56,
+            "text": " Now if I click on hello, then what happened?"
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 196.56,
+            "end": 198.56,
+            "text": " Then I reached the server."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 198.56,
+            "end": 202.56,
+            "text": " That is, whether I click on the submit button or click on any other button."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 202.56,
+            "end": 206.56,
+            "text": " The default behavior of all the buttons of the form."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 206.56,
+            "end": 209.56,
+            "text": " That is to submit the information of that form."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 209.56,
+            "end": 213.56,
+            "text": " If I remove this hello button from here."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 213.56,
+            "end": 215.56,
+            "text": " Take it to the very beginning of the form."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 215.56,
+            "end": 216.56,
+            "text": " And create it here."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 216.56,
+            "end": 217.56,
+            "text": " Let's refresh it."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 217.56,
+            "end": 222.56,
+            "text": " Even then if I click on hello, my form data will be submitted."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 222.56,
+            "end": 225.56,
+            "text": " So by default, if any button is created in the form."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 225.56,
+            "end": 229.56,
+            "text": " Then whatever title we have written on it, whether it is hello or submit."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 229.56,
+            "end": 233.56,
+            "text": " Its default behavior is to submit all the information of that form."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 233.56,
+            "end": 238.56,
+            "text": " And whatever action has been written in the form, send that information to the data."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 238.56,
+            "end": 241.56,
+            "text": " But if this is the same thing outside the form."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 241.56,
+            "end": 244.56,
+            "text": " That is, if I create a button outside the form."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 244.56,
+            "end": 246.56,
+            "text": " And here I write hello."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 246.56,
+            "end": 247.56,
+            "text": " Let's save this."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 247.56,
+            "end": 250.56,
+            "text": " And I remove this hello button from here."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 250.56,
+            "end": 252.56,
+            "text": " So I can see that the form is starting from here."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 252.56,
+            "end": 254.56,
+            "text": " So my button with hello is outside the form."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 254.56,
+            "end": 255.56,
+            "text": " I refresh this."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 255.56,
+            "end": 258.56,
+            "text": " So now nothing happens by clicking this hello button."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 258.56,
+            "end": 262.56,
+            "text": " That is, what action should be performed by clicking the button outside the form."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 262.56,
+            "end": 264.56,
+            "text": " Its default behavior is nothing."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 264.56,
+            "end": 267.56,
+            "text": " We have to define what will happen by clicking the button."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 267.56,
+            "end": 270.56,
+            "text": " But if I have written any button inside the form."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 270.56,
+            "end": 273.56,
+            "text": " So by default, its job will be to submit the information."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 273.56,
+            "end": 276.56,
+            "text": " Now there are different types of buttons in HTML."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 276.56,
+            "end": 279.56,
+            "text": " Like there are three types of buttons that we are reading."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 279.56,
+            "end": 283.56,
+            "text": " To define their types, we use the type attribute."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 283.56,
+            "end": 285.56,
+            "text": " So there are three different types of buttons."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 285.56,
+            "end": 287.56,
+            "text": " The first button type is submit."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 287.56,
+            "end": 291.56,
+            "text": " That is, I have submitted this in any button."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 291.56,
+            "end": 296.56,
+            "text": " Now if I type type is equal to submit in any button."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 296.56,
+            "end": 299.56,
+            "text": " So its job will be to submit the information."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 299.56,
+            "end": 300.56,
+            "text": " Let's do this."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 300.56,
+            "end": 301.56,
+            "text": " Save and this is my."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 301.56,
+            "end": 303.56,
+            "text": " Let's call it type 1."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 303.56,
+            "end": 305.56,
+            "text": " Refresh."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 305.56,
+            "end": 309.56,
+            "text": " If I click type 1, then its job will be to submit the information."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 309.56,
+            "end": 314.56,
+            "text": " If I make hello type is equal to submit."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 314.56,
+            "end": 315.56,
+            "text": " Let's do this."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 315.56,
+            "end": 316.56,
+            "text": " Save and refresh."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 316.56,
+            "end": 319.56,
+            "text": " Now if I click on hello, then no action will be performed."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 319.56,
+            "end": 321.56,
+            "text": " Because what is the job of submit?"
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 321.56,
+            "end": 323.56,
+            "text": " Send data from one place to another."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 323.56,
+            "end": 325.56,
+            "text": " So if I have not written the submit button inside the form."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 325.56,
+            "end": 327.56,
+            "text": " So it will not be able to submit any information."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 327.56,
+            "end": 329.56,
+            "text": " So the button outside the form."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 329.56,
+            "end": 331.56,
+            "text": " It does not have any information to submit."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 331.56,
+            "end": 333.56,
+            "text": " So by clicking it, no action of submit will be performed."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 333.56,
+            "end": 337.56,
+            "text": " But yes, if I make a normal simple button inside my form."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 337.56,
+            "end": 340.56,
+            "text": " And if I write submit in its type, then it will work as a submit."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 340.56,
+            "end": 344.56,
+            "text": " The second type inside the button is my simple button type."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 344.56,
+            "end": 347.56,
+            "text": " That is, if I want to make a normal button inside the form."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 347.56,
+            "end": 350.56,
+            "text": " Like if I want to make a hello button here."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 350.56,
+            "end": 352.56,
+            "text": " So I can give its type inside this."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 352.56,
+            "end": 353.56,
+            "text": " Simple button."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 353.56,
+            "end": 354.56,
+            "text": " Now let's do this."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 354.56,
+            "end": 356.56,
+            "text": " Save and refresh."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 356.56,
+            "end": 358.56,
+            "text": " So one of my submit button has been done."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 358.56,
+            "end": 360.56,
+            "text": " By clicking it, the submit is done."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 360.56,
+            "end": 361.56,
+            "text": " The second one is the hello button."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 361.56,
+            "end": 363.56,
+            "text": " Now by clicking the hello button, the submit is not happening."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 363.56,
+            "end": 364.56,
+            "text": " While it was happening before."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 364.56,
+            "end": 368.56,
+            "text": " Because we have explicitly typed its type as button."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 368.56,
+            "end": 370.56,
+            "text": " But by default, its type is submit."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 370.56,
+            "end": 374.56,
+            "text": " The third type of button is the reset button."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 374.56,
+            "end": 375.56,
+            "text": " What does the reset button do?"
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 375.56,
+            "end": 377.56,
+            "text": " All the things we have written in the form."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 377.56,
+            "end": 379.56,
+            "text": " It will refresh everything."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 379.56,
+            "end": 381.56,
+            "text": " That is, it will reset all the information."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 381.56,
+            "end": 382.56,
+            "text": " It will remove it."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 382.56,
+            "end": 385.56,
+            "text": " Here I create another button."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 385.56,
+            "end": 387.56,
+            "text": " In whose type we are going to write reset."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 387.56,
+            "end": 390.56,
+            "text": " And I will write it here."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 390.56,
+            "end": 391.56,
+            "text": " Reset."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 391.56,
+            "end": 392.56,
+            "text": " Let's do this."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 392.56,
+            "end": 393.56,
+            "text": " Save and now refresh."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 393.56,
+            "end": 396.56,
+            "text": " Now let's say I have written my username here."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 396.56,
+            "end": 398.56,
+            "text": " Or I have written my password here."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 398.56,
+            "end": 399.56,
+            "text": " Or I have entered my age here."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 399.56,
+            "end": 401.56,
+            "text": " Now as soon as I click on reset."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 401.56,
+            "end": 403.56,
+            "text": " All this information will disappear."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 403.56,
+            "end": 405.56,
+            "text": " And my entire form will be empty."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 405.56,
+            "end": 407.56,
+            "text": " So I have seen all three types of buttons."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 407.56,
+            "end": 408.56,
+            "text": " One button inside the form."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 408.56,
+            "end": 412.56,
+            "text": " Or in general, if I have to create buttons outside the form in HTML."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 412.56,
+            "end": 414.56,
+            "text": " Then I can create three types of buttons."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 414.56,
+            "end": 416.56,
+            "text": " First is my submit button."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 416.56,
+            "end": 418.56,
+            "text": " Second is my button type."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 418.56,
+            "end": 420.56,
+            "text": " And third is my reset type."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 420.56,
+            "end": 423.56,
+            "text": " Next we are going to talk about the input element in HTML."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 423.56,
+            "end": 427.56,
+            "text": " In which we can create a button in the form of an input element."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 427.56,
+            "end": 430.56,
+            "text": " When I showed you different types in input."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 430.56,
+            "end": 434.56,
+            "text": " So there is a different type of button type inside the input."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 434.56,
+            "end": 437.56,
+            "text": " So if I want to create a button in my form."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 437.56,
+            "end": 440.56,
+            "text": " So I can also create it with the help of input element."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 440.56,
+            "end": 444.56,
+            "text": " To create that, I have to submit the type."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 444.56,
+            "end": 447.56,
+            "text": " Now what can I write to create a button with the help of input element."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 447.56,
+            "end": 449.56,
+            "text": " I can write input."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 449.56,
+            "end": 451.56,
+            "text": " And there the value of type."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 451.56,
+            "end": 453.56,
+            "text": " First of all, what will we write?"
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 453.56,
+            "end": 455.56,
+            "text": " First of all, we will write as button."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 455.56,
+            "end": 457.56,
+            "text": " So in this way, I have to create a button."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 457.56,
+            "end": 461.56,
+            "text": " I will go to the next line and create an input element."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 461.56,
+            "end": 465.56,
+            "text": " In which type will be created as my button."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 465.56,
+            "end": 467.56,
+            "text": " Let's do this."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 467.56,
+            "end": 469.56,
+            "text": " Save and refresh."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 469.56,
+            "end": 471.56,
+            "text": " Now a new thing has appeared here."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 471.56,
+            "end": 473.56,
+            "text": " Let's zoom in a little."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 473.56,
+            "end": 475.56,
+            "text": " This is my button."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 475.56,
+            "end": 478.56,
+            "text": " By clicking it, no action has been performed."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 478.56,
+            "end": 480.56,
+            "text": " But I know that a button has come on the screen."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 480.56,
+            "end": 482.56,
+            "text": " But nothing is written on this button."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 482.56,
+            "end": 486.56,
+            "text": " If I want to display something on the button I create with input."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 486.56,
+            "end": 489.56,
+            "text": " So for that I can use the value attribute."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 489.56,
+            "end": 492.56,
+            "text": " So if I write click me on the value attribute."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 492.56,
+            "end": 494.56,
+            "text": " And now refresh it."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 494.56,
+            "end": 496.56,
+            "text": " So I have a button that is being displayed."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 496.56,
+            "end": 498.56,
+            "text": " On which click me is appearing."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 498.56,
+            "end": 501.56,
+            "text": " So in this way, I created a button in the form of an input element."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 501.56,
+            "end": 504.56,
+            "text": " But this button is not working right now."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 504.56,
+            "end": 506.56,
+            "text": " If I want to use this button."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 506.56,
+            "end": 509.56,
+            "text": " Means I want to make a button from the input that can submit information."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 509.56,
+            "end": 512.56,
+            "text": " Then I can use type is equal to submit."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 512.56,
+            "end": 514.56,
+            "text": " So here."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 514.56,
+            "end": 517.56,
+            "text": " With the help of another input."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 517.56,
+            "end": 520.56,
+            "text": " Type is equal to submit."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 520.56,
+            "end": 522.56,
+            "text": " So I will be able to make a button."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 522.56,
+            "end": 523.56,
+            "text": " Let's do this."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 523.56,
+            "end": 524.56,
+            "text": " Save and refresh."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 524.56,
+            "end": 526.56,
+            "text": " Now this submit button has appeared with me."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 526.56,
+            "end": 528.56,
+            "text": " With the help of which line did this appear."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 528.56,
+            "end": 531.56,
+            "text": " When I wrote in HTML input type is equal to submit."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 531.56,
+            "end": 533.56,
+            "text": " One thing you must have noticed."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 533.56,
+            "end": 535.56,
+            "text": " What should be visible on the button."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 535.56,
+            "end": 536.56,
+            "text": " I never defined that."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 536.56,
+            "end": 538.56,
+            "text": " So by default when type is equal to submit."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 538.56,
+            "end": 541.56,
+            "text": " So in this way submit is visible on my button automatically."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 541.56,
+            "end": 543.56,
+            "text": " And by clicking it."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 543.56,
+            "end": 545.56,
+            "text": " Now my whole form is being submitted."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 545.56,
+            "end": 548.56,
+            "text": " And I am being redirected to this URL."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 548.56,
+            "end": 549.56,
+            "text": " I can go back."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 549.56,
+            "end": 552.56,
+            "text": " If I want to show click me on this instead of submit."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 552.56,
+            "end": 555.56,
+            "text": " So I can change its value and write there."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 555.56,
+            "end": 557.56,
+            "text": " Click me button 2."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 557.56,
+            "end": 558.56,
+            "text": " Means B2."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 558.56,
+            "end": 559.56,
+            "text": " Let's do this."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 559.56,
+            "end": 560.56,
+            "text": " Save and refresh."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 560.56,
+            "end": 561.56,
+            "text": " So my first button is done."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 561.56,
+            "end": 562.56,
+            "text": " By clicking it nothing is happening."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 562.56,
+            "end": 563.56,
+            "text": " The second button is done."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 563.56,
+            "end": 565.56,
+            "text": " By clicking it my form is submitted."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 565.56,
+            "end": 567.56,
+            "text": " Now with the help of input element."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 567.56,
+            "end": 569.56,
+            "text": " I can create my buttons."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 569.56,
+            "end": 571.56,
+            "text": " But this is not generally advisable."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 571.56,
+            "end": 573.56,
+            "text": " Whenever we will create buttons in HTML."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 573.56,
+            "end": 574.56,
+            "text": " To create them."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 574.56,
+            "end": 577.56,
+            "text": " We are going to use this button tag."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 577.56,
+            "end": 579.56,
+            "text": " With the help of input element."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 579.56,
+            "end": 581.56,
+            "text": " We are not going to create buttons."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 581.56,
+            "end": 582.56,
+            "text": " Because it is not a good way."
+        },
+        {
+            "number": "08",
+            "title": "Button Element",
+            "start": 582.56,
+            "end": 584.56,
+            "text": " To display buttons in HTML."
+        }
+    ],
+    "text": " The next thing we are going to read in the forms is my button element. That is, all the buttons we have seen in the forms till date. Like if I open the form again and show you. Login to Instagram. If I do, then my form is open. Now there are many different buttons on the website. This is my login button. Here it is download the app. Get it on Google Play. These are also buttons in itself. The buttons that happen when you click. If I take out the signup form here. This is the login with Facebook button. This is the signup button. So there are many different buttons on the website. Which we can create. First of all, let's talk about a simple button element. If I want to create a button. Then I simply have to write the opening and closing tag of the button. And the thing that should be visible above the button. I can write that in the middle. So what are we going to do for our form? For the form, we will create a button. Something here. I am going to write a button. And I will write submit on it. Let's save it and refresh. Right now, we can see a grayish old school button. It doesn't look beautiful. But all this styling, beauty, how beautiful the buttons should be. What should be the color, should there be an icon on it or not. We are going to learn all these things in CSS. Now as soon as I click on this button. As soon as I clicked on submit. What happened? Some action was performed. My entire web page disappeared. And now I have come here. What is this? This is something slash action question mark. I can paste it here. I will paste it here. This file slash action was written. So this slash action is the same thing that I had defined in my action attribute in the form. If I had written server instead of action in this form. Let's remove this. And instead of action, let's write server in the form. Let's save this. I am going to refresh this. As soon as I click on submit, what happened here? Slash server started to appear. So what is happening by clicking on the submit button in the form? By clicking on this submit button, my form data is basically being submitted. And all the data is being redirected to this location. So when we were talking in the beginning that with the help of action attribute. We know that the entire information of the form. Where is it going to go? Which file is it going to go to? Which URL is it going to go to? So the same information is going to the slash server. But because the slash server does not exist. We have not created any file or location like this yet. That's why when I click on submit, it shows here that your file could not be accessed. Because it does not exist. Because I have written any random name by slashing here. But when we actually implement the forms. We are sending the data in the javascript file. So here in the action, we are writing a logical thing. But for now, because it is not there, my data is not going anywhere. But it is clear to me that whenever we click on the button. Then some action is definitely performed. Now I am going to show you one more interesting thing about forms. That in the form, I created this button in which I wrote submit. Let's assume I create another button. In which I am going to write hello. If I save this and refresh it. So one button is submitted and the other is hello. Now if I click on hello, then what happened? Then I reached the server. That is, whether I click on the submit button or click on any other button. The default behavior of all the buttons of the form. That is to submit the information of that form. If I remove this hello button from here. Take it to the very beginning of the form. And create it here. Let's refresh it. Even then if I click on hello, my form data will be submitted. So by default, if any button is created in the form. Then whatever title we have written on it, whether it is hello or submit. Its default behavior is to submit all the information of that form. And whatever action has been written in the form, send that information to the data. But if this is the same thing outside the form. That is, if I create a button outside the form. And here I write hello. Let's save this. And I remove this hello button from here. So I can see that the form is starting from here. So my button with hello is outside the form. I refresh this. So now nothing happens by clicking this hello button. That is, what action should be performed by clicking the button outside the form. Its default behavior is nothing. We have to define what will happen by clicking the button. But if I have written any button inside the form. So by default, its job will be to submit the information. Now there are different types of buttons in HTML. Like there are three types of buttons that we are reading. To define their types, we use the type attribute. So there are three different types of buttons. The first button type is submit. That is, I have submitted this in any button. Now if I type type is equal to submit in any button. So its job will be to submit the information. Let's do this. Save and this is my. Let's call it type 1. Refresh. If I click type 1, then its job will be to submit the information. If I make hello type is equal to submit. Let's do this. Save and refresh. Now if I click on hello, then no action will be performed. Because what is the job of submit? Send data from one place to another. So if I have not written the submit button inside the form. So it will not be able to submit any information. So the button outside the form. It does not have any information to submit. So by clicking it, no action of submit will be performed. But yes, if I make a normal simple button inside my form. And if I write submit in its type, then it will work as a submit. The second type inside the button is my simple button type. That is, if I want to make a normal button inside the form. Like if I want to make a hello button here. So I can give its type inside this. Simple button. Now let's do this. Save and refresh. So one of my submit button has been done. By clicking it, the submit is done. The second one is the hello button. Now by clicking the hello button, the submit is not happening. While it was happening before. Because we have explicitly typed its type as button. But by default, its type is submit. The third type of button is the reset button. What does the reset button do? All the things we have written in the form. It will refresh everything. That is, it will reset all the information. It will remove it. Here I create another button. In whose type we are going to write reset. And I will write it here. Reset. Let's do this. Save and now refresh. Now let's say I have written my username here. Or I have written my password here. Or I have entered my age here. Now as soon as I click on reset. All this information will disappear. And my entire form will be empty. So I have seen all three types of buttons. One button inside the form. Or in general, if I have to create buttons outside the form in HTML. Then I can create three types of buttons. First is my submit button. Second is my button type. And third is my reset type. Next we are going to talk about the input element in HTML. In which we can create a button in the form of an input element. When I showed you different types in input. So there is a different type of button type inside the input. So if I want to create a button in my form. So I can also create it with the help of input element. To create that, I have to submit the type. Now what can I write to create a button with the help of input element. I can write input. And there the value of type. First of all, what will we write? First of all, we will write as button. So in this way, I have to create a button. I will go to the next line and create an input element. In which type will be created as my button. Let's do this. Save and refresh. Now a new thing has appeared here. Let's zoom in a little. This is my button. By clicking it, no action has been performed. But I know that a button has come on the screen. But nothing is written on this button. If I want to display something on the button I create with input. So for that I can use the value attribute. So if I write click me on the value attribute. And now refresh it. So I have a button that is being displayed. On which click me is appearing. So in this way, I created a button in the form of an input element. But this button is not working right now. If I want to use this button. Means I want to make a button from the input that can submit information. Then I can use type is equal to submit. So here. With the help of another input. Type is equal to submit. So I will be able to make a button. Let's do this. Save and refresh. Now this submit button has appeared with me. With the help of which line did this appear. When I wrote in HTML input type is equal to submit. One thing you must have noticed. What should be visible on the button. I never defined that. So by default when type is equal to submit. So in this way submit is visible on my button automatically. And by clicking it. Now my whole form is being submitted. And I am being redirected to this URL. I can go back. If I want to show click me on this instead of submit. So I can change its value and write there. Click me button 2. Means B2. Let's do this. Save and refresh. So my first button is done. By clicking it nothing is happening. The second button is done. By clicking it my form is submitted. Now with the help of input element. I can create my buttons. But this is not generally advisable. Whenever we will create buttons in HTML. To create them. We are going to use this button tag. With the help of input element. We are not going to create buttons. Because it is not a good way. To display buttons in HTML."
+}
